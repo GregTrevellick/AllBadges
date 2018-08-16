@@ -62,54 +62,6 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Chrome webstore rating](https://img.shields.io/chrome-web-store/rating/fifncokofckhanlhmdacdnkbempmopbo.svg)](https://chrome.google.com/webstore/detail/visual-studio-marketplace/fifncokofckhanlhmdacdnkbempmopbo/reviews)
 <!--BadgesEND-->
 
-#### MiscellaneousRepo - GitPlayground1<!--BadgesSTART-->
-<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
-[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/GitPlayground1?branch=master)](https://bettercodehub.com/results/GregTrevellick/GitPlayground1)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/GitPlayground1/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/GitPlayground1&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/GitPlayground1/badge)](https://www.codefactor.io/repository/github/GregTrevellick/GitPlayground1)
-[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/GitPlayground1.svg)](https://github.com/GregTrevellick/GitPlayground1)
-[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/GitPlayground1.svg)](https://github.com/GregTrevellick/GitPlayground1)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/GitPlayground1.svg)](https://github.com/GregTrevellick/GitPlayground1/pulls)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/GitPlayground1)
-[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/GitPlayground1.svg)](https://ci.appveyor.com/project/GregTrevellick/GitPlayground1/build/tests)
-[![Access Lint github](https://img.shields.io/badge/a11y-checked-green.svg)](https://www.accesslint.com)
-[![ImgBot](https://img.shields.io/badge/images-optimized-green.svg)](https://imgbot.net/)
-[![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
-[![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-<!--BadgesEND-->
-
-#### MiscellaneousRepo - GitPlayground2<!--BadgesSTART-->
-<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
-[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/GitPlayground2?branch=master)](https://bettercodehub.com/results/GregTrevellick/GitPlayground2)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/GitPlayground2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/GitPlayground2&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/GitPlayground2/badge)](https://www.codefactor.io/repository/github/GregTrevellick/GitPlayground2)
-[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/GitPlayground2.svg)](https://github.com/GregTrevellick/GitPlayground2)
-[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/GitPlayground2.svg)](https://github.com/GregTrevellick/GitPlayground2)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/GitPlayground2.svg)](https://github.com/GregTrevellick/GitPlayground2/pulls)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/GitPlayground2)
-[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/GitPlayground2.svg)](https://ci.appveyor.com/project/GregTrevellick/GitPlayground2/build/tests)
-[![Access Lint github](https://img.shields.io/badge/a11y-checked-green.svg)](https://www.accesslint.com)
-[![ImgBot](https://img.shields.io/badge/images-optimized-green.svg)](https://imgbot.net/)
-[![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
-[![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-<!--BadgesEND-->
-
-#### MiscellaneousRepo - Git-Playground3<!--BadgesSTART-->
-<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
-[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Git-Playground3?branch=master)](https://bettercodehub.com/results/GregTrevellick/Git-Playground3)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/Git-Playground3/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Git-Playground3&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Git-Playground3/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Git-Playground3)
-[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Git-Playground3.svg)](https://github.com/GregTrevellick/Git-Playground3)
-[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Git-Playground3.svg)](https://github.com/GregTrevellick/Git-Playground3)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Git-Playground3.svg)](https://github.com/GregTrevellick/Git-Playground3/pulls)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Git-Playground3)
-[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Git-Playground3.svg)](https://ci.appveyor.com/project/GregTrevellick/Git-Playground3/build/tests)
-[![Access Lint github](https://img.shields.io/badge/a11y-checked-green.svg)](https://www.accesslint.com)
-[![ImgBot](https://img.shields.io/badge/images-optimized-green.svg)](https://imgbot.net/)
-[![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
-[![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-<!--BadgesEND-->
-
 #### MiscellaneousRepo - FilesForEveryExtensionCreator<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/FilesForEveryExtensionCreator?branch=master)](https://bettercodehub.com/results/GregTrevellick/FilesForEveryExtensionCreator)
@@ -332,6 +284,7 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 <!--BadgesEND-->
 
 <!--BadgesEND-->
+
 
 
 
