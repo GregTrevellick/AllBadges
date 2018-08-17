@@ -14,34 +14,18 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 
 <!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
-[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Badges?branch=master)](https://bettercodehub.com/results/GregTrevellick/Badges)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ae0ba4fe11b2442f9690a99245359f53)](https://www.codacy.com/project/gtrevellick/Badges/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Badges&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Badges/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Badges)
-[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Badges.svg)](https://github.com/GregTrevellick/Badges)
-[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Badges.svg)](https://github.com/GregTrevellick/Badges)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Badges.svg)](https://github.com/GregTrevellick/Badges/pulls)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Badges)
-[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Badges.svg)](https://ci.appveyor.com/project/GregTrevellick/Badges/build/tests)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AllBadges?branch=master)](https://bettercodehub.com/results/GregTrevellick/AllBadges)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ae0ba4fe11b2442f9690a99245359f53)](https://www.codacy.com/project/gtrevellick/AllBadges/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AllBadges&amp;utm_campaign=Badge_Grade_Dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges)
+[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AllBadges.svg)](https://github.com/GregTrevellick/AllBadges)
+[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/AllBadges.svg)](https://github.com/GregTrevellick/AllBadges)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/AllBadges.svg)](https://github.com/GregTrevellick/AllBadges/pulls)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AllBadges)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AllBadges.svg)](https://ci.appveyor.com/project/GregTrevellick/AllBadges/build/tests)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-green.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-green.svg)](https://imgbot.net/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-
-#### MiscellaneousRepo - ReadMeSynchronizer<!--BadgesSTART-->
-<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
-[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/ReadMeSynchronizer?branch=master)](https://bettercodehub.com/results/GregTrevellick/ReadMeSynchronizer)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/47d41dfc5df74ceba32dc53ddfd00b28)](https://www.codacy.com/project/gtrevellick/ReadMeSynchronizer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/ReadMeSynchronizer&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer/badge)](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer)
-[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/ReadMeSynchronizer.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
-[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/ReadMeSynchronizer.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/ReadMeSynchronizer.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer/pulls)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer)
-[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/ReadMeSynchronizer.svg)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer/build/tests)
-[![Access Lint github](https://img.shields.io/badge/a11y-checked-green.svg)](https://www.accesslint.com)
-[![ImgBot](https://img.shields.io/badge/images-optimized-green.svg)](https://imgbot.net/)
-[![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
-[![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-<!--BadgesEND-->
 
 #### ChromeExtension - VisualStudioMarketplaceMetrics<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
@@ -110,6 +94,22 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Nuget downloads](https://img.shields.io/nuget/dt/VsixRatingChaser.svg)](https://www.nuget.org/packages/VsixRatingChaser/)
+<!--BadgesEND-->
+
+#### ReadMeSynchronizer - ReadMeSynchronizer<!--BadgesSTART-->
+<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/ReadMeSynchronizer?branch=master)](https://bettercodehub.com/results/GregTrevellick/ReadMeSynchronizer)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/47d41dfc5df74ceba32dc53ddfd00b28)](https://www.codacy.com/project/gtrevellick/ReadMeSynchronizer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/ReadMeSynchronizer&amp;utm_campaign=Badge_Grade_Dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer/badge)](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer)
+[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/ReadMeSynchronizer.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
+[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/ReadMeSynchronizer.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/ReadMeSynchronizer.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer/pulls)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/ReadMeSynchronizer.svg)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer/build/tests)
+[![Access Lint github](https://img.shields.io/badge/a11y-checked-green.svg)](https://www.accesslint.com)
+[![ImgBot](https://img.shields.io/badge/images-optimized-green.svg)](https://imgbot.net/)
+[![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
+[![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 <!--BadgesEND-->
 
 #### VstsExtension - VsixTwitterWidget<!--BadgesSTART-->
@@ -284,6 +284,7 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 <!--BadgesEND-->
 
 <!--BadgesEND-->
+
 
 
 
