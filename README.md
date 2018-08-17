@@ -94,7 +94,7 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE/badge)](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate)
-#### PRs
+#### Pull Requests
 
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VisualStudioMarketplaceMetrics.svg)](https://github.com/GregTrevellick/VisualStudioMarketplaceMetrics/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/pulls)
@@ -352,5 +352,6 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 
 
 <!--BadgesEND-->
+
 
 
