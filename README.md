@@ -26,8 +26,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![ImgBot](https://img.shields.io/badge/images-optimized-green.svg)](https://imgbot.net/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-
-#### ChromeExtension - VisualStudioMarketplaceMetrics<!--BadgesSTART-->
+#### ChromeExtension - VisualStudioMarketplaceMetrics
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VisualStudioMarketplaceMetrics?branch=master)](https://bettercodehub.com/results/GregTrevellick/VisualStudioMarketplaceMetrics)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/146ba12a4f0f4e97aab9692473d41076)](https://www.codacy.com/project/gtrevellick/VisualStudioMarketplaceMetrics/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VisualStudioMarketplaceMetrics&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -46,7 +46,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Chrome webstore rating](https://img.shields.io/chrome-web-store/rating/fifncokofckhanlhmdacdnkbempmopbo.svg)](https://chrome.google.com/webstore/detail/visual-studio-marketplace/fifncokofckhanlhmdacdnkbempmopbo/reviews)
 <!--BadgesEND-->
 
-#### MiscellaneousRepo - FilesForEveryExtensionCreator<!--BadgesSTART-->
+#### MiscellaneousRepo - FilesForEveryExtensionCreator
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/FilesForEveryExtensionCreator?branch=master)](https://bettercodehub.com/results/GregTrevellick/FilesForEveryExtensionCreator)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/35560f38029b47258343156a1866f349)](https://www.codacy.com/project/gtrevellick/FilesForEveryExtensionCreator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/FilesForEveryExtensionCreator&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -62,7 +63,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 <!--BadgesEND-->
 
-#### NugetPackage - DotNetFlags<!--BadgesSTART-->
+#### NugetPackage - DotNetFlags
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/DotNetFlags?branch=master)](https://bettercodehub.com/results/GregTrevellick/DotNetFlags)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3d3a599955b479dbe14f032bdec1be8)](https://www.codacy.com/project/gtrevellick/DotNetFlags/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/DotNetFlags&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -79,7 +81,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Nuget downloads](https://img.shields.io/nuget/dt/DotNetFlags.svg)](https://www.nuget.org/packages/DotNetFlags/)
 <!--BadgesEND-->
 
-#### NugetPackage - VsixRatingChaser<!--BadgesSTART-->
+#### NugetPackage - VsixRatingChaser
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixRatingChaser?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixRatingChaser)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/688c1d5a2ec547faa61230471639cb8f)](https://www.codacy.com/project/gtrevellick/VsixRatingChaser/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixRatingChaser&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -96,7 +99,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Nuget downloads](https://img.shields.io/nuget/dt/VsixRatingChaser.svg)](https://www.nuget.org/packages/VsixRatingChaser/)
 <!--BadgesEND-->
 
-#### ReadMeSynchronizer - ReadMeSynchronizer<!--BadgesSTART-->
+#### ReadMeSynchronizer - ReadMeSynchronizer
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/ReadMeSynchronizer?branch=master)](https://bettercodehub.com/results/GregTrevellick/ReadMeSynchronizer)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/47d41dfc5df74ceba32dc53ddfd00b28)](https://www.codacy.com/project/gtrevellick/ReadMeSynchronizer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/ReadMeSynchronizer&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -112,7 +116,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 <!--BadgesEND-->
 
-#### VstsExtension - VsixTwitterWidget<!--BadgesSTART-->
+#### VstsExtension - VsixTwitterWidget
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixTwitterWidget?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixTwitterWidget)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ec8f9a251ccc4862b40e2f8e60e432ef)](https://www.codacy.com/project/gtrevellick/VsixTwitterWidget/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixTwitterWidget&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -131,7 +136,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-Dev-Humor.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-Dev-Humor)
 <!--BadgesEND-->
 
-#### VsIdeExtension - AutoFindReplace<!--BadgesSTART-->
+#### VsIdeExtension - AutoFindReplace
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AutoFindReplace?branch=master)](https://bettercodehub.com/results/GregTrevellick/AutoFindReplace)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/AutoFindReplace/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AutoFindReplace&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -150,7 +156,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.AutoFindReplace.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AutoFindReplace)
 <!--BadgesEND-->
 
-#### VsIdeExtension - OpenInApp.Launcher<!--BadgesSTART-->
+#### VsIdeExtension - OpenInApp.Launcher
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/OpenInApp.Launcher?branch=master)](https://bettercodehub.com/results/GregTrevellick/OpenInApp.Launcher)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e61c4dba8261497fb447379730e97a25)](https://www.codacy.com/project/gtrevellick/OpenInApp.Launcher/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/OpenInApp.Launcher&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -169,7 +176,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInApp.Launcher.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInApp.Launcher)
 <!--BadgesEND-->
 
-#### VsIdeExtension - QuickLaunchButtons<!--BadgesSTART-->
+#### VsIdeExtension - QuickLaunchButtons
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/QuickLaunchButtons?branch=master)](https://bettercodehub.com/results/GregTrevellick/QuickLaunchButtons)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/def29563a15940cda03af19faac0e006)](https://www.codacy.com/project/gtrevellick/QuickLaunchButtons/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/QuickLaunchButtons&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -188,7 +196,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.QuickLaunchButtons.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.QuickLaunchButtons)
 <!--BadgesEND-->
 
-#### VsIdeExtension - Quiz.Launcher<!--BadgesSTART-->
+#### VsIdeExtension - Quiz.Launcher
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Quiz.Launcher?branch=master)](https://bettercodehub.com/results/GregTrevellick/Quiz.Launcher)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b1a2d4b9fd774d64ae56a8ffdd80b978)](https://www.codacy.com/project/gtrevellick/Quiz.Launcher/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Quiz.Launcher&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -207,7 +216,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.Quiz.Launcher.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Quiz.Launcher)
 <!--BadgesEND-->
 
-#### VsIdeExtension - SolutionOpenPopUp<!--BadgesSTART-->
+#### VsIdeExtension - SolutionOpenPopUp
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/SolutionOpenPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/SolutionOpenPopUp)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23dfefe3b5014fd8b8462b47a3f38c1c)](https://www.codacy.com/project/gtrevellick/SolutionOpenPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/SolutionOpenPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -226,7 +236,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.SolutionOpenPopUp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.SolutionOpenPopUp)
 <!--BadgesEND-->
 
-#### VsIdeExtension - TrivialApisForIDE<!--BadgesSTART-->
+#### VsIdeExtension - TrivialApisForIDE
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/TrivialApisForIDE?branch=master)](https://bettercodehub.com/results/GregTrevellick/TrivialApisForIDE)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/035ab76ee20d45c886d72be824507ab5)](https://www.codacy.com/project/gtrevellick/TrivialApisForIDE/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/TrivialApisForIDE&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -245,7 +256,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.TrivialApisForIDE.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.TrivialApisForIDE)
 <!--BadgesEND-->
 
-#### VsIdeExtension - VsixFootie<!--BadgesSTART-->
+#### VsIdeExtension - VsixFootie
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootie?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootie)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/55911452f4154dd9a5599bd6fae3c725)](https://www.codacy.com/project/gtrevellick/VsixFootie/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootie&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -264,7 +276,8 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixFootie.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixFootie)
 <!--BadgesEND-->
 
-#### VsIdeExtension - VstsDashboardWidgetProjectTemplate<!--BadgesSTART-->
+#### VsIdeExtension - VstsDashboardWidgetProjectTemplate
+<!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VstsDashboardWidgetProjectTemplate?branch=master)](https://bettercodehub.com/results/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/be5d606604c64b81a1ed640a53c671f7)](https://www.codacy.com/project/gtrevellick/VstsDashboardWidgetProjectTemplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VstsDashboardWidgetProjectTemplate&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -283,7 +296,105 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VstsDashboardWidgetProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VstsDashboardWidgetProjectTemplate)
 <!--BadgesEND-->
 
+
 <!--BadgesEND-->
+#### Appveyor Builds
+
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VisualStudioMarketplaceMetrics)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixRatingChaser)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate)
+#### Appveyor Tests
+
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VisualStudioMarketplaceMetrics.svg)](https://ci.appveyor.com/project/GregTrevellick/VisualStudioMarketplaceMetrics/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/DotNetFlags.svg)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixRatingChaser.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixRatingChaser/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/ReadMeSynchronizer.svg)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixTwitterWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AutoFindReplace.svg)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenInApp-Launcher.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/QuickLaunchButtons.svg)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Quiz-Launcher.svg)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/SolutionOpenPopUp.svg)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/TrivialApisForIDE.svg)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootie.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate/build/tests)
+#### Better Code
+
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VisualStudioMarketplaceMetrics?branch=master)](https://bettercodehub.com/results/GregTrevellick/VisualStudioMarketplaceMetrics)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/FilesForEveryExtensionCreator?branch=master)](https://bettercodehub.com/results/GregTrevellick/FilesForEveryExtensionCreator)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/DotNetFlags?branch=master)](https://bettercodehub.com/results/GregTrevellick/DotNetFlags)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixRatingChaser?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixRatingChaser)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/ReadMeSynchronizer?branch=master)](https://bettercodehub.com/results/GregTrevellick/ReadMeSynchronizer)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixTwitterWidget?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixTwitterWidget)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AutoFindReplace?branch=master)](https://bettercodehub.com/results/GregTrevellick/AutoFindReplace)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/OpenInApp.Launcher?branch=master)](https://bettercodehub.com/results/GregTrevellick/OpenInApp.Launcher)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/QuickLaunchButtons?branch=master)](https://bettercodehub.com/results/GregTrevellick/QuickLaunchButtons)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Quiz.Launcher?branch=master)](https://bettercodehub.com/results/GregTrevellick/Quiz.Launcher)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/SolutionOpenPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/SolutionOpenPopUp)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/TrivialApisForIDE?branch=master)](https://bettercodehub.com/results/GregTrevellick/TrivialApisForIDE)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootie?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootie)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VstsDashboardWidgetProjectTemplate?branch=master)](https://bettercodehub.com/results/GregTrevellick/VstsDashboardWidgetProjectTemplate)
+#### Codacy
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/146ba12a4f0f4e97aab9692473d41076)](https://www.codacy.com/project/gtrevellick/VisualStudioMarketplaceMetrics/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VisualStudioMarketplaceMetrics&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/35560f38029b47258343156a1866f349)](https://www.codacy.com/project/gtrevellick/FilesForEveryExtensionCreator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/FilesForEveryExtensionCreator&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3d3a599955b479dbe14f032bdec1be8)](https://www.codacy.com/project/gtrevellick/DotNetFlags/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/DotNetFlags&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/688c1d5a2ec547faa61230471639cb8f)](https://www.codacy.com/project/gtrevellick/VsixRatingChaser/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixRatingChaser&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/47d41dfc5df74ceba32dc53ddfd00b28)](https://www.codacy.com/project/gtrevellick/ReadMeSynchronizer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/ReadMeSynchronizer&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ec8f9a251ccc4862b40e2f8e60e432ef)](https://www.codacy.com/project/gtrevellick/VsixTwitterWidget/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixTwitterWidget&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/AutoFindReplace/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AutoFindReplace&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e61c4dba8261497fb447379730e97a25)](https://www.codacy.com/project/gtrevellick/OpenInApp.Launcher/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/OpenInApp.Launcher&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/def29563a15940cda03af19faac0e006)](https://www.codacy.com/project/gtrevellick/QuickLaunchButtons/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/QuickLaunchButtons&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b1a2d4b9fd774d64ae56a8ffdd80b978)](https://www.codacy.com/project/gtrevellick/Quiz.Launcher/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Quiz.Launcher&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/23dfefe3b5014fd8b8462b47a3f38c1c)](https://www.codacy.com/project/gtrevellick/SolutionOpenPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/SolutionOpenPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/035ab76ee20d45c886d72be824507ab5)](https://www.codacy.com/project/gtrevellick/TrivialApisForIDE/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/TrivialApisForIDE&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/55911452f4154dd9a5599bd6fae3c725)](https://www.codacy.com/project/gtrevellick/VsixFootie/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootie&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/be5d606604c64b81a1ed640a53c671f7)](https://www.codacy.com/project/gtrevellick/VstsDashboardWidgetProjectTemplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VstsDashboardWidgetProjectTemplate&amp;utm_campaign=Badge_Grade_Dashboard)
+#### CodeFactor
+
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VisualStudioMarketplaceMetrics/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VisualStudioMarketplaceMetrics)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags/badge)](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer/badge)](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixTwitterWidget/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixTwitterWidget)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/OpenInApp.Launcher/badge)](https://www.codefactor.io/repository/github/GregTrevellick/OpenInApp.Launcher)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/QuickLaunchButtons/badge)](https://www.codefactor.io/repository/github/GregTrevellick/QuickLaunchButtons)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE/badge)](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate)
+#### PRs
+
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VisualStudioMarketplaceMetrics.svg)](https://github.com/GregTrevellick/VisualStudioMarketplaceMetrics/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/ReadMeSynchronizer.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixTwitterWidget.svg)](https://github.com/GregTrevellick/VsixTwitterWidget/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/AutoFindReplace.svg)](https://github.com/GregTrevellick/AutoFindReplace/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/OpenInApp.Launcher.svg)](https://github.com/GregTrevellick/OpenInApp.Launcher/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/QuickLaunchButtons.svg)](https://github.com/GregTrevellick/QuickLaunchButtons/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/SolutionOpenPopUp.svg)](https://github.com/GregTrevellick/SolutionOpenPopUp/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/TrivialApisForIDE.svg)](https://github.com/GregTrevellick/TrivialApisForIDE/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/pulls)
+
 
 
 
