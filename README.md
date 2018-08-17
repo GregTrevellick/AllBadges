@@ -25,7 +25,7 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/2iy2c8ucrn5mc96o?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/e8fq3ang07ahq8yf?svg=true)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/jqxgkp5agw1seyxo?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i3u8gbuxoql23t9i?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/89c8gp1t0rua9fiw?svg=true)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/iapcrndog6fvdd9l?svg=true)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i7kxey89fewvjkac?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie)
@@ -272,7 +272,7 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher/pulls)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/jqxgkp5agw1seyxo?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i3u8gbuxoql23t9i?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Quiz-Launcher.svg)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher/build/tests)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-green.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-green.svg)](https://imgbot.net/)
@@ -352,6 +352,7 @@ Bonus: the act of creating [Read Me Synchronizer](https://github.com/GregTrevell
 
 
 <!--BadgesEND-->
+
 
 
 
