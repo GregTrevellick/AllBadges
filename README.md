@@ -1,16 +1,4 @@
-# Overview
-
 Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchronizer), this repo contains all the badges for all my repos all in one place.
-
-This means I can:
-  - Manually test all my badges, both cosmetically & functionally, quickly from one place rather than the slow process of checking each repo individually
-  - Ensure badge consistency across many repos
-  - Easily spot problems (failing builds, failing tests, long running branches, etc) with any of my repos all in one place 
-  - Pull / Commit / Undo / Push all my repos via a single click Gulp task
-  - Create my first from-scratch typescript app and learn truck loads en-route
-
-
-## Badges
 
 <!--BadgesSTART-->
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
@@ -354,9 +342,10 @@ This means I can:
 
 <!--BadgesEND-->
 
+## Benefits
 
-
-
-
-
-
+  - Easy to manually test all my badges, both cosmetically & functionally, quickly from one place rather than the slow process of checking each repo individually
+  - Ensure badge consistency across many repos
+  - Easily spot problems (failing builds, failing tests, long running branches, etc) with any of my repos all in one place 
+  - Pull / Commit / Undo / Push all my repos via a single click Gulp task
+  - Create my first from-scratch typescript app
