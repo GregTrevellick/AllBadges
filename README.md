@@ -99,6 +99,8 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/pulls)
 
+## Per Repo
+#### Parent - AllBadges
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AllBadges?branch=master)](https://bettercodehub.com/results/GregTrevellick/AllBadges)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5382464b5e5a47a2a67c3504142869d3)](https://www.codacy.com/project/gtrevellick/AllBadges/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AllBadges&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges)
@@ -341,6 +343,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 
 
 <!--BadgesEND-->
+
 
 ## Benefits
 
