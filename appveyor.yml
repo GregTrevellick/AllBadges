@@ -1,9 +1,9 @@
 version: 1.0.{build}
 image: Visual Studio 2017
 before_build:
-- cmd: nuget restore AllBadges.sln
+- cmd: nuget restore Src/AllBadges.sln
 build:
-  project: AllBadges.sln
+  project: Src/AllBadges.sln
   verbosity: minimal
 notifications:
 - provider: Email
