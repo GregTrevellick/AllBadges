@@ -1,6 +1,7 @@
 Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchronizer), this repo contains all the badges for all my repos all in one place.
 
 <!--BadgesSTART-->
+[![Read Me Synchronizer](https://img.shields.io/badge/-badges%20powered%20by%20Read%20Me%20Synchronizer-green.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 ##### Appveyor Builds
 
@@ -664,3 +665,9 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
   - Easily spot problems (failing builds, failing tests, long running branches, etc) with any of my repos all in one place 
   - Pull / Commit / Undo / Push all my repos via a single click Gulp task
   - Create my first from-scratch typescript app
+
+## Credits
+
+[Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchronizer)
+
+[Shields.io](https://shields.io/#/)
