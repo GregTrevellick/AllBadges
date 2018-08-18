@@ -112,7 +112,7 @@ This means I can:
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/pulls)
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AllBadges?branch=master)](https://bettercodehub.com/results/GregTrevellick/AllBadges)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ae0ba4fe11b2442f9690a99245359f53)](https://www.codacy.com/project/gtrevellick/AllBadges/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AllBadges&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5382464b5e5a47a2a67c3504142869d3)](https://www.codacy.com/project/gtrevellick/AllBadges/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AllBadges&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AllBadges.svg)](https://github.com/GregTrevellick/AllBadges)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/AllBadges.svg)](https://github.com/GregTrevellick/AllBadges)
@@ -353,6 +353,7 @@ This means I can:
 
 
 <!--BadgesEND-->
+
 
 
 
