@@ -1,10 +1,18 @@
 version: 1.0.{build}
 image: Visual Studio 2017
+environment:
+    my_encrypted_sonarqube_token:
+        secure: 94Py9ytqrmqFVtmUiyayJJ4Hgg2vjF1+YuRJldGGWO82/9zEens+sCjeh7wzc2Le
+install:
+    - choco install "sonarscanner-msbuild-net46" -y
 before_build:
-- cmd: nuget restore Src/AllBadges.sln
+    - cmd: nuget restore Src/AllBadges.sln
+    - SonarScanner.MSBuild.exe begin /k:"AllBadges" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
 build:
   project: Src/AllBadges.sln
   verbosity: minimal
+after_build:
+    - SonarScanner.MSBuild.exe end /d:"sonar.login=%my_encrypted_sonarqube_token%"
 notifications:
 - provider: Email
   to:
