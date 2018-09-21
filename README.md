@@ -17,6 +17,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i3u8gbuxoql23t9i?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/89c8gp1t0rua9fiw?svg=true)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/iapcrndog6fvdd9l?svg=true)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/wg65x8dnr41whrpi?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i7kxey89fewvjkac?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9uoctpmaj9wj6gjc?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 ##### AppveyorUnitTests
@@ -33,6 +34,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Quiz-Launcher.svg)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/SolutionOpenPopUp.svg)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/TrivialApisForIDE.svg)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootball.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootie.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate/build/tests)
 ##### BetterCodeHubCompliance
@@ -49,6 +51,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Quiz.Launcher?branch=master)](https://bettercodehub.com/results/GregTrevellick/Quiz.Launcher)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/SolutionOpenPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/SolutionOpenPopUp)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/TrivialApisForIDE?branch=master)](https://bettercodehub.com/results/GregTrevellick/TrivialApisForIDE)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootball?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootball)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootie?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootie)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VstsDashboardWidgetProjectTemplate?branch=master)](https://bettercodehub.com/results/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 ##### CodacyBadge
@@ -65,6 +68,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b1a2d4b9fd774d64ae56a8ffdd80b978)](https://www.codacy.com/project/gtrevellick/Quiz.Launcher/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Quiz.Launcher&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23dfefe3b5014fd8b8462b47a3f38c1c)](https://www.codacy.com/project/gtrevellick/SolutionOpenPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/SolutionOpenPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/035ab76ee20d45c886d72be824507ab5)](https://www.codacy.com/project/gtrevellick/TrivialApisForIDE/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/TrivialApisForIDE&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/55911452f4154dd9a5599bd6fae3c725)](https://www.codacy.com/project/gtrevellick/VsixFootball/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootball&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/55911452f4154dd9a5599bd6fae3c725)](https://www.codacy.com/project/gtrevellick/VsixFootie/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootie&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/be5d606604c64b81a1ed640a53c671f7)](https://www.codacy.com/project/gtrevellick/VstsDashboardWidgetProjectTemplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VstsDashboardWidgetProjectTemplate&amp;utm_campaign=Badge_Grade_Dashboard)
 ##### CodeFactor
@@ -81,6 +85,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE/badge)](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 ##### GitHubPullRequests
@@ -97,6 +102,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/SolutionOpenPopUp.svg)](https://github.com/GregTrevellick/SolutionOpenPopUp/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/TrivialApisForIDE.svg)](https://github.com/GregTrevellick/TrivialApisForIDE/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/pulls)
 ##### SonarQualityGateStatus
@@ -113,6 +119,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=alert_status)](https://sonarcloud.io/dashboard?id=Quiz.Launcher)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=alert_status)](https://sonarcloud.io/dashboard?id=SolutionOpenPopUp)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=alert_status)](https://sonarcloud.io/dashboard?id=TrivialApisForIDE)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=alert_status)](https://sonarcloud.io/dashboard?id=VsixFootball)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=alert_status)](https://sonarcloud.io/dashboard?id=VsixFootie)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=alert_status)](https://sonarcloud.io/dashboard?id=VstsDashboardWidgetProjectTemplate)
 ##### SonarBugs
@@ -129,6 +136,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=bugs)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=bugs)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=bugs)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=bugs)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=bugs)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=bugs)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=bugs)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=bugs)
 ##### SonarCodeSmells
@@ -145,6 +153,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=code_smells)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=code_smells)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=code_smells)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=code_smells)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=code_smells)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=code_smells)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=code_smells)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=code_smells)
 ##### SonarCoverage
@@ -161,6 +170,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=coverage)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=coverage)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=coverage)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=Coverage)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=coverage)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=coverage)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=coverage)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=Coverage)
 ##### SonarDuplicatedLinesDensity
@@ -177,6 +187,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=duplicated_lines)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=duplicated_lines)
 ##### SonarNumberOfLinesOfCode
@@ -193,6 +204,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=ncloc)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=ncloc)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=ncloc)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=ncloc)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=ncloc)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=ncloc)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=ncloc)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=ncloc)
 ##### SonarReliabilityRating
@@ -209,6 +221,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=reliability_rating)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=reliability_rating)
 ##### SonarSecurityRating
@@ -225,6 +238,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=security_rating)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=security_rating)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=security_rating)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=security_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=security_rating)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=security_rating)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=security_rating)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=security_rating)
 ##### SonarTechnicalDebt
@@ -241,6 +255,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=sqale_index)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=sqale_index)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=sqale_index)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=sqale_index)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=sqale_index)
 ##### SonarMaintainability
@@ -257,6 +272,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=sqale_rating)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=sqale_rating)
 ##### SonarVulnerabilities
@@ -273,6 +289,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=vulnerabilities)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=vulnerabilities)
 
@@ -941,6 +958,39 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.NumericTrivia.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.NumericTrivia)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.NumericTrivia.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.NumericTrivia)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.NumericTrivia.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.NumericTrivia)
+
+
+
+#####  [VsIdeExtension - VsixFootball](https://github.com/GregTrevellick/VsixFootball)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootball?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootball)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/55911452f4154dd9a5599bd6fae3c725)](https://www.codacy.com/project/gtrevellick/VsixFootball/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootball&amp;utm_campaign=Badge_Grade_Dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball)
+[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
+[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball/pulls)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=alert_status)](https://sonarcloud.io/dashboard?id=VsixFootball)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=bugs)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=bugs)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=code_smells)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=code_smells)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=coverage)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=Coverage)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=duplicated_lines)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=ncloc)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=ncloc)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=reliability_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=security_rating)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=security_rating)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=sqale_index)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=sqale_rating)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=vulnerabilities)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/wg65x8dnr41whrpi?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootball.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball/build/tests)
+[![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
+[![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
+[![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
+[![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
+[![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-Football-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.Football.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.Football.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.Football.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
 
 
 
