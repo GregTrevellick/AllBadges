@@ -44,7 +44,9 @@ Click to expand
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ola9n1um34vha0x4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eg1nxsm1a3c754al?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ktrqskiaastij4jd?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixDotNetCorePoc)
+
 </details>
+
 ##### AppveyorUnitTests
 <details>
 <summary>
@@ -86,7 +88,9 @@ Click to expand
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVstsExtension.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixDotNetCorePoc.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixDotNetCorePoc/build/tests)
+
 </details>
+
 ##### BetterCodeHubCompliance
 <details>
 <summary>
@@ -128,7 +132,9 @@ Click to expand
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVstsExtension?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVstsExtension)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixDotNetCorePoc?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixDotNetCorePoc)
+
 </details>
+
 ##### CodacyBadge
 <details>
 <summary>
@@ -170,7 +176,9 @@ Click to expand
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c49e26432e541c5861195ed4a425ac8)](https://www.codacy.com/project/gtrevellick/HelloWorldVstsExtension/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVstsExtension&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e4580e8133e04b8aa209252e37f3d1c6)](https://www.codacy.com/project/gtrevellick/HelloWorldWpfAsyncBindingPropertyExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e2fa50e29fea429897c304c79e9d9479)](https://www.codacy.com/project/gtrevellick/VsixDotNetCorePoc/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixDotNetCorePoc&amp;utm_campaign=Badge_Grade_Dashboard)
+
 </details>
+
 ##### CodeFactor
 <details>
 <summary>
@@ -212,7 +220,9 @@ Click to expand
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixDotNetCorePoc/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixDotNetCorePoc)
+
 </details>
+
 ##### GitHubIssues
 <details>
 <summary>
@@ -254,7 +264,9 @@ Click to expand
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVstsExtension.svg)](https://github.com/GregTrevellick/HelloWorldVstsExtension/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixDotNetCorePoc.svg)](https://github.com/GregTrevellick/VsixDotNetCorePoc/issues)
+
 </details>
+
 ##### GitHubPullRequests
 <details>
 <summary>
@@ -296,7 +308,9 @@ Click to expand
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/HelloWorldVstsExtension.svg)](https://github.com/GregTrevellick/HelloWorldVstsExtension/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixDotNetCorePoc.svg)](https://github.com/GregTrevellick/VsixDotNetCorePoc/pulls)
+
 </details>
+
 ##### SonarQualityGateStatus
 <details>
 <summary>
@@ -338,7 +352,9 @@ Click to expand
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldVstsExtension)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldWpfAsyncBindingPropertyExample)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=alert_status)](https://sonarcloud.io/dashboard?id=VsixDotNetCorePoc)
+
 </details>
+
 ##### SonarBugs
 <details>
 <summary>
@@ -380,7 +396,9 @@ Click to expand
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=bugs)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=bugs)
+
 </details>
+
 ##### SonarCodeSmells
 <details>
 <summary>
@@ -422,7 +440,9 @@ Click to expand
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=code_smells)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=code_smells)
+
 </details>
+
 ##### SonarCoverage
 <details>
 <summary>
@@ -464,7 +484,9 @@ Click to expand
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=coverage)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=Coverage)
+
 </details>
+
 ##### SonarDuplicatedLinesDensity
 <details>
 <summary>
@@ -506,7 +528,9 @@ Click to expand
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=duplicated_lines)
+
 </details>
+
 ##### SonarNumberOfLinesOfCode
 <details>
 <summary>
@@ -548,7 +572,9 @@ Click to expand
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=ncloc)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=ncloc)
+
 </details>
+
 ##### SonarReliabilityRating
 <details>
 <summary>
@@ -590,7 +616,9 @@ Click to expand
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=reliability_rating)
+
 </details>
+
 ##### SonarSecurityRating
 <details>
 <summary>
@@ -632,7 +660,9 @@ Click to expand
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=security_rating)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=security_rating)
+
 </details>
+
 ##### SonarTechnicalDebt
 <details>
 <summary>
@@ -674,7 +704,9 @@ Click to expand
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=sqale_index)
+
 </details>
+
 ##### SonarMaintainability
 <details>
 <summary>
@@ -716,7 +748,9 @@ Click to expand
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=sqale_rating)
+
 </details>
+
 ##### SonarVulnerabilities
 <details>
 <summary>
@@ -758,7 +792,9 @@ Click to expand
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=vulnerabilities)
+
 </details>
+
 
 ### Per Repo
 #####  [Parent - AllBadges](https://github.com/GregTrevellick/AllBadges)
@@ -821,7 +857,9 @@ Click to expand
 [![Chrome webstore users](https://img.shields.io/chrome-web-store/users/fifncokofckhanlhmdacdnkbempmopbo.svg)](https://chrome.google.com/webstore/detail/visual-studio-marketplace/fifncokofckhanlhmdacdnkbempmopbo)
 [![Chrome webstore rating](https://img.shields.io/chrome-web-store/rating/fifncokofckhanlhmdacdnkbempmopbo.svg)](https://chrome.google.com/webstore/detail/visual-studio-marketplace/fifncokofckhanlhmdacdnkbempmopbo/reviews)
 
+
 </details>
+
 #####  [MiscellaneousRepo - BrowserExtensionUsingAngularWorksInChromeNotInEdge](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
 <details>
 <summary>
@@ -853,7 +891,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [MiscellaneousRepo - FilesForEveryExtensionCreator](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
 <details>
 <summary>
@@ -885,7 +925,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [MiscellaneousRepo - MiscellaneousArtefacts](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 <details>
 <summary>
@@ -917,7 +959,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [MiscellaneousRepo - More](https://github.com/GregTrevellick/More)
 <details>
 <summary>
@@ -949,7 +993,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [NugetPackage - DotNetFlags](https://github.com/GregTrevellick/DotNetFlags)
 <details>
 <summary>
@@ -982,7 +1028,9 @@ Click to expand
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Nuget downloads](https://img.shields.io/nuget/dt/DotNetFlags.svg)](https://www.nuget.org/packages/DotNetFlags/)
 
+
 </details>
+
 #####  [NugetPackage - VsixRatingChaser](https://github.com/GregTrevellick/VsixRatingChaser)
 <details>
 <summary>
@@ -1015,7 +1063,9 @@ Click to expand
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Nuget downloads](https://img.shields.io/nuget/dt/VsixRatingChaser.svg)](https://www.nuget.org/packages/VsixRatingChaser/)
 
+
 </details>
+
 #####  [ReadMeSynchronizer - ReadMeSynchronizer](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <details>
 <summary>
@@ -1047,7 +1097,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [VsIdeExtension - AzureDevOpsRotaWidget](https://github.com/GregTrevellick/AzureDevOpsRotaWidget)
 <details>
 <summary>
@@ -1086,7 +1138,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [VstsExtension - VsixTwitterWidget](https://github.com/GregTrevellick/VsixTwitterWidget)
 <details>
 <summary>
@@ -1257,7 +1311,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [VsIdeExtension - AutoFindReplace](https://github.com/GregTrevellick/AutoFindReplace)
 <details>
 <summary>
@@ -1296,7 +1352,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [VsIdeExtension - OpenInApp.Launcher](https://github.com/GregTrevellick/OpenInApp.Launcher)
 <details>
 <summary>
@@ -1473,7 +1531,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [VsIdeExtension - QuickLaunchButtons](https://github.com/GregTrevellick/QuickLaunchButtons)
 <details>
 <summary>
@@ -1518,7 +1578,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [VsIdeExtension - Quiz.Launcher](https://github.com/GregTrevellick/Quiz.Launcher)
 <details>
 <summary>
@@ -1557,7 +1619,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [VsIdeExtension - SolutionOpenPopUp](https://github.com/GregTrevellick/SolutionOpenPopUp)
 <details>
 <summary>
@@ -1596,7 +1660,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [VsIdeExtension - TrivialApisForIDE](https://github.com/GregTrevellick/TrivialApisForIDE)
 <details>
 <summary>
@@ -1647,7 +1713,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [VsIdeExtension - VsixBlazorMinimalProjectTemplate](https://github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate)
 <details>
 <summary>
@@ -1686,7 +1754,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [VsIdeExtension - VsixFootball](https://github.com/GregTrevellick/VsixFootball)
 <details>
 <summary>
@@ -1725,7 +1795,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [VsIdeExtension - VsixFootie](https://github.com/GregTrevellick/VsixFootie)
 <details>
 <summary>
@@ -1764,7 +1836,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [VsIdeExtension - VstsDashboardWidgetProjectTemplate](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 <details>
 <summary>
@@ -1803,7 +1877,9 @@ Click to expand
 
 
 
+
 </details>
+
 #####  [Forks - AngularBasic](https://github.com/GregTrevellick/AngularBasic)
 <details>
 <summary>
@@ -1835,7 +1911,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [Forks - awib](https://github.com/GregTrevellick/awib)
 <details>
 <summary>
@@ -1867,7 +1945,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [Forks - Gregt.sidewafflev2](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 <details>
 <summary>
@@ -1899,7 +1979,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [Forks - MeneesVsTools2017](https://github.com/GregTrevellick/MeneesVsTools2017)
 <details>
 <summary>
@@ -1931,7 +2013,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [Forks - OpenCoverExample](https://github.com/GregTrevellick/OpenCoverExample)
 <details>
 <summary>
@@ -1963,7 +2047,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [Forks - RenameProjectVsExtension](https://github.com/GregTrevellick/RenameProjectVsExtension)
 <details>
 <summary>
@@ -1995,7 +2081,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [HelloWorld - HelloWorldBlazor](https://github.com/GregTrevellick/HelloWorldBlazor)
 <details>
 <summary>
@@ -2027,7 +2115,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [HelloWorld - HelloWorldTypescriptParcel](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
 <details>
 <summary>
@@ -2059,7 +2149,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [HelloWorld - HelloWorldTypescriptWebpack](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack)
 <details>
 <summary>
@@ -2091,7 +2183,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [HelloWorld - HelloWorldVsixPopUp](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 <details>
 <summary>
@@ -2123,7 +2217,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [HelloWorld - HelloWorldVsixToolBar](https://github.com/GregTrevellick/HelloWorldVsixToolBar)
 <details>
 <summary>
@@ -2155,7 +2251,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [HelloWorld - HelloWorldVsixToolWindowAsyncPackageExample](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 <details>
 <summary>
@@ -2187,7 +2285,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [HelloWorld - HelloWorldVstsExtension](https://github.com/GregTrevellick/HelloWorldVstsExtension)
 <details>
 <summary>
@@ -2219,7 +2319,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [HelloWorld - HelloWorldWpfAsyncBindingPropertyExample](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 <details>
 <summary>
@@ -2251,7 +2353,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 #####  [HelloWorld - VsixDotNetCorePoc](https://github.com/GregTrevellick/VsixDotNetCorePoc)
 <details>
 <summary>
@@ -2283,7 +2387,9 @@ Click to expand
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+
 </details>
+
 
 <!--BadgesEND-->
 
