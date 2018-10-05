@@ -96,6 +96,52 @@ Click to expand or collapse
 </details>
 
 
+##### AzurePipelineBuildStatus
+<details>
+<summary>
+Click to expand or collapse
+</summary>
+
+
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/VisualStudioMarketplaceMetrics)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/BrowserExtensionUsingAngularWorksInChromeNotInEdge)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/FilesForEveryExtensionCreator)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/MiscellaneousArtefacts)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/More)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/DotNetFlags)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/VsixRatingChaser)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/ReadMeSynchronizer)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/AzureDevOpsRotaWidget)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/VsixTwitterWidget)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/AutoFindReplace)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/OpenInApp.Launcher)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/QuickLaunchButtons)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/Quiz.Launcher)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/SolutionOpenPopUp)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/TrivialApisForIDE)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/VsixBlazorMinimalProjectTemplate)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/VsixFootball)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/VsixFootie)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/VstsDashboardWidgetProjectTemplate)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/AngularBasic)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/awib)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/Gregt.sidewafflev2)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/Menees.VsTools.2017)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/OpenCoverExample)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/RenameProjectVsExtension)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/HelloWorldBlazor)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/HelloWorldTypescriptParcel)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/HelloWorldTypescriptWebpack)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/HelloWorldVsixPopUp)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/HelloWorldVsixToolBar)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/HelloWorldVsixToolWindowAsyncPackageExample)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/HelloWorldVstsExtension)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/HelloWorldWpfAsyncBindingPropertyExample)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_apis/build/status/VsixDotNetCorePoc)](https://gregtrevellick.visualstudio.com/GitHubAzurePipeline/_build/latest?definitionId=1)
+
+</details>
+
+
 ##### BetterCodeHubCompliance
 <details>
 <summary>
