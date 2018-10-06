@@ -879,7 +879,7 @@ Click to expand or collapse
 
 
 ## Per Repo
-#####  [Parent - AllBadges](https://github.com/GregTrevellick/AllBadges)
+#####  [AllBadges](https://github.com/GregTrevellick/AllBadges)
 **[Subscribe](https://github.com/GregTrevellick/AllBadges/subscription) to receive notificatons.**
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AllBadges?branch=master)](https://bettercodehub.com/results/GregTrevellick/AllBadges)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5382464b5e5a47a2a67c3504142869d3)](https://www.codacy.com/project/gtrevellick/AllBadges/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AllBadges&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -908,7 +908,7 @@ Click to expand or collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
-#####  [ChromeExtension - VisualStudioMarketplaceMetrics](https://github.com/GregTrevellick/VisualStudioMarketplaceMetrics)
+#####  [VisualStudioMarketplaceMetrics](https://github.com/GregTrevellick/VisualStudioMarketplaceMetrics)
 <details open>
 <summary>
 Click to expand or collapse
@@ -949,7 +949,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [MiscellaneousRepo - BrowserExtensionUsingAngularWorksInChromeNotInEdge](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
+#####  [BrowserExtensionUsingAngularWorksInChromeNotInEdge](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
 <details open>
 <summary>
 Click to expand or collapse
@@ -987,7 +987,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [MiscellaneousRepo - FilesForEveryExtensionCreator](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
+#####  [FilesForEveryExtensionCreator](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1025,7 +1025,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [MiscellaneousRepo - MiscellaneousArtefacts](https://github.com/GregTrevellick/MiscellaneousArtefacts)
+#####  [MiscellaneousArtefacts](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1063,7 +1063,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [MiscellaneousRepo - More](https://github.com/GregTrevellick/More)
+#####  [More](https://github.com/GregTrevellick/More)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1101,7 +1101,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [NugetPackage - DotNetFlags](https://github.com/GregTrevellick/DotNetFlags)
+#####  [DotNetFlags](https://github.com/GregTrevellick/DotNetFlags)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1140,7 +1140,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [NugetPackage - VsixRatingChaser](https://github.com/GregTrevellick/VsixRatingChaser)
+#####  [VsixRatingChaser](https://github.com/GregTrevellick/VsixRatingChaser)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1179,7 +1179,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [ReadMeSynchronizer - ReadMeSynchronizer](https://github.com/GregTrevellick/ReadMeSynchronizer)
+#####  [ReadMeSynchronizer](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1217,7 +1217,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VsIdeExtension - AzureDevOpsRotaWidget](https://github.com/GregTrevellick/AzureDevOpsRotaWidget)
+#####  [AzureDevOpsRotaWidget](https://github.com/GregTrevellick/AzureDevOpsRotaWidget)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1262,7 +1262,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VstsExtension - VsixTwitterWidget](https://github.com/GregTrevellick/VsixTwitterWidget)
+#####  [VsixTwitterWidget](https://github.com/GregTrevellick/VsixTwitterWidget)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1439,7 +1439,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VsIdeExtension - AutoFindReplace](https://github.com/GregTrevellick/AutoFindReplace)
+#####  [AutoFindReplace](https://github.com/GregTrevellick/AutoFindReplace)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1484,7 +1484,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VsIdeExtension - OpenInApp.Launcher](https://github.com/GregTrevellick/OpenInApp.Launcher)
+#####  [OpenInApp.Launcher](https://github.com/GregTrevellick/OpenInApp.Launcher)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1667,7 +1667,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VsIdeExtension - QuickLaunchButtons](https://github.com/GregTrevellick/QuickLaunchButtons)
+#####  [QuickLaunchButtons](https://github.com/GregTrevellick/QuickLaunchButtons)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1718,7 +1718,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VsIdeExtension - Quiz.Launcher](https://github.com/GregTrevellick/Quiz.Launcher)
+#####  [Quiz.Launcher](https://github.com/GregTrevellick/Quiz.Launcher)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1763,7 +1763,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VsIdeExtension - SolutionOpenPopUp](https://github.com/GregTrevellick/SolutionOpenPopUp)
+#####  [SolutionOpenPopUp](https://github.com/GregTrevellick/SolutionOpenPopUp)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1808,7 +1808,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VsIdeExtension - TrivialApisForIDE](https://github.com/GregTrevellick/TrivialApisForIDE)
+#####  [TrivialApisForIDE](https://github.com/GregTrevellick/TrivialApisForIDE)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1865,7 +1865,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VsIdeExtension - VsixBlazorMinimalProjectTemplate](https://github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate)
+#####  [VsixBlazorMinimalProjectTemplate](https://github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1910,7 +1910,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VsIdeExtension - VsixFootball](https://github.com/GregTrevellick/VsixFootball)
+#####  [VsixFootball](https://github.com/GregTrevellick/VsixFootball)
 <details open>
 <summary>
 Click to expand or collapse
@@ -1955,7 +1955,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VsIdeExtension - VsixFootie](https://github.com/GregTrevellick/VsixFootie)
+#####  [VsixFootie](https://github.com/GregTrevellick/VsixFootie)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2000,7 +2000,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [VsIdeExtension - VstsDashboardWidgetProjectTemplate](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate)
+#####  [VstsDashboardWidgetProjectTemplate](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2045,7 +2045,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [Forks - AngularBasic](https://github.com/GregTrevellick/AngularBasic)
+#####  [AngularBasic](https://github.com/GregTrevellick/AngularBasic)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2083,7 +2083,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [Forks - awib](https://github.com/GregTrevellick/awib)
+#####  [awib](https://github.com/GregTrevellick/awib)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2121,7 +2121,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [Forks - Gregt.sidewafflev2](https://github.com/GregTrevellick/Gregt.sidewafflev2)
+#####  [Gregt.sidewafflev2](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2159,7 +2159,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [Forks - Menees.VsTools.2017](https://github.com/GregTrevellick/Menees.VsTools.2017)
+#####  [Menees.VsTools.2017](https://github.com/GregTrevellick/Menees.VsTools.2017)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2197,7 +2197,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [Forks - OpenCoverExample](https://github.com/GregTrevellick/OpenCoverExample)
+#####  [OpenCoverExample](https://github.com/GregTrevellick/OpenCoverExample)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2235,7 +2235,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [Forks - RenameProjectVsExtension](https://github.com/GregTrevellick/RenameProjectVsExtension)
+#####  [RenameProjectVsExtension](https://github.com/GregTrevellick/RenameProjectVsExtension)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2273,7 +2273,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [HelloWorld - HelloWorldBlazor](https://github.com/GregTrevellick/HelloWorldBlazor)
+#####  [HelloWorldBlazor](https://github.com/GregTrevellick/HelloWorldBlazor)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2311,7 +2311,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [HelloWorld - HelloWorldTypescriptParcel](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
+#####  [HelloWorldTypescriptParcel](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2349,7 +2349,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [HelloWorld - HelloWorldTypescriptWebpack](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack)
+#####  [HelloWorldTypescriptWebpack](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2387,7 +2387,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [HelloWorld - HelloWorldVsixPopUp](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
+#####  [HelloWorldVsixPopUp](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2425,7 +2425,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [HelloWorld - HelloWorldVsixToolBar](https://github.com/GregTrevellick/HelloWorldVsixToolBar)
+#####  [HelloWorldVsixToolBar](https://github.com/GregTrevellick/HelloWorldVsixToolBar)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2463,7 +2463,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [HelloWorld - HelloWorldVsixToolWindowAsyncPackageExample](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
+#####  [HelloWorldVsixToolWindowAsyncPackageExample](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2501,7 +2501,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [HelloWorld - HelloWorldVstsExtension](https://github.com/GregTrevellick/HelloWorldVstsExtension)
+#####  [HelloWorldVstsExtension](https://github.com/GregTrevellick/HelloWorldVstsExtension)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2539,7 +2539,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [HelloWorld - HelloWorldWpfAsyncBindingPropertyExample](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
+#####  [HelloWorldWpfAsyncBindingPropertyExample](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 <details open>
 <summary>
 Click to expand or collapse
@@ -2577,7 +2577,7 @@ Click to expand or collapse
 </details>
 
 
-#####  [HelloWorld - VsixDotNetCorePoc](https://github.com/GregTrevellick/VsixDotNetCorePoc)
+#####  [VsixDotNetCorePoc](https://github.com/GregTrevellick/VsixDotNetCorePoc)
 <details open>
 <summary>
 Click to expand or collapse
