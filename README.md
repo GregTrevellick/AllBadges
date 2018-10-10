@@ -1,8 +1,8 @@
 Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchronizer), this repo contains all the badges for all my repos all in one place.
 
 <!--BadgesSTART-->
-[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
-<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
+[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/undefined/ReadMeSynchronizer)
+<!-- Powered by https://github.com/undefined/ReadMeSynchronizer -->
 
 ##### AppveyorBuildStatus
 <details open>
@@ -11,6 +11,7 @@ Click to expand or collapse
 </summary>
 
 
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9u37xi3cuan7qxpa?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AngularBasic)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/2iy2c8ucrn5mc96o?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/903t2c7smsutgf8e?svg=true)](https://ci.appveyor.com/project/GregTrevellick/awib)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/01islyin3t8bsxoe?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget)
@@ -26,7 +27,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/1fha75b06hpw2lip?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ola9n1um34vha0x4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eg1nxsm1a3c754al?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/fl77g7npbyb91h8r?svg=true)](https://ci.appveyor.com/project/GregTrevellick/MiscellaneousArtefacts)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/403ut9uqnu4yv7ln?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Menees-VsTools.2017)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eiso821168e15t9e?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/e8fq3ang07ahq8yf?svg=true)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons)
@@ -54,6 +55,7 @@ Click to expand or collapse
 </summary>
 
 
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AngularBasic.svg)](https://ci.appveyor.com/project/GregTrevellick/AngularBasic/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AutoFindReplace.svg)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/awib.svg)](https://ci.appveyor.com/project/GregTrevellick/awib/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsRotaWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget/build/tests)
@@ -69,7 +71,7 @@ Click to expand or collapse
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVstsExtension.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/build/tests)
-[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/MiscellaneousArtefacts.svg)](https://ci.appveyor.com/project/GregTrevellick/MiscellaneousArtefacts/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Menees-VsTools.2017.svg)](https://ci.appveyor.com/project/GregTrevellick/Menees-VsTools.2017/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenCoverExample.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenInApp-Launcher.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/QuickLaunchButtons.svg)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons/build/tests)
@@ -99,7 +101,6 @@ Click to expand or collapse
 
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AngularBasic/_apis/build/status/AngularBasic)](https://gregtrevellick.visualstudio.com/AngularBasic/_build/latest?definitionId=36)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AutoFindReplace/_apis/build/status/AutoFindReplace)](https://gregtrevellick.visualstudio.com/AutoFindReplace/_build/latest?definitionId=4)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/awib/_apis/build/status/awib)](https://gregtrevellick.visualstudio.com/awib/_build/latest?definitionId=)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_apis/build/status/AzureDevOpsRotaWidget)](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_build/latest?definitionId=13)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/BrowserExtensionUsingAngularWorksInChromeNotInEdge/_apis/build/status/BrowserExtensionUsingAngularWorksInChromeNotInEdge)](https://gregtrevellick.visualstudio.com/BrowserExtensionUsingAngularWorksInChromeNotInEdge/_build/latest?definitionId=14)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/DotNetFlags/_apis/build/status/DotNetFlags)](https://gregtrevellick.visualstudio.com/DotNetFlags/_build/latest?definitionId=1)
@@ -113,7 +114,6 @@ Click to expand or collapse
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolWindowAsyncPackageExample/_apis/build/status/HelloWorldVsixToolWindowAsyncPackageExample)](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolWindowAsyncPackageExample/_build/latest?definitionId=26)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_apis/build/status/HelloWorldVstsExtension)](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_build/latest?definitionId=35)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldWpfAsyncBindingPropertyExample/_apis/build/status/HelloWorldWpfAsyncBindingPropertyExample)](https://gregtrevellick.visualstudio.com/HelloWorldWpfAsyncBindingPropertyExample/_build/latest?definitionId=27)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/Menees.VsTools.2017/_apis/build/status/Menees.VsTools.2017)](https://gregtrevellick.visualstudio.com/Menees.VsTools.2017/_build/latest?definitionId=16)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/MiscellaneousArtefacts/_apis/build/status/MiscellaneousArtefacts)](https://gregtrevellick.visualstudio.com/MiscellaneousArtefacts/_build/latest?definitionId=)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/More/_apis/build/status/More)](https://gregtrevellick.visualstudio.com/More/_build/latest?definitionId=)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/OpenCoverExample/_apis/build/status/OpenCoverExample)](https://gregtrevellick.visualstudio.com/OpenCoverExample/_build/latest?definitionId=28)
@@ -1314,8 +1314,8 @@ Click to expand or collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=vulnerabilities)
-
-
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9u37xi3cuan7qxpa?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AngularBasic)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AngularBasic.svg)](https://ci.appveyor.com/project/GregTrevellick/AngularBasic/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AngularBasic/_apis/build/status/AngularBasic)](https://gregtrevellick.visualstudio.com/AngularBasic/_build/latest?definitionId=36)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1401,7 +1401,7 @@ Click to expand or collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=awib&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/903t2c7smsutgf8e?svg=true)](https://ci.appveyor.com/project/GregTrevellick/awib)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/awib.svg)](https://ci.appveyor.com/project/GregTrevellick/awib/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/awib/_apis/build/status/awib)](https://gregtrevellick.visualstudio.com/awib/_build/latest?definitionId=)
+
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1953,9 +1953,9 @@ Click to expand or collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=sqale_index)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=vulnerabilities)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/403ut9uqnu4yv7ln?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Menees-VsTools.2017)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Menees-VsTools.2017.svg)](https://ci.appveyor.com/project/GregTrevellick/Menees-VsTools.2017/build/tests)
 
-
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/Menees.VsTools.2017/_apis/build/status/Menees.VsTools.2017)](https://gregtrevellick.visualstudio.com/Menees.VsTools.2017/_build/latest?definitionId=16)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1992,8 +1992,8 @@ Click to expand or collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=sqale_index)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/fl77g7npbyb91h8r?svg=true)](https://ci.appveyor.com/project/GregTrevellick/MiscellaneousArtefacts)
-[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/MiscellaneousArtefacts.svg)](https://ci.appveyor.com/project/GregTrevellick/MiscellaneousArtefacts/build/tests)
+
+
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/MiscellaneousArtefacts/_apis/build/status/MiscellaneousArtefacts)](https://gregtrevellick.visualstudio.com/MiscellaneousArtefacts/_build/latest?definitionId=)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
