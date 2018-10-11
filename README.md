@@ -358,11 +358,8 @@ Click to expand or collapse
 </summary>
 
 
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=alert_status)](https://sonarcloud.io/dashboard?id=AngularBasic)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=alert_status)](https://sonarcloud.io/dashboard?id=AutoFindReplace)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=alert_status)](https://sonarcloud.io/dashboard?id=awib)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=alert_status)](https://sonarcloud.io/dashboard?id=AzureDevOpsRotaWidget)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=alert_status)](https://sonarcloud.io/dashboard?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=alert_status)](https://sonarcloud.io/dashboard?id=DotNetFlags)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=alert_status)](https://sonarcloud.io/dashboard?id=FilesForEveryExtensionCreator)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=alert_status)](https://sonarcloud.io/dashboard?id=Gregt.sidewafflev2)
@@ -374,9 +371,6 @@ Click to expand or collapse
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldVsixToolWindowAsyncPackageExample)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldVstsExtension)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldWpfAsyncBindingPropertyExample)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=alert_status)](https://sonarcloud.io/dashboard?id=Menees.VsTools.2017)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=alert_status)](https://sonarcloud.io/dashboard?id=MiscellaneousArtefacts)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=More&metric=alert_status)](https://sonarcloud.io/dashboard?id=More)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=alert_status)](https://sonarcloud.io/dashboard?id=OpenCoverExample)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=alert_status)](https://sonarcloud.io/dashboard?id=OpenInApp.Launcher)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=alert_status)](https://sonarcloud.io/dashboard?id=QuickLaunchButtons)
@@ -404,11 +398,8 @@ Click to expand or collapse
 </summary>
 
 
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=bugs)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=bugs)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=bugs)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=bugs)](https://sonarcloud.io/component_measures?id=awib&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=bugs)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=bugs)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=bugs)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=bugs)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=bugs)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=bugs)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=bugs)
@@ -420,9 +411,6 @@ Click to expand or collapse
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=bugs)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=bugs)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=bugs)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=bugs)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=bugs)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=More&metric=bugs)](https://sonarcloud.io/component_measures?id=More&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=bugs)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=bugs)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=bugs)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=bugs)
@@ -450,11 +438,8 @@ Click to expand or collapse
 </summary>
 
 
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=code_smells)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=code_smells)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=code_smells)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=code_smells)](https://sonarcloud.io/component_measures?id=awib&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=code_smells)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=code_smells)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=code_smells)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=code_smells)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=code_smells)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=code_smells)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=code_smells)
@@ -466,9 +451,6 @@ Click to expand or collapse
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=code_smells)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=code_smells)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=code_smells)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=code_smells)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=code_smells)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=More&metric=code_smells)](https://sonarcloud.io/component_measures?id=More&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=code_smells)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=code_smells)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=code_smells)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=code_smells)
@@ -496,11 +478,8 @@ Click to expand or collapse
 </summary>
 
 
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=coverage)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=coverage)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=Coverage)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=coverage)](https://sonarcloud.io/component_measures?id=awib&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=coverage)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=Coverage)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=coverage)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=coverage)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=coverage)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=coverage)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=Coverage)
@@ -512,9 +491,6 @@ Click to expand or collapse
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=Coverage)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=coverage)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=Coverage)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=coverage)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=Coverage)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=More&metric=coverage)](https://sonarcloud.io/component_measures?id=More&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=coverage)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=coverage)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=coverage)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=Coverage)
@@ -542,11 +518,8 @@ Click to expand or collapse
 </summary>
 
 
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=duplicated_lines)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=awib&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=duplicated_lines)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=duplicated_lines)
@@ -558,9 +531,6 @@ Click to expand or collapse
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=duplicated_lines)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=duplicated_lines)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=duplicated_lines)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=More&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=More&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=duplicated_lines)
@@ -588,11 +558,8 @@ Click to expand or collapse
 </summary>
 
 
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=ncloc)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=ncloc)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=ncloc)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=ncloc)](https://sonarcloud.io/component_measures?id=awib&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=ncloc)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=ncloc)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=ncloc)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=ncloc)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=ncloc)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=ncloc)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=ncloc)
@@ -604,9 +571,6 @@ Click to expand or collapse
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=ncloc)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=ncloc)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=ncloc)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=ncloc)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=ncloc)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=More&metric=ncloc)](https://sonarcloud.io/component_measures?id=More&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=ncloc)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=ncloc)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=ncloc)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=ncloc)
@@ -634,11 +598,8 @@ Click to expand or collapse
 </summary>
 
 
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=reliability_rating)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=awib&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=reliability_rating)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=reliability_rating)
@@ -650,9 +611,6 @@ Click to expand or collapse
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=reliability_rating)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=reliability_rating)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=reliability_rating)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=More&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=More&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=reliability_rating)
@@ -680,11 +638,8 @@ Click to expand or collapse
 </summary>
 
 
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=security_rating)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=security_rating)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=security_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=security_rating)](https://sonarcloud.io/component_measures?id=awib&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=security_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=security_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=security_rating)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=security_rating)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=security_rating)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=security_rating)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=security_rating)
@@ -696,9 +651,6 @@ Click to expand or collapse
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=security_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=security_rating)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=security_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=security_rating)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=security_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=More&metric=security_rating)](https://sonarcloud.io/component_measures?id=More&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=security_rating)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=security_rating)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=security_rating)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=security_rating)
@@ -726,11 +678,8 @@ Click to expand or collapse
 </summary>
 
 
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=sqale_index)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=sqale_index)](https://sonarcloud.io/component_measures?id=awib&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=sqale_index)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=sqale_index)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=sqale_index)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=sqale_index)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=sqale_index)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=sqale_index)
@@ -742,9 +691,6 @@ Click to expand or collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_index)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=sqale_index)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=sqale_index)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=sqale_index)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=sqale_index)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=More&metric=sqale_index)](https://sonarcloud.io/component_measures?id=More&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=sqale_index)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=sqale_index)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=sqale_index)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=sqale_index)
@@ -772,11 +718,8 @@ Click to expand or collapse
 </summary>
 
 
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=sqale_rating)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=awib&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=sqale_rating)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=sqale_rating)
@@ -788,9 +731,6 @@ Click to expand or collapse
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_rating)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=sqale_rating)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=sqale_rating)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=More&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=More&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=sqale_rating)
@@ -818,11 +758,8 @@ Click to expand or collapse
 </summary>
 
 
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=vulnerabilities)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=awib&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=vulnerabilities)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=vulnerabilities)
@@ -834,9 +771,6 @@ Click to expand or collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=vulnerabilities)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=vulnerabilities)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=vulnerabilities)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=More&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=More&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=vulnerabilities)
@@ -868,17 +802,17 @@ Click to expand or collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/AllBadges.svg)](https://github.com/GregTrevellick/AllBadges)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AllBadges.svg)](https://github.com/GregTrevellick/AllBadges/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/AllBadges.svg)](https://github.com/GregTrevellick/AllBadges/pulls)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AllBadges&metric=alert_status)](https://sonarcloud.io/dashboard?id=AllBadges)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AllBadges&metric=bugs)](https://sonarcloud.io/component_measures?id=AllBadges&metric=bugs)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AllBadges&metric=code_smells)](https://sonarcloud.io/component_measures?id=AllBadges&metric=code_smells)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AllBadges&metric=coverage)](https://sonarcloud.io/component_measures?id=AllBadges&metric=Coverage)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AllBadges&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AllBadges&metric=duplicated_lines)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AllBadges&metric=ncloc)](https://sonarcloud.io/component_measures?id=AllBadges&metric=ncloc)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AllBadges&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AllBadges&metric=reliability_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AllBadges&metric=security_rating)](https://sonarcloud.io/component_measures?id=AllBadges&metric=security_rating)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AllBadges&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AllBadges&metric=sqale_index)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AllBadges&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AllBadges&metric=sqale_rating)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AllBadges&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AllBadges&metric=vulnerabilities)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -903,17 +837,17 @@ Click to expand or collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/AngularBasic.svg)](https://github.com/GregTrevellick/AngularBasic)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AngularBasic.svg)](https://github.com/GregTrevellick/AngularBasic/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/AngularBasic.svg)](https://github.com/GregTrevellick/AngularBasic/pulls)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=alert_status)](https://sonarcloud.io/dashboard?id=AngularBasic)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=bugs)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=bugs)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=code_smells)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=code_smells)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=coverage)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=Coverage)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=duplicated_lines)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=ncloc)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=ncloc)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=reliability_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=security_rating)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=security_rating)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=sqale_index)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=sqale_rating)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AngularBasic&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AngularBasic&metric=vulnerabilities)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -988,17 +922,17 @@ Click to expand or collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib/pulls)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=alert_status)](https://sonarcloud.io/dashboard?id=awib)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=bugs)](https://sonarcloud.io/component_measures?id=awib&metric=bugs)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=code_smells)](https://sonarcloud.io/component_measures?id=awib&metric=code_smells)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=coverage)](https://sonarcloud.io/component_measures?id=awib&metric=Coverage)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=awib&metric=duplicated_lines)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=ncloc)](https://sonarcloud.io/component_measures?id=awib&metric=ncloc)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=awib&metric=reliability_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=security_rating)](https://sonarcloud.io/component_measures?id=awib&metric=security_rating)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=sqale_index)](https://sonarcloud.io/component_measures?id=awib&metric=sqale_index)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=awib&metric=sqale_rating)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=awib&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=awib&metric=vulnerabilities)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1073,17 +1007,17 @@ Click to expand or collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg)](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg)](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg)](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/pulls)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=alert_status)](https://sonarcloud.io/dashboard?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=bugs)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=bugs)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=code_smells)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=code_smells)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=coverage)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=Coverage)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=duplicated_lines)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=ncloc)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=ncloc)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=reliability_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=security_rating)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=security_rating)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=sqale_index)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=sqale_index)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=sqale_rating)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=BrowserExtensionUsingAngularWorksInChromeNotInEdge&metric=vulnerabilities)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1542,17 +1476,17 @@ Click to expand or collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017/pulls)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=alert_status)](https://sonarcloud.io/dashboard?id=Menees.VsTools.2017)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=bugs)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=bugs)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=code_smells)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=code_smells)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=coverage)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=Coverage)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=duplicated_lines)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=ncloc)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=ncloc)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=reliability_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=security_rating)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=security_rating)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=sqale_index)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=sqale_index)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=sqale_rating)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Menees.VsTools.2017&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Menees.VsTools.2017&metric=vulnerabilities)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1581,17 +1515,17 @@ Click to expand or collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/pulls)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=alert_status)](https://sonarcloud.io/dashboard?id=MiscellaneousArtefacts)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=bugs)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=bugs)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=code_smells)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=code_smells)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=coverage)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=Coverage)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=duplicated_lines)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=ncloc)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=ncloc)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=reliability_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=security_rating)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=security_rating)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=sqale_index)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=sqale_index)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=sqale_rating)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=vulnerabilities)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1620,17 +1554,17 @@ Click to expand or collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More/pulls)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=More&metric=alert_status)](https://sonarcloud.io/dashboard?id=More)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=More&metric=bugs)](https://sonarcloud.io/component_measures?id=More&metric=bugs)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=More&metric=code_smells)](https://sonarcloud.io/component_measures?id=More&metric=code_smells)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=More&metric=coverage)](https://sonarcloud.io/component_measures?id=More&metric=Coverage)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=More&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=More&metric=duplicated_lines)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=More&metric=ncloc)](https://sonarcloud.io/component_measures?id=More&metric=ncloc)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=More&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=More&metric=reliability_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=More&metric=security_rating)](https://sonarcloud.io/component_measures?id=More&metric=security_rating)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=More&metric=sqale_index)](https://sonarcloud.io/component_measures?id=More&metric=sqale_index)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=More&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=More&metric=sqale_rating)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=More&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=More&metric=vulnerabilities)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
