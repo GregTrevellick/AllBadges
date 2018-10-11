@@ -817,6 +817,7 @@ Click to expand or collapse
 
 
 
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -852,6 +853,7 @@ Click to expand or collapse
 
 
 
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -891,6 +893,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/2iy2c8ucrn5mc96o?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AutoFindReplace.svg)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AutoFindReplace/_apis/build/status/AutoFindReplace)](https://gregtrevellick.visualstudio.com/AutoFindReplace/_build/latest?definitionId=4)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -937,6 +940,7 @@ Click to expand or collapse
 
 
 
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -976,6 +980,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/01islyin3t8bsxoe?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsRotaWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_apis/build/status/AzureDevOpsRotaWidget)](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_build/latest?definitionId=13)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1022,6 +1027,7 @@ Click to expand or collapse
 
 
 
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1061,6 +1067,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0yqqgbviev6x1pe3?svg=true)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/DotNetFlags.svg)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/DotNetFlags/_apis/build/status/DotNetFlags)](https://gregtrevellick.visualstudio.com/DotNetFlags/_build/latest?definitionId=1)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1101,6 +1108,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/b1t4vqmcjjoqos9u?svg=true)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_apis/build/status/FilesForEveryExtensionCreator)](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_build/latest?definitionId=2)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1140,6 +1148,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/53q1kagc0jsbfpik?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Gregt-sidewafflev2.svg)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_apis/build/status/Gregt.sidewafflev2)](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_build/latest?definitionId=9)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1179,6 +1188,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9ik81ir38chjwcp9?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldBlazor.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_apis/build/status/HelloWorldBlazor)](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_build/latest?definitionId=37)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1218,6 +1228,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/u3s4x8kx4fo0ejog?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_apis/build/status/HelloWorldTypescriptParcel)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_build/latest?definitionId=11)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1257,6 +1268,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/4pjmtgwdmqrpg1pl?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptWebpack)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldTypescriptWebpack.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptWebpack/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptWebpack/_apis/build/status/HelloWorldTypescriptWebpack)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptWebpack/_build/latest?definitionId=33)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1296,6 +1308,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/j3hutqo41xv8xo06?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixPopUp)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixPopUp.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixPopUp/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixPopUp/_apis/build/status/HelloWorldVsixPopUp)](https://gregtrevellick.visualstudio.com/HelloWorldVsixPopUp/_build/latest?definitionId=32)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1335,6 +1348,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/kv8q5fajysjxdwur?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolBar)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixToolBar.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolBar/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_apis/build/status/HelloWorldVsixToolBar)](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_build/latest?definitionId=34)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1374,6 +1388,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/1fha75b06hpw2lip?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolWindowAsyncPackageExample/_apis/build/status/HelloWorldVsixToolWindowAsyncPackageExample)](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolWindowAsyncPackageExample/_build/latest?definitionId=26)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1413,6 +1428,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ola9n1um34vha0x4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVstsExtension.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_apis/build/status/HelloWorldVstsExtension)](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_build/latest?definitionId=35)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1452,6 +1468,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eg1nxsm1a3c754al?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldWpfAsyncBindingPropertyExample/_apis/build/status/HelloWorldWpfAsyncBindingPropertyExample)](https://gregtrevellick.visualstudio.com/HelloWorldWpfAsyncBindingPropertyExample/_build/latest?definitionId=27)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1491,6 +1508,7 @@ Click to expand or collapse
 
 
 
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1530,6 +1548,7 @@ Click to expand or collapse
 
 
 
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1569,6 +1588,7 @@ Click to expand or collapse
 
 
 
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1608,6 +1628,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eiso821168e15t9e?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenCoverExample.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample/build/tests)
 
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1647,6 +1668,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenInApp-Launcher.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/OpenInApp.Launcher/_apis/build/status/OpenInApp.Launcher)](https://gregtrevellick.visualstudio.com/OpenInApp.Launcher/_build/latest?definitionId=10)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1831,6 +1853,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/e8fq3ang07ahq8yf?svg=true)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/QuickLaunchButtons.svg)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/QuickLaunchButtons/_apis/build/status/QuickLaunchButtons)](https://gregtrevellick.visualstudio.com/QuickLaunchButtons/_build/latest?definitionId=17)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1883,6 +1906,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i3u8gbuxoql23t9i?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Quiz-Launcher.svg)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/Quiz.Launcher/_apis/build/status/Quiz.Launcher)](https://gregtrevellick.visualstudio.com/Quiz.Launcher/_build/latest?definitionId=18)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1929,6 +1953,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/uy4igyamwjq51gx4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/ReadMeSynchronizer.svg)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/ReadMeSynchronizer/_apis/build/status/ReadMeSynchronizer)](https://gregtrevellick.visualstudio.com/ReadMeSynchronizer/_build/latest?definitionId=24)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -1968,6 +1993,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/p304wa3aqlwir63f?svg=true)](https://ci.appveyor.com/project/GregTrevellick/RenameProjectVsExtension)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/RenameProjectVsExtension.svg)](https://ci.appveyor.com/project/GregTrevellick/RenameProjectVsExtension/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/RenameProjectVsExtension/_apis/build/status/RenameProjectVsExtension)](https://gregtrevellick.visualstudio.com/RenameProjectVsExtension/_build/latest?definitionId=22)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -2007,6 +2033,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/89c8gp1t0rua9fiw?svg=true)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/SolutionOpenPopUp.svg)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/SolutionOpenPopUp/_apis/build/status/SolutionOpenPopUp)](https://gregtrevellick.visualstudio.com/SolutionOpenPopUp/_build/latest?definitionId=20)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -2053,6 +2080,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/iapcrndog6fvdd9l?svg=true)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/TrivialApisForIDE.svg)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/TrivialApisForIDE/_apis/build/status/TrivialApisForIDE)](https://gregtrevellick.visualstudio.com/TrivialApisForIDE/_build/latest?definitionId=21)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -2111,6 +2139,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/6sbejo44yn8ckbc0?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VisualStudioMarketplaceMetrics)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VisualStudioMarketplaceMetrics.svg)](https://ci.appveyor.com/project/GregTrevellick/VisualStudioMarketplaceMetrics/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VisualStudioMarketplaceMetrics/_apis/build/status/VisualStudioMarketplaceMetrics)](https://gregtrevellick.visualstudio.com/VisualStudioMarketplaceMetrics/_build/latest?definitionId=23)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -2153,6 +2182,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/kje6fcd2r5ng44p1?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixBlazorMinimalProjectTemplate)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixBlazorMinimalProjectTemplate/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixBlazorMinimalProjectTemplate/_apis/build/status/VsixBlazorMinimalProjectTemplate)](https://gregtrevellick.visualstudio.com/VsixBlazorMinimalProjectTemplate/_build/latest?definitionId=5)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -2199,6 +2229,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ktrqskiaastij4jd?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixDotNetCorePoc)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixDotNetCorePoc.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixDotNetCorePoc/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixDotNetCorePoc/_apis/build/status/VsixDotNetCorePoc)](https://gregtrevellick.visualstudio.com/VsixDotNetCorePoc/_build/latest?definitionId=31)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -2238,6 +2269,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/wg65x8dnr41whrpi?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootball.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootball/_apis/build/status/VsixFootball)](https://gregtrevellick.visualstudio.com/VsixFootball/_build/latest?definitionId=3)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -2284,6 +2316,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i7kxey89fewvjkac?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootie.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootie/_apis/build/status/VsixFootie)](https://gregtrevellick.visualstudio.com/VsixFootie/_build/latest?definitionId=19)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -2330,6 +2363,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/x7qcrnycboq55xgf?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixRatingChaser)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixRatingChaser.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixRatingChaser/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_apis/build/status/VsixRatingChaser)](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_build/latest?definitionId=30)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -2370,6 +2404,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/s07rrwscpefb5k6h?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixTwitterWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_apis/build/status/VsixTwitterWidget)](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_build/latest?definitionId=29)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -2548,6 +2583,7 @@ Click to expand or collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9uoctpmaj9wj6gjc?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate/build/tests)
 
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
