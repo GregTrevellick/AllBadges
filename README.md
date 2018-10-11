@@ -97,7 +97,6 @@ Click to expand or collapse
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_apis/build/status/FilesForEveryExtensionCreator)](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_build/latest?definitionId=2)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_apis/build/status/Gregt.sidewafflev2)](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_build/latest?definitionId=9)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_apis/build/status/HelloWorldBlazor)](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_build/latest?definitionId=)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_apis/build/status/HelloWorldTypescriptParcel)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_build/latest?definitionId=11)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptWebpack/_apis/build/status/HelloWorldTypescriptWebpack)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptWebpack/_build/latest?definitionId=33)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixPopUp/_apis/build/status/HelloWorldVsixPopUp)](https://gregtrevellick.visualstudio.com/HelloWorldVsixPopUp/_build/latest?definitionId=32)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_apis/build/status/HelloWorldVsixToolBar)](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_build/latest?definitionId=34)
@@ -118,7 +117,6 @@ Click to expand or collapse
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootie/_apis/build/status/VsixFootie)](https://gregtrevellick.visualstudio.com/VsixFootie/_build/latest?definitionId=19)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_apis/build/status/VsixRatingChaser)](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_build/latest?definitionId=30)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_apis/build/status/VsixTwitterWidget)](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_build/latest?definitionId=29)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/VstsDashboardWidgetProjectTemplate/_apis/build/status/VstsDashboardWidgetProjectTemplate)](https://gregtrevellick.visualstudio.com/VstsDashboardWidgetProjectTemplate/_build/latest?definitionId=15)
 
 </details>
 
@@ -1284,7 +1282,7 @@ Click to expand or collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/u3s4x8kx4fo0ejog?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_apis/build/status/HelloWorldTypescriptParcel)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_build/latest?definitionId=11)
+
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
@@ -2614,7 +2612,7 @@ Click to expand or collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9uoctpmaj9wj6gjc?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/VstsDashboardWidgetProjectTemplate/_apis/build/status/VstsDashboardWidgetProjectTemplate)](https://gregtrevellick.visualstudio.com/VstsDashboardWidgetProjectTemplate/_build/latest?definitionId=15)
+
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
