@@ -352,6 +352,28 @@ expand/collapse
 </details>
 
 
+##### InspecodeReport
+<details open>
+<summary>
+expand/collapse
+</summary>
+
+
+
+</details>
+
+
+##### InspecodeStatus
+<details open>
+<summary>
+expand/collapse
+</summary>
+
+
+
+</details>
+
+
 ##### SonarQualityGateStatus
 <details open>
 <summary>
