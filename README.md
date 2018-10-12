@@ -7,7 +7,7 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 ##### AppveyorBuildStatus
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -47,7 +47,7 @@ Click to expand or collapse
 ##### AppveyorUnitTests
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -87,7 +87,7 @@ Click to expand or collapse
 ##### AzurePipelineBuildStatus
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -125,7 +125,7 @@ Click to expand or collapse
 ##### BetterCodeHubCompliance
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -171,7 +171,7 @@ Click to expand or collapse
 ##### CodacyBadge
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -217,7 +217,7 @@ Click to expand or collapse
 ##### CodeFactor
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -263,7 +263,7 @@ Click to expand or collapse
 ##### GitHubIssues
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -309,7 +309,7 @@ Click to expand or collapse
 ##### GitHubPullRequests
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -355,7 +355,7 @@ Click to expand or collapse
 ##### SonarQualityGateStatus
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -395,7 +395,7 @@ Click to expand or collapse
 ##### SonarBugs
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -435,7 +435,7 @@ Click to expand or collapse
 ##### SonarCodeSmells
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -475,7 +475,7 @@ Click to expand or collapse
 ##### SonarCoverage
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -515,7 +515,7 @@ Click to expand or collapse
 ##### SonarDuplicatedLinesDensity
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -555,7 +555,7 @@ Click to expand or collapse
 ##### SonarNumberOfLinesOfCode
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -595,7 +595,7 @@ Click to expand or collapse
 ##### SonarReliabilityRating
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -635,7 +635,7 @@ Click to expand or collapse
 ##### SonarSecurityRating
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -675,7 +675,7 @@ Click to expand or collapse
 ##### SonarTechnicalDebt
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -715,7 +715,7 @@ Click to expand or collapse
 ##### SonarMaintainability
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -755,7 +755,7 @@ Click to expand or collapse
 ##### SonarVulnerabilities
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 
@@ -827,7 +827,7 @@ Click to expand or collapse
 #####  [AngularBasic](https://github.com/GregTrevellick/AngularBasic)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/AngularBasic/subscription) to receive notificatons.
@@ -867,7 +867,7 @@ Click to expand or collapse
 #####  [AutoFindReplace](https://github.com/GregTrevellick/AutoFindReplace)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/AutoFindReplace/subscription) to receive notificatons.
@@ -914,7 +914,7 @@ Click to expand or collapse
 #####  [awib](https://github.com/GregTrevellick/awib)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/awib/subscription) to receive notificatons.
@@ -954,7 +954,7 @@ Click to expand or collapse
 #####  [AzureDevOpsRotaWidget](https://github.com/GregTrevellick/AzureDevOpsRotaWidget)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/AzureDevOpsRotaWidget/subscription) to receive notificatons.
@@ -1001,7 +1001,7 @@ Click to expand or collapse
 #####  [BrowserExtensionUsingAngularWorksInChromeNotInEdge](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/subscription) to receive notificatons.
@@ -1041,7 +1041,7 @@ Click to expand or collapse
 #####  [DotNetFlags](https://github.com/GregTrevellick/DotNetFlags)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/DotNetFlags/subscription) to receive notificatons.
@@ -1082,7 +1082,7 @@ Click to expand or collapse
 #####  [FilesForEveryExtensionCreator](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/subscription) to receive notificatons.
@@ -1122,7 +1122,7 @@ Click to expand or collapse
 #####  [Gregt.sidewafflev2](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/Gregt.sidewafflev2/subscription) to receive notificatons.
@@ -1162,7 +1162,7 @@ Click to expand or collapse
 #####  [HelloWorldBlazor](https://github.com/GregTrevellick/HelloWorldBlazor)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/HelloWorldBlazor/subscription) to receive notificatons.
@@ -1202,7 +1202,7 @@ Click to expand or collapse
 #####  [HelloWorldTypescriptParcel](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/subscription) to receive notificatons.
@@ -1242,7 +1242,7 @@ Click to expand or collapse
 #####  [HelloWorldTypescriptWebpack](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack/subscription) to receive notificatons.
@@ -1282,7 +1282,7 @@ Click to expand or collapse
 #####  [HelloWorldVsixPopUp](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/HelloWorldVsixPopUp/subscription) to receive notificatons.
@@ -1322,7 +1322,7 @@ Click to expand or collapse
 #####  [HelloWorldVsixToolBar](https://github.com/GregTrevellick/HelloWorldVsixToolBar)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/HelloWorldVsixToolBar/subscription) to receive notificatons.
@@ -1362,7 +1362,7 @@ Click to expand or collapse
 #####  [HelloWorldVsixToolWindowAsyncPackageExample](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/subscription) to receive notificatons.
@@ -1402,7 +1402,7 @@ Click to expand or collapse
 #####  [HelloWorldVstsExtension](https://github.com/GregTrevellick/HelloWorldVstsExtension)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/HelloWorldVstsExtension/subscription) to receive notificatons.
@@ -1442,7 +1442,7 @@ Click to expand or collapse
 #####  [HelloWorldWpfAsyncBindingPropertyExample](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/subscription) to receive notificatons.
@@ -1482,7 +1482,7 @@ Click to expand or collapse
 #####  [Menees.VsTools.2017](https://github.com/GregTrevellick/Menees.VsTools.2017)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/Menees.VsTools.2017/subscription) to receive notificatons.
@@ -1522,7 +1522,7 @@ Click to expand or collapse
 #####  [MiscellaneousArtefacts](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/MiscellaneousArtefacts/subscription) to receive notificatons.
@@ -1562,7 +1562,7 @@ Click to expand or collapse
 #####  [More](https://github.com/GregTrevellick/More)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/More/subscription) to receive notificatons.
@@ -1602,7 +1602,7 @@ Click to expand or collapse
 #####  [OpenCoverExample](https://github.com/GregTrevellick/OpenCoverExample)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/OpenCoverExample/subscription) to receive notificatons.
@@ -1642,7 +1642,7 @@ Click to expand or collapse
 #####  [OpenInApp.Launcher](https://github.com/GregTrevellick/OpenInApp.Launcher)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/OpenInApp.Launcher/subscription) to receive notificatons.
@@ -1827,7 +1827,7 @@ Click to expand or collapse
 #####  [QuickLaunchButtons](https://github.com/GregTrevellick/QuickLaunchButtons)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/QuickLaunchButtons/subscription) to receive notificatons.
@@ -1880,7 +1880,7 @@ Click to expand or collapse
 #####  [Quiz.Launcher](https://github.com/GregTrevellick/Quiz.Launcher)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/Quiz.Launcher/subscription) to receive notificatons.
@@ -1927,7 +1927,7 @@ Click to expand or collapse
 #####  [ReadMeSynchronizer](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/ReadMeSynchronizer/subscription) to receive notificatons.
@@ -1967,7 +1967,7 @@ Click to expand or collapse
 #####  [RenameProjectVsExtension](https://github.com/GregTrevellick/RenameProjectVsExtension)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/RenameProjectVsExtension/subscription) to receive notificatons.
@@ -2007,7 +2007,7 @@ Click to expand or collapse
 #####  [SolutionOpenPopUp](https://github.com/GregTrevellick/SolutionOpenPopUp)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/SolutionOpenPopUp/subscription) to receive notificatons.
@@ -2054,7 +2054,7 @@ Click to expand or collapse
 #####  [TrivialApisForIDE](https://github.com/GregTrevellick/TrivialApisForIDE)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/TrivialApisForIDE/subscription) to receive notificatons.
@@ -2113,7 +2113,7 @@ Click to expand or collapse
 #####  [VisualStudioMarketplaceMetrics](https://github.com/GregTrevellick/VisualStudioMarketplaceMetrics)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/VisualStudioMarketplaceMetrics/subscription) to receive notificatons.
@@ -2156,7 +2156,7 @@ Click to expand or collapse
 #####  [VsixBlazorMinimalProjectTemplate](https://github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/subscription) to receive notificatons.
@@ -2203,7 +2203,7 @@ Click to expand or collapse
 #####  [VsixDotNetCorePoc](https://github.com/GregTrevellick/VsixDotNetCorePoc)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/VsixDotNetCorePoc/subscription) to receive notificatons.
@@ -2243,7 +2243,7 @@ Click to expand or collapse
 #####  [VsixFootball](https://github.com/GregTrevellick/VsixFootball)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/VsixFootball/subscription) to receive notificatons.
@@ -2290,7 +2290,7 @@ Click to expand or collapse
 #####  [VsixFootie](https://github.com/GregTrevellick/VsixFootie)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/VsixFootie/subscription) to receive notificatons.
@@ -2337,7 +2337,7 @@ Click to expand or collapse
 #####  [VsixRatingChaser](https://github.com/GregTrevellick/VsixRatingChaser)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/VsixRatingChaser/subscription) to receive notificatons.
@@ -2378,7 +2378,7 @@ Click to expand or collapse
 #####  [VsixTwitterWidget](https://github.com/GregTrevellick/VsixTwitterWidget)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/VsixTwitterWidget/subscription) to receive notificatons.
@@ -2557,7 +2557,7 @@ Click to expand or collapse
 #####  [VstsDashboardWidgetProjectTemplate](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 <details open>
 <summary>
-Click to expand or collapse
+expand/collapse
 </summary>
 
 [Subscribe](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/subscription) to receive notificatons.
