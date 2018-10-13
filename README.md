@@ -19,6 +19,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9ik81ir38chjwcp9?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/u3s4x8kx4fo0ejog?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/4pjmtgwdmqrpg1pl?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptWebpack)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/d2ovw4fbrqic3ac4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixCommandButton)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/j3hutqo41xv8xo06?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixPopUp)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/kv8q5fajysjxdwur?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolBar)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/1fha75b06hpw2lip?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
@@ -59,6 +60,7 @@ expand/collapse
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldBlazor.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldTypescriptWebpack.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptWebpack/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixCommandButton/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixPopUp.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixPopUp/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixToolBar.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolBar/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/build/tests)
@@ -99,6 +101,7 @@ expand/collapse
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_apis/build/status/HelloWorldBlazor)](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_build/latest?definitionId=37)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_apis/build/status/HelloWorldTypescriptParcel)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_build/latest?definitionId=11)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptWebpack/_apis/build/status/HelloWorldTypescriptWebpack)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptWebpack/_build/latest?definitionId=33)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixCommandButton/_apis/build/status/HelloWorldVsixCommandButton)](https://gregtrevellick.visualstudio.com/HelloWorldVsixCommandButton/_build/latest?definitionId=40)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixPopUp/_apis/build/status/HelloWorldVsixPopUp)](https://gregtrevellick.visualstudio.com/HelloWorldVsixPopUp/_build/latest?definitionId=32)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_apis/build/status/HelloWorldVsixToolBar)](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_build/latest?definitionId=34)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolWindowAsyncPackageExample/_apis/build/status/HelloWorldVsixToolWindowAsyncPackageExample)](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolWindowAsyncPackageExample/_build/latest?definitionId=26)
@@ -140,6 +143,7 @@ expand/collapse
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldBlazor?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldBlazor)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldTypescriptParcel?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldTypescriptParcel)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldTypescriptWebpack?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldTypescriptWebpack)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixCommandButton?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixCommandButton)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixPopUp)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixToolBar?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixToolBar)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
@@ -147,7 +151,6 @@ expand/collapse
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Menees.VsTools.2017?branch=master)](https://bettercodehub.com/results/GregTrevellick/Menees.VsTools.2017)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/MiscellaneousArtefacts?branch=master)](https://bettercodehub.com/results/GregTrevellick/MiscellaneousArtefacts)
-[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/More?branch=master)](https://bettercodehub.com/results/GregTrevellick/More)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/OpenCoverExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/OpenCoverExample)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/OpenInApp.Launcher?branch=master)](https://bettercodehub.com/results/GregTrevellick/OpenInApp.Launcher)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/QuickLaunchButtons?branch=master)](https://bettercodehub.com/results/GregTrevellick/QuickLaunchButtons)
@@ -186,6 +189,7 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/52248629623c4b99b7039e7adb2a54c5)](https://www.codacy.com/project/gtrevellick/HelloWorldBlazor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldBlazor&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f519d95563a64063a1d349b8c6252ec0)](https://www.codacy.com/project/gtrevellick/HelloWorldTypescriptParcel/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldTypescriptParcel&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b8374c0381374e82828d292bbdbb85ef)](https://www.codacy.com/project/gtrevellick/HelloWorldTypescriptWebpack/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldTypescriptWebpack&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bd4afcff4a544c8bd64757f0c3a1e5a)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixCommandButton/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixCommandButton&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03868a22c8db486d85c5d0bd33637e41)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b397d57fb66841b0a4f67e9718840281)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolBar/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolBar&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4d1ed9b21d9240cca47e314c1b06edda)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolWindowAsyncPackageExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -232,6 +236,7 @@ expand/collapse
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptWebpack/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptWebpack)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
@@ -278,6 +283,7 @@ expand/collapse
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldBlazor.svg)](https://github.com/GregTrevellick/HelloWorldBlazor/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldTypescriptWebpack.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack/issues)
+[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixToolBar.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolBar/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/issues)
@@ -324,6 +330,7 @@ expand/collapse
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/HelloWorldBlazor.svg)](https://github.com/GregTrevellick/HelloWorldBlazor/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/HelloWorldTypescriptWebpack.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/HelloWorldVsixToolBar.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolBar/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/pulls)
@@ -361,7 +368,6 @@ expand/collapse
 
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/report?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AngularBasic/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/report?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AutoFindReplace/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/awib/report?token=&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/awib/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/report?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AzureDevOpsRotaWidget/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/report?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/report?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/DotNetFlags/branch/master/summary)
@@ -370,14 +376,13 @@ expand/collapse
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/report?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldBlazor/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/report?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptParcel/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptWebpack/report?token=sgHaN9gW7m5tBQkAbtC-jwffm_7YeTIjET92DyRBrK4&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptWebpack/branch/master/summary)
+[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/report?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixCommandButton/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/report?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixPopUp/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/report?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolBar/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/report?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/report?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVstsExtension/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/report?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/report?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Menees.VsTools.2017/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/MiscellaneousArtefacts/report?token=&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/MiscellaneousArtefacts/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/More/report?token=&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/More/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/report?token=&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenCoverExample/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenInApp.Launcher/report?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenInApp.Launcher/branch/master/summary)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/report?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8)&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/QuickLaunchButtons/branch/master/summary)
@@ -407,7 +412,6 @@ expand/collapse
 
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/status?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AngularBasic/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/status?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AutoFindReplace/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/awib/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/awib/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/status?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AzureDevOpsRotaWidget/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/status?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/status?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/DotNetFlags/latest?completed=true)
@@ -416,14 +420,13 @@ expand/collapse
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/status?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldBlazor/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/status?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptParcel/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptWebpack/status?token=sgHaN9gW7m5tBQkAbtC-jwffm_7YeTIjET92DyRBrK4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptWebpack/latest?completed=true)
+[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/status?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixCommandButton/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/status?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixPopUp/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/status?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolBar/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/status?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/status?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVstsExtension/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/status?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/status?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Menees.VsTools.2017/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/MiscellaneousArtefacts/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/MiscellaneousArtefacts/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/More/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/More/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenCoverExample/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenInApp.Launcher/status?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenInApp.Launcher/latest?completed=true)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/status?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8))](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/QuickLaunchButtons/latest?completed=true)
@@ -452,38 +455,24 @@ expand/collapse
 
 
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AngularBasic/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AutoFindReplace.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AutoFindReplace/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/awib.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/awib/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsRotaWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsRotaWidget/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/DotNetFlags.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/DotNetFlags/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/FilesForEveryExtensionCreator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/FilesForEveryExtensionCreator/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/Gregt.sidewafflev2.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/Gregt.sidewafflev2/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldTypescriptParcel.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldTypescriptParcel/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldTypescriptWebpack.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldTypescriptWebpack/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixPopUp.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixPopUp/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/Menees.VsTools.2017.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/Menees.VsTools.2017/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/MiscellaneousArtefacts.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/MiscellaneousArtefacts/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/More.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/More/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/OpenCoverExample.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/OpenCoverExample/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/OpenInApp.Launcher.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/OpenInApp.Launcher/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/QuickLaunchButtons.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/QuickLaunchButtons/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/Quiz.Launcher.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/Quiz.Launcher/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/ReadMeSynchronizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/ReadMeSynchronizer/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/RenameProjectVsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/RenameProjectVsExtension/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/SolutionOpenPopUp.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/SolutionOpenPopUp/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/TrivialApisForIDE.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/TrivialApisForIDE/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixDotNetCorePoc.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixDotNetCorePoc/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixFootball.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixFootball/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixFootie.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixFootie/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixRatingChaser.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixRatingChaser/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixTwitterWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixTwitterWidget/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VstsDashboardWidgetProjectTemplate/alerts/)
 
@@ -498,38 +487,24 @@ expand/collapse
 
 
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AngularBasic/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AutoFindReplace.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AutoFindReplace/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/awib.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/awib/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsRotaWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsRotaWidget/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/DotNetFlags.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/DotNetFlags/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/FilesForEveryExtensionCreator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/FilesForEveryExtensionCreator/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/Gregt.sidewafflev2.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/Gregt.sidewafflev2/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldTypescriptParcel.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldTypescriptParcel/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldTypescriptWebpack.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldTypescriptWebpack/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVsixPopUp.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixPopUp/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/Menees.VsTools.2017.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/Menees.VsTools.2017/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/MiscellaneousArtefacts.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/MiscellaneousArtefacts/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/More.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/More/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/OpenCoverExample.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/OpenCoverExample/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/OpenInApp.Launcher.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/OpenInApp.Launcher/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/QuickLaunchButtons.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/QuickLaunchButtons/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/Quiz.Launcher.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/Quiz.Launcher/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/ReadMeSynchronizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/ReadMeSynchronizer/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/RenameProjectVsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/RenameProjectVsExtension/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/SolutionOpenPopUp.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/SolutionOpenPopUp/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/TrivialApisForIDE.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/TrivialApisForIDE/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixDotNetCorePoc.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixDotNetCorePoc/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixFootball.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixFootball/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixFootie.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixFootie/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixRatingChaser.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixRatingChaser/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixTwitterWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixTwitterWidget/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VstsDashboardWidgetProjectTemplate/context:javascript)
 
@@ -551,6 +526,7 @@ expand/collapse
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldBlazor)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldTypescriptParcel)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldTypescriptWebpack)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldVsixCommandButton)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldVsixPopUp)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldVsixToolBar)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldVsixToolWindowAsyncPackageExample)
@@ -591,6 +567,7 @@ expand/collapse
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=bugs)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=bugs)
@@ -631,6 +608,7 @@ expand/collapse
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=code_smells)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=code_smells)
@@ -671,6 +649,7 @@ expand/collapse
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=Coverage)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=Coverage)
@@ -711,6 +690,7 @@ expand/collapse
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=duplicated_lines)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=duplicated_lines)
@@ -751,6 +731,7 @@ expand/collapse
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=ncloc)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=ncloc)
@@ -791,6 +772,7 @@ expand/collapse
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=reliability_rating)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=reliability_rating)
@@ -831,6 +813,7 @@ expand/collapse
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=security_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=security_rating)
@@ -871,6 +854,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=sqale_index)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_index)
@@ -911,6 +895,7 @@ expand/collapse
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=sqale_rating)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_rating)
@@ -951,6 +936,7 @@ expand/collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=vulnerabilities)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=vulnerabilities)
@@ -1068,8 +1054,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/AutoFindReplace/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AutoFindReplace&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/report?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AutoFindReplace/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AutoFindReplace.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AutoFindReplace/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AutoFindReplace.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AutoFindReplace/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AutoFindReplace.svg)](https://github.com/GregTrevellick/AutoFindReplace)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/AutoFindReplace.svg)](https://github.com/GregTrevellick/AutoFindReplace)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AutoFindReplace.svg)](https://github.com/GregTrevellick/AutoFindReplace/issues)
@@ -1118,7 +1104,7 @@ expand/collapse
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/awib?branch=master)](https://bettercodehub.com/results/GregTrevellick/awib)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9db6094d5fd342ee8a8740efd33526c9)](https://www.codacy.com/project/gtrevellick/awib/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/awib&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/awib/badge)](https://www.codefactor.io/repository/github/GregTrevellick/awib)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/awib/report?token=&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/awib/branch/master/summary)
+
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/awib.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/awib/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/awib.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/awib/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib)
@@ -1139,7 +1125,7 @@ expand/collapse
 
 
 
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/awib/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/awib/latest?completed=true)
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1258,8 +1244,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3d3a599955b479dbe14f032bdec1be8)](https://www.codacy.com/project/gtrevellick/DotNetFlags/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/DotNetFlags&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags/badge)](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/report?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/DotNetFlags/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/DotNetFlags.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/DotNetFlags/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/DotNetFlags.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/DotNetFlags/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags/issues)
@@ -1303,8 +1289,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/35560f38029b47258343156a1866f349)](https://www.codacy.com/project/gtrevellick/FilesForEveryExtensionCreator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/FilesForEveryExtensionCreator&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/report?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/FilesForEveryExtensionCreator/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/FilesForEveryExtensionCreator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/FilesForEveryExtensionCreator/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/FilesForEveryExtensionCreator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/FilesForEveryExtensionCreator/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/issues)
@@ -1511,6 +1497,50 @@ expand/collapse
 </details>
 
 
+#####  [HelloWorldVsixCommandButton](https://github.com/GregTrevellick/HelloWorldVsixCommandButton)
+<details open>
+<summary>
+expand/collapse
+</summary>
+
+[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/subscription) to receive notificatons.
+
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixCommandButton?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixCommandButton)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bd4afcff4a544c8bd64757f0c3a1e5a)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixCommandButton/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixCommandButton&amp;utm_campaign=Badge_Grade_Dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton)
+[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/report?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixCommandButton/branch/master/summary)
+
+
+[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton)
+[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton)
+[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/pulls)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=alert_status)](https://sonarcloud.io/dashboard?id=HelloWorldVsixCommandButton)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=bugs)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=bugs)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=code_smells)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=code_smells)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=coverage)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=Coverage)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=duplicated_lines)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=ncloc)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=ncloc)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=reliability_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=security_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=security_rating)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=sqale_index)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=sqale_rating)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=vulnerabilities)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/d2ovw4fbrqic3ac4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixCommandButton)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixCommandButton/build/tests)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixCommandButton/_apis/build/status/HelloWorldVsixCommandButton)](https://gregtrevellick.visualstudio.com/HelloWorldVsixCommandButton/_build/latest?definitionId=40)
+[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/status?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixCommandButton/latest?completed=true)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
+[![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
+[![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
+[![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
+[![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
+[![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+
+</details>
+
+
 #####  [HelloWorldVsixPopUp](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 <details open>
 <summary>
@@ -1523,8 +1553,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03868a22c8db486d85c5d0bd33637e41)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/report?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixPopUp/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixPopUp.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixPopUp/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVsixPopUp.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixPopUp/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp/issues)
@@ -1611,8 +1641,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4d1ed9b21d9240cca47e314c1b06edda)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolWindowAsyncPackageExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/report?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/issues)
@@ -1699,8 +1729,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e4580e8133e04b8aa209252e37f3d1c6)](https://www.codacy.com/project/gtrevellick/HelloWorldWpfAsyncBindingPropertyExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/report?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/issues)
@@ -1743,8 +1773,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0f084189c9f94d619e3b5fe7052678c9)](https://www.codacy.com/project/gtrevellick/Menees.VsTools.2017/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Menees.VsTools.2017&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/report?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Menees.VsTools.2017/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/Menees.VsTools.2017.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/Menees.VsTools.2017/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/Menees.VsTools.2017.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/Menees.VsTools.2017/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017/issues)
@@ -1786,7 +1816,7 @@ expand/collapse
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/MiscellaneousArtefacts?branch=master)](https://bettercodehub.com/results/GregTrevellick/MiscellaneousArtefacts)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bf237f7393d4c9ea544206278ff51a8)](https://www.codacy.com/project/gtrevellick/MiscellaneousArtefacts/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/MiscellaneousArtefacts&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts/badge)](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/MiscellaneousArtefacts/report?token=&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/MiscellaneousArtefacts/branch/master/summary)
+
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/MiscellaneousArtefacts.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/MiscellaneousArtefacts/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/MiscellaneousArtefacts.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/MiscellaneousArtefacts/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
@@ -1807,7 +1837,7 @@ expand/collapse
 
 
 
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/MiscellaneousArtefacts/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/MiscellaneousArtefacts/latest?completed=true)
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1827,10 +1857,10 @@ expand/collapse
 
 [Subscribe](https://github.com/GregTrevellick/More/subscription) to receive notificatons.
 
-[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/More?branch=master)](https://bettercodehub.com/results/GregTrevellick/More)
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e7801c84e3d645859e668f1b6bd7af05)](https://www.codacy.com/project/gtrevellick/More/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/More&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/More/badge)](https://www.codefactor.io/repository/github/GregTrevellick/More)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/More/report?token=&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/More/branch/master/summary)
+
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/More.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/More/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/More.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/More/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More)
@@ -1851,7 +1881,7 @@ expand/collapse
 
 
 
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/More/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/More/latest?completed=true)
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2108,8 +2138,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/def29563a15940cda03af19faac0e006)](https://www.codacy.com/project/gtrevellick/QuickLaunchButtons/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/QuickLaunchButtons&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/QuickLaunchButtons/badge)](https://www.codefactor.io/repository/github/GregTrevellick/QuickLaunchButtons)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/report?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8)&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/QuickLaunchButtons/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/QuickLaunchButtons.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/QuickLaunchButtons/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/QuickLaunchButtons.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/QuickLaunchButtons/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/QuickLaunchButtons.svg)](https://github.com/GregTrevellick/QuickLaunchButtons)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/QuickLaunchButtons.svg)](https://github.com/GregTrevellick/QuickLaunchButtons)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/QuickLaunchButtons.svg)](https://github.com/GregTrevellick/QuickLaunchButtons/issues)
@@ -2165,8 +2195,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b1a2d4b9fd774d64ae56a8ffdd80b978)](https://www.codacy.com/project/gtrevellick/Quiz.Launcher/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Quiz.Launcher&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Quiz.Launcher/report?token=v6-CXe3t8AfJIAAumKlMWeWvtb6WzIPSJhFrRKnYzzs&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Quiz.Launcher/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/Quiz.Launcher.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/Quiz.Launcher/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/Quiz.Launcher.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/Quiz.Launcher/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher/issues)
@@ -2304,8 +2334,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23dfefe3b5014fd8b8462b47a3f38c1c)](https://www.codacy.com/project/gtrevellick/SolutionOpenPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/SolutionOpenPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/SolutionOpenPopUp/report?token=0Oyen_xXU89j-bI9P32-6JZzwRbipU51eX-y36w4VmA&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/SolutionOpenPopUp/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/SolutionOpenPopUp.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/SolutionOpenPopUp/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/SolutionOpenPopUp.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/SolutionOpenPopUp/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/SolutionOpenPopUp.svg)](https://github.com/GregTrevellick/SolutionOpenPopUp)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/SolutionOpenPopUp.svg)](https://github.com/GregTrevellick/SolutionOpenPopUp)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/SolutionOpenPopUp.svg)](https://github.com/GregTrevellick/SolutionOpenPopUp/issues)
@@ -2355,8 +2385,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/035ab76ee20d45c886d72be824507ab5)](https://www.codacy.com/project/gtrevellick/TrivialApisForIDE/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/TrivialApisForIDE&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE/badge)](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/TrivialApisForIDE/report?token=GpxBDXnJYBS1ejM-qYJEc9YH74BN5Aios8h_jYBjC_M&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/TrivialApisForIDE/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/TrivialApisForIDE.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/TrivialApisForIDE/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/TrivialApisForIDE.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/TrivialApisForIDE/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/TrivialApisForIDE.svg)](https://github.com/GregTrevellick/TrivialApisForIDE)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/TrivialApisForIDE.svg)](https://github.com/GregTrevellick/TrivialApisForIDE)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/TrivialApisForIDE.svg)](https://github.com/GregTrevellick/TrivialApisForIDE/issues)
@@ -2560,8 +2590,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7e6f7c8bd4d240398affcd2202b84fd8)](https://www.codacy.com/project/gtrevellick/VsixFootball/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootball&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/report?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootball/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixFootball.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixFootball/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixFootball.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixFootball/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball/issues)
@@ -2611,8 +2641,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/55911452f4154dd9a5599bd6fae3c725)](https://www.codacy.com/project/gtrevellick/VsixFootie/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootie&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/report?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootie/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixFootie.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixFootie/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixFootie.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixFootie/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie/issues)
@@ -2662,8 +2692,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/688c1d5a2ec547faa61230471639cb8f)](https://www.codacy.com/project/gtrevellick/VsixRatingChaser/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixRatingChaser&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/report?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixRatingChaser/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixRatingChaser.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixRatingChaser/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixRatingChaser.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixRatingChaser/context:javascript)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser/issues)
