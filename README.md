@@ -454,7 +454,7 @@ expand/collapse
 </summary>
 
 
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AngularBasic/alerts/)
+[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/MattJeanes/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/AngularBasic/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsRotaWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsRotaWidget/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/alerts/)
@@ -479,7 +479,7 @@ expand/collapse
 </summary>
 
 
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AngularBasic/context:javascript)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/MattJeanes/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/AngularBasic/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsRotaWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsRotaWidget/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/context:javascript)
@@ -996,8 +996,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6c528ee94ef349d2b9f3d548761e8617)](https://www.codacy.com/project/gtrevellick/AngularBasic/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AngularBasic&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AngularBasic/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AngularBasic)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/report?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AngularBasic/branch/master/summary)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AngularBasic/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AngularBasic/context:javascript)
+[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/MattJeanes/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/AngularBasic/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/MattJeanes/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/AngularBasic/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AngularBasic.svg)](https://github.com/GregTrevellick/AngularBasic)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/AngularBasic.svg)](https://github.com/GregTrevellick/AngularBasic)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AngularBasic.svg)](https://github.com/GregTrevellick/AngularBasic/issues)
