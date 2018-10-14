@@ -225,41 +225,23 @@ expand/collapse
 </summary>
 
 
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-angularbasic-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-autofindreplace-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-awib-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsrotawidget-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-browserextensionusingangularworksinchromenotinedge-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-dotnetflags-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-filesforeveryextensioncreator-master)
+[![CodeBeat](https://codebeat.co/badges/4accb8ab-c72b-42f8-91e3-6e0bed64b288)](https://codebeat.co/projects/github-com-gregtrevellick-angularbasic-master)
+[![CodeBeat](https://codebeat.co/badges/2d12821b-76ac-45e4-8d62-2fefd5e046c5)](https://codebeat.co/projects/github-com-gregtrevellick-awib-master)
+[![CodeBeat](https://codebeat.co/badges/5fc8c82c-4aa3-4a42-ad8e-ad5493867f8e)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsrotawidget-master)
+[![CodeBeat](https://codebeat.co/badges/7ccd2ccb-3f8b-4f87-926c-9da61b0979f1)](https://codebeat.co/projects/github-com-gregtrevellick-browserextensionusingangularworksinchromenotinedge-master)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-gregt.sidewafflev2-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldblazor-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptparcel-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptwebpack-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvsixcommandbutton-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvsixpopup-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvsixtoolbar-master)
-[![CodeBeat](https://codebeat.co/badges/2c801446-eda5-42a7-a473-eaab81088c59)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvsixtoolwindowasyncpackageexample-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvstsextension-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldwpfasyncbindingpropertyexample-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-menees.vstools.2017-master)
+[![CodeBeat](https://codebeat.co/badges/ee23d8b7-a3da-4a34-979f-426913611b02)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptparcel-master)
+[![CodeBeat](https://codebeat.co/badges/f674a762-16d9-40ac-ad05-2878371b854a)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptwebpack-master)
+[![CodeBeat](https://codebeat.co/badges/ddb8f4fc-2d56-45a9-9875-031be87ed328)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvstsextension-master)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-miscellaneousartefacts-master)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-more-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-opencoverexample-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-openinapp.launcher-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-quicklaunchbuttons-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-quiz.launcher-master)
+[![CodeBeat](https://codebeat.co/badges/acd43-7c9d-4087-8c59-6cda871a96f1)](https://codebeat.co/projects/github-com-gregtrevellick-opencoverexample-master)
+[![CodeBeat](https://codebeat.co/badges/a7581535-50d9-476a-935d-d64dee54e5c0)](https://codebeat.co/projects/github-com-gregtrevellick-openinapp.launcher-master)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-readmesynchronizer-master)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-renameprojectvsextension-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-solutionopenpopup-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-trivialapisforide-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-visualstudiomarketplacemetrics-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixblazorminimalprojecttemplate-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixdotnetcorepoc-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixfootball-master)
+[![CodeBeat](https://codebeat.co/badges/473ea34e-b1c4-42fe-a8df-1d7d6e587d50)](https://codebeat.co/projects/github-com-gregtrevellick-visualstudiomarketplacemetrics-master)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixfootie-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixratingchaser-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixtwitterwidget-master)
+[![CodeBeat](https://codebeat.co/badges/79109628-46aa-4106-9c65-9ffe44b7e942)](https://codebeat.co/projects/github-com-gregtrevellick-vsixtwitterwidget-master)
 [![CodeBeat](https://codebeat.co/badges/0b3ae36f-f194-4c03-890d-8ccda5daf299)](https://codebeat.co/projects/github-com-gregtrevellick-vstsdashboardwidgetprojecttemplate-master)
 
 </details>
@@ -999,7 +981,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AllBadges?branch=master)](https://bettercodehub.com/results/GregTrevellick/AllBadges)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5382464b5e5a47a2a67c3504142869d3)](https://www.codacy.com/project/gtrevellick/AllBadges/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AllBadges&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-allbadges-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AllBadges/report?token=e0IR4KC6HaNIJBXX8gi_amyD7LqljUnY3NxFSU78Vak)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AllBadges/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AllBadges.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AllBadges/alerts/)
@@ -1085,7 +1067,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AutoFindReplace?branch=master)](https://bettercodehub.com/results/GregTrevellick/AutoFindReplace)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/AutoFindReplace/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AutoFindReplace&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-autofindreplace-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/report?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AutoFindReplace/branch/master/summary)
 
@@ -1279,7 +1261,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/DotNetFlags?branch=master)](https://bettercodehub.com/results/GregTrevellick/DotNetFlags)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3d3a599955b479dbe14f032bdec1be8)](https://www.codacy.com/project/gtrevellick/DotNetFlags/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/DotNetFlags&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-dotnetflags-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags/badge)](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/report?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/DotNetFlags/branch/master/summary)
 
@@ -1325,7 +1307,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/FilesForEveryExtensionCreator?branch=master)](https://bettercodehub.com/results/GregTrevellick/FilesForEveryExtensionCreator)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/35560f38029b47258343156a1866f349)](https://www.codacy.com/project/gtrevellick/FilesForEveryExtensionCreator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/FilesForEveryExtensionCreator&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-filesforeveryextensioncreator-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/report?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/FilesForEveryExtensionCreator/branch/master/summary)
 
@@ -1415,7 +1397,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldBlazor?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldBlazor)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/52248629623c4b99b7039e7adb2a54c5)](https://www.codacy.com/project/gtrevellick/HelloWorldBlazor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldBlazor&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldblazor-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/report?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldBlazor/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/alerts/)
@@ -1550,7 +1532,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixCommandButton?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixCommandButton)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bd4afcff4a544c8bd64757f0c3a1e5a)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixCommandButton/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixCommandButton&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvsixcommandbutton-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/report?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixCommandButton/branch/master/summary)
 
@@ -1595,7 +1577,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixPopUp)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03868a22c8db486d85c5d0bd33637e41)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvsixpopup-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/report?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixPopUp/branch/master/summary)
 
@@ -1640,7 +1622,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixToolBar?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixToolBar)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b397d57fb66841b0a4f67e9718840281)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolBar/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolBar&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvsixtoolbar-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/report?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolBar/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/alerts/)
@@ -1685,7 +1667,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4d1ed9b21d9240cca47e314c1b06edda)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolWindowAsyncPackageExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvsixtoolwindowasyncpackageexample-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/report?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/branch/master/summary)
 
@@ -1775,7 +1757,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e4580e8133e04b8aa209252e37f3d1c6)](https://www.codacy.com/project/gtrevellick/HelloWorldWpfAsyncBindingPropertyExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldwpfasyncbindingpropertyexample-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/report?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/branch/master/summary)
 
@@ -1820,7 +1802,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Menees.VsTools.2017?branch=master)](https://bettercodehub.com/results/GregTrevellick/Menees.VsTools.2017)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0f084189c9f94d619e3b5fe7052678c9)](https://www.codacy.com/project/gtrevellick/Menees.VsTools.2017/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Menees.VsTools.2017&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-menees.vstools.2017-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/report?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Menees.VsTools.2017/branch/master/summary)
 
@@ -2190,7 +2172,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/QuickLaunchButtons?branch=master)](https://bettercodehub.com/results/GregTrevellick/QuickLaunchButtons)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/def29563a15940cda03af19faac0e006)](https://www.codacy.com/project/gtrevellick/QuickLaunchButtons/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/QuickLaunchButtons&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-quicklaunchbuttons-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/QuickLaunchButtons/badge)](https://www.codefactor.io/repository/github/GregTrevellick/QuickLaunchButtons)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/report?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8))](https://inspecode.rocro.com/reports/github.com/GregTrevellick/QuickLaunchButtons/branch/master/summary)
 
@@ -2248,7 +2230,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Quiz.Launcher?branch=master)](https://bettercodehub.com/results/GregTrevellick/Quiz.Launcher)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b1a2d4b9fd774d64ae56a8ffdd80b978)](https://www.codacy.com/project/gtrevellick/Quiz.Launcher/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Quiz.Launcher&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-quiz.launcher-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Quiz.Launcher/report?token=v6-CXe3t8AfJIAAumKlMWeWvtb6WzIPSJhFrRKnYzzs)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Quiz.Launcher/branch/master/summary)
 
@@ -2390,7 +2372,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/SolutionOpenPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/SolutionOpenPopUp)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23dfefe3b5014fd8b8462b47a3f38c1c)](https://www.codacy.com/project/gtrevellick/SolutionOpenPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/SolutionOpenPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-solutionopenpopup-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/SolutionOpenPopUp/report?token=0Oyen_xXU89j-bI9P32-6JZzwRbipU51eX-y36w4VmA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/SolutionOpenPopUp/branch/master/summary)
 
@@ -2442,7 +2424,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/TrivialApisForIDE?branch=master)](https://bettercodehub.com/results/GregTrevellick/TrivialApisForIDE)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/035ab76ee20d45c886d72be824507ab5)](https://www.codacy.com/project/gtrevellick/TrivialApisForIDE/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/TrivialApisForIDE&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-trivialapisforide-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE/badge)](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/TrivialApisForIDE/report?token=GpxBDXnJYBS1ejM-qYJEc9YH74BN5Aios8h_jYBjC_M)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/TrivialApisForIDE/branch/master/summary)
 
@@ -2554,7 +2536,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixBlazorMinimalProjectTemplate?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixBlazorMinimalProjectTemplate)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/40dfe21f31da4c15b679bb586776a9b3)](https://www.codacy.com/project/gtrevellick/VsixBlazorMinimalProjectTemplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixBlazorMinimalProjectTemplate&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixblazorminimalprojecttemplate-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixBlazorMinimalProjectTemplate/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixBlazorMinimalProjectTemplate)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/report?token=kEFMGhJTLhNvwwmZKiXB72Z8IkXY1FFBb0enecLrGDg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/alerts/)
@@ -2606,7 +2588,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixDotNetCorePoc?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixDotNetCorePoc)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e2fa50e29fea429897c304c79e9d9479)](https://www.codacy.com/project/gtrevellick/VsixDotNetCorePoc/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixDotNetCorePoc&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixdotnetcorepoc-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixDotNetCorePoc/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixDotNetCorePoc)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixDotNetCorePoc/report?token=i3SrWsobKqLgHa0BUgcUnuWt9AsHVHX5GpvlXQIdYt0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixDotNetCorePoc/branch/master/summary)
 
@@ -2651,7 +2633,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootball?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootball)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7e6f7c8bd4d240398affcd2202b84fd8)](https://www.codacy.com/project/gtrevellick/VsixFootball/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootball&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixfootball-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/report?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootball/branch/master/summary)
 
@@ -2755,7 +2737,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixRatingChaser?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixRatingChaser)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/688c1d5a2ec547faa61230471639cb8f)](https://www.codacy.com/project/gtrevellick/VsixRatingChaser/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixRatingChaser&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixratingchaser-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser)
 [![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/report?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixRatingChaser/branch/master/summary)
 
