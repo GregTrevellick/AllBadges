@@ -11,36 +11,42 @@ expand/collapse
 </summary>
 
 
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/2iy2c8ucrn5mc96o?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/01islyin3t8bsxoe?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0yqqgbviev6x1pe3?svg=true)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/b1t4vqmcjjoqos9u?svg=true)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/53q1kagc0jsbfpik?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9ik81ir38chjwcp9?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/u3s4x8kx4fo0ejog?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/4pjmtgwdmqrpg1pl?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptWebpack)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/d2ovw4fbrqic3ac4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixCommandButton)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/j3hutqo41xv8xo06?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixPopUp)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/kv8q5fajysjxdwur?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolBar)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/1fha75b06hpw2lip?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ola9n1um34vha0x4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eg1nxsm1a3c754al?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eiso821168e15t9e?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/e8fq3ang07ahq8yf?svg=true)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i3u8gbuxoql23t9i?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/uy4igyamwjq51gx4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/p304wa3aqlwir63f?svg=true)](https://ci.appveyor.com/project/GregTrevellick/RenameProjectVsExtension)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/89c8gp1t0rua9fiw?svg=true)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/iapcrndog6fvdd9l?svg=true)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/6sbejo44yn8ckbc0?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VisualStudioMarketplaceMetrics)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/kje6fcd2r5ng44p1?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixBlazorMinimalProjectTemplate)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ktrqskiaastij4jd?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixDotNetCorePoc)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/wg65x8dnr41whrpi?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i7kxey89fewvjkac?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/x7qcrnycboq55xgf?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixRatingChaser)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/s07rrwscpefb5k6h?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9uoctpmaj9wj6gjc?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/AngularBasic/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/AutoFindReplace/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/awib/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/AzureDevOpsRotaWidget/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/DotNetFlags/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/FilesForEveryExtensionCreator/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/Gregt.sidewafflev2/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldBlazor/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldTypescriptParcel/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldTypescriptWebpack/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixCommandButton/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixPopUp/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixToolBar/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVstsExtension/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/Menees.VsTools.2017/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/MiscellaneousArtefacts/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/More/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/OpenCoverExample/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/OpenInApp.Launcher/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/QuickLaunchButtons/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/Quiz.Launcher/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/ReadMeSynchronizer/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/RenameProjectVsExtension/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/SolutionOpenPopUp/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/TrivialApisForIDE/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VisualStudioMarketplaceMetrics/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixBlazorMinimalProjectTemplate/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixDotNetCorePoc/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixFootball/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixFootie/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixRatingChaser/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixTwitterWidget/depshield.svg)](https://depshield.github.io)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VstsDashboardWidgetProjectTemplate/depshield.svg)](https://depshield.github.io)
 
 </details>
 
@@ -171,7 +177,7 @@ expand/collapse
 </details>
 
 
-##### CodacyBadge
+##### Codacy
 <details open>
 <summary>
 expand/collapse
@@ -998,7 +1004,7 @@ expand/collapse
 
 
 
-
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/AllBadges/depshield.svg)](https://depshield.github.io)
 
 
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AllBadges/status?token=e0IR4KC6HaNIJBXX8gi_amyD7LqljUnY3NxFSU78Vak)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AllBadges/latest?completed=true)
@@ -1039,7 +1045,7 @@ expand/collapse
 
 
 
-
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/AngularBasic/depshield.svg)](https://depshield.github.io)
 
 
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/status?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AngularBasic/latest?completed=true)
@@ -1084,7 +1090,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/2iy2c8ucrn5mc96o?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/AutoFindReplace/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AutoFindReplace.svg)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AutoFindReplace/_apis/build/status/AutoFindReplace)](https://gregtrevellick.visualstudio.com/AutoFindReplace/_build/latest?definitionId=4)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/status?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AutoFindReplace/latest?completed=true)
@@ -1136,7 +1142,7 @@ expand/collapse
 
 
 
-
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/awib/depshield.svg)](https://depshield.github.io)
 
 
 
@@ -1181,7 +1187,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/01islyin3t8bsxoe?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/AzureDevOpsRotaWidget/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsRotaWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_apis/build/status/AzureDevOpsRotaWidget)](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_build/latest?definitionId=13)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/status?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AzureDevOpsRotaWidget/latest?completed=true)
@@ -1233,7 +1239,7 @@ expand/collapse
 
 
 
-
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/depshield.svg)](https://depshield.github.io)
 
 
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/status?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/latest?completed=true)
@@ -1278,7 +1284,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=sqale_index)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0yqqgbviev6x1pe3?svg=true)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/DotNetFlags/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/DotNetFlags.svg)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/DotNetFlags/_apis/build/status/DotNetFlags)](https://gregtrevellick.visualstudio.com/DotNetFlags/_build/latest?definitionId=1)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/status?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/DotNetFlags/latest?completed=true)
@@ -1324,7 +1330,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=sqale_index)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/b1t4vqmcjjoqos9u?svg=true)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/FilesForEveryExtensionCreator/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_apis/build/status/FilesForEveryExtensionCreator)](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_build/latest?definitionId=2)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/status?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/FilesForEveryExtensionCreator/latest?completed=true)
@@ -1369,7 +1375,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=sqale_index)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/53q1kagc0jsbfpik?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/Gregt.sidewafflev2/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Gregt-sidewafflev2.svg)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_apis/build/status/Gregt.sidewafflev2)](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_build/latest?definitionId=9)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/status?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Gregt.sidewafflev2/latest?completed=true)
@@ -1414,7 +1420,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9ik81ir38chjwcp9?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldBlazor/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldBlazor.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_apis/build/status/HelloWorldBlazor)](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_build/latest?definitionId=37)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/status?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldBlazor/latest?completed=true)
@@ -1459,7 +1465,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/u3s4x8kx4fo0ejog?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldTypescriptParcel/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_apis/build/status/HelloWorldTypescriptParcel)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_build/latest?definitionId=11)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/status?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptParcel/latest?completed=true)
@@ -1504,7 +1510,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptWebpack&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptWebpack&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/4pjmtgwdmqrpg1pl?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptWebpack)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldTypescriptWebpack/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldTypescriptWebpack.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptWebpack/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptWebpack/_apis/build/status/HelloWorldTypescriptWebpack)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptWebpack/_build/latest?definitionId=33)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptWebpack/status?token=sgHaN9gW7m5tBQkAbtC-jwffm_7YeTIjET92DyRBrK4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptWebpack/latest?completed=true)
@@ -1549,7 +1555,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixCommandButton&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVsixCommandButton&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/d2ovw4fbrqic3ac4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixCommandButton)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixCommandButton/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixCommandButton/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixCommandButton/_apis/build/status/HelloWorldVsixCommandButton)](https://gregtrevellick.visualstudio.com/HelloWorldVsixCommandButton/_build/latest?definitionId=40)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/status?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixCommandButton/latest?completed=true)
@@ -1594,7 +1600,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixPopUp&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVsixPopUp&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/j3hutqo41xv8xo06?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixPopUp)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixPopUp/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixPopUp.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixPopUp/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixPopUp/_apis/build/status/HelloWorldVsixPopUp)](https://gregtrevellick.visualstudio.com/HelloWorldVsixPopUp/_build/latest?definitionId=32)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/status?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixPopUp/latest?completed=true)
@@ -1639,7 +1645,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolBar&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolBar&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/kv8q5fajysjxdwur?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolBar)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixToolBar/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixToolBar.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolBar/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_apis/build/status/HelloWorldVsixToolBar)](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_build/latest?definitionId=34)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/status?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolBar/latest?completed=true)
@@ -1684,7 +1690,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVsixToolWindowAsyncPackageExample&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVsixToolWindowAsyncPackageExample&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/1fha75b06hpw2lip?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolWindowAsyncPackageExample/_apis/build/status/HelloWorldVsixToolWindowAsyncPackageExample)](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolWindowAsyncPackageExample/_build/latest?definitionId=26)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/status?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/latest?completed=true)
@@ -1729,7 +1735,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ola9n1um34vha0x4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVstsExtension/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVstsExtension.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_apis/build/status/HelloWorldVstsExtension)](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_build/latest?definitionId=35)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/status?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVstsExtension/latest?completed=true)
@@ -1774,7 +1780,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_index)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldWpfAsyncBindingPropertyExample&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldWpfAsyncBindingPropertyExample&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eg1nxsm1a3c754al?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldWpfAsyncBindingPropertyExample/_apis/build/status/HelloWorldWpfAsyncBindingPropertyExample)](https://gregtrevellick.visualstudio.com/HelloWorldWpfAsyncBindingPropertyExample/_build/latest?definitionId=27)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/status?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/latest?completed=true)
@@ -1819,7 +1825,7 @@ expand/collapse
 
 
 
-
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/Menees.VsTools.2017/depshield.svg)](https://depshield.github.io)
 
 
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/status?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Menees.VsTools.2017/latest?completed=true)
@@ -1864,7 +1870,7 @@ expand/collapse
 
 
 
-
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/MiscellaneousArtefacts/depshield.svg)](https://depshield.github.io)
 
 
 
@@ -1909,7 +1915,7 @@ expand/collapse
 
 
 
-
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/More/depshield.svg)](https://depshield.github.io)
 
 
 
@@ -1954,7 +1960,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=sqale_index)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eiso821168e15t9e?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/OpenCoverExample/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenCoverExample.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample/build/tests)
 
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenCoverExample/latest?completed=true)
@@ -1999,7 +2005,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=sqale_index)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=OpenInApp.Launcher&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=OpenInApp.Launcher&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/OpenInApp.Launcher/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenInApp-Launcher.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/OpenInApp.Launcher/_apis/build/status/OpenInApp.Launcher)](https://gregtrevellick.visualstudio.com/OpenInApp.Launcher/_build/latest?definitionId=10)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenInApp.Launcher/status?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenInApp.Launcher/latest?completed=true)
@@ -2189,7 +2195,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=sqale_index)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=QuickLaunchButtons&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=QuickLaunchButtons&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/e8fq3ang07ahq8yf?svg=true)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/QuickLaunchButtons/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/QuickLaunchButtons.svg)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/QuickLaunchButtons/_apis/build/status/QuickLaunchButtons)](https://gregtrevellick.visualstudio.com/QuickLaunchButtons/_build/latest?definitionId=17)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/status?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8))](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/QuickLaunchButtons/latest?completed=true)
@@ -2247,7 +2253,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=sqale_index)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Quiz.Launcher&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Quiz.Launcher&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i3u8gbuxoql23t9i?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/Quiz.Launcher/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Quiz-Launcher.svg)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/Quiz.Launcher/_apis/build/status/Quiz.Launcher)](https://gregtrevellick.visualstudio.com/Quiz.Launcher/_build/latest?definitionId=18)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Quiz.Launcher/status?token=v6-CXe3t8AfJIAAumKlMWeWvtb6WzIPSJhFrRKnYzzs)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Quiz.Launcher/latest?completed=true)
@@ -2299,7 +2305,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=ReadMeSynchronizer&metric=sqale_index)](https://sonarcloud.io/component_measures?id=ReadMeSynchronizer&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=ReadMeSynchronizer&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=ReadMeSynchronizer&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ReadMeSynchronizer&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=ReadMeSynchronizer&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/uy4igyamwjq51gx4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/ReadMeSynchronizer/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/ReadMeSynchronizer.svg)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/ReadMeSynchronizer/_apis/build/status/ReadMeSynchronizer)](https://gregtrevellick.visualstudio.com/ReadMeSynchronizer/_build/latest?definitionId=24)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/ReadMeSynchronizer/status?token=0ltbjGw6KH1y7DAIB3JSvLin2HpRyvmzqFACVrf1jbA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/ReadMeSynchronizer/latest?completed=true)
@@ -2344,7 +2350,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=RenameProjectVsExtension&metric=sqale_index)](https://sonarcloud.io/component_measures?id=RenameProjectVsExtension&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=RenameProjectVsExtension&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=RenameProjectVsExtension&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=RenameProjectVsExtension&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=RenameProjectVsExtension&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/p304wa3aqlwir63f?svg=true)](https://ci.appveyor.com/project/GregTrevellick/RenameProjectVsExtension)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/RenameProjectVsExtension/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/RenameProjectVsExtension.svg)](https://ci.appveyor.com/project/GregTrevellick/RenameProjectVsExtension/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/RenameProjectVsExtension/_apis/build/status/RenameProjectVsExtension)](https://gregtrevellick.visualstudio.com/RenameProjectVsExtension/_build/latest?definitionId=22)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/RenameProjectVsExtension/status?token=WePkH9SUX-2WNA2hb5Bc5YpCco8coo_x_I_FdRzeW9c)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/RenameProjectVsExtension/latest?completed=true)
@@ -2389,7 +2395,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=sqale_index)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=SolutionOpenPopUp&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=SolutionOpenPopUp&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/89c8gp1t0rua9fiw?svg=true)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/SolutionOpenPopUp/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/SolutionOpenPopUp.svg)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/SolutionOpenPopUp/_apis/build/status/SolutionOpenPopUp)](https://gregtrevellick.visualstudio.com/SolutionOpenPopUp/_build/latest?definitionId=20)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/SolutionOpenPopUp/status?token=0Oyen_xXU89j-bI9P32-6JZzwRbipU51eX-y36w4VmA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/SolutionOpenPopUp/latest?completed=true)
@@ -2441,7 +2447,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=sqale_index)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=TrivialApisForIDE&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=TrivialApisForIDE&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/iapcrndog6fvdd9l?svg=true)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/TrivialApisForIDE/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/TrivialApisForIDE.svg)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/TrivialApisForIDE/_apis/build/status/TrivialApisForIDE)](https://gregtrevellick.visualstudio.com/TrivialApisForIDE/_build/latest?definitionId=21)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/TrivialApisForIDE/status?token=GpxBDXnJYBS1ejM-qYJEc9YH74BN5Aios8h_jYBjC_M)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/TrivialApisForIDE/latest?completed=true)
@@ -2505,7 +2511,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VisualStudioMarketplaceMetrics&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VisualStudioMarketplaceMetrics&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VisualStudioMarketplaceMetrics&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VisualStudioMarketplaceMetrics&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VisualStudioMarketplaceMetrics&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VisualStudioMarketplaceMetrics&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/6sbejo44yn8ckbc0?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VisualStudioMarketplaceMetrics)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VisualStudioMarketplaceMetrics/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VisualStudioMarketplaceMetrics.svg)](https://ci.appveyor.com/project/GregTrevellick/VisualStudioMarketplaceMetrics/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VisualStudioMarketplaceMetrics/_apis/build/status/VisualStudioMarketplaceMetrics)](https://gregtrevellick.visualstudio.com/VisualStudioMarketplaceMetrics/_build/latest?definitionId=23)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/status?token=RuLGAweRyHlv5VgxPHHzj3-EH5BS4bX3rXLoIkyHS9o)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/latest?completed=true)
@@ -2553,7 +2559,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixBlazorMinimalProjectTemplate&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixBlazorMinimalProjectTemplate&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixBlazorMinimalProjectTemplate&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixBlazorMinimalProjectTemplate&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixBlazorMinimalProjectTemplate&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixBlazorMinimalProjectTemplate&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/kje6fcd2r5ng44p1?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixBlazorMinimalProjectTemplate)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixBlazorMinimalProjectTemplate/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixBlazorMinimalProjectTemplate/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixBlazorMinimalProjectTemplate/_apis/build/status/VsixBlazorMinimalProjectTemplate)](https://gregtrevellick.visualstudio.com/VsixBlazorMinimalProjectTemplate/_build/latest?definitionId=5)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/status?token=kEFMGhJTLhNvwwmZKiXB72Z8IkXY1FFBb0enecLrGDg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/latest?completed=true)
@@ -2605,7 +2611,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixDotNetCorePoc&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixDotNetCorePoc&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ktrqskiaastij4jd?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixDotNetCorePoc)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixDotNetCorePoc/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixDotNetCorePoc.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixDotNetCorePoc/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixDotNetCorePoc/_apis/build/status/VsixDotNetCorePoc)](https://gregtrevellick.visualstudio.com/VsixDotNetCorePoc/_build/latest?definitionId=31)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixDotNetCorePoc/status?token=i3SrWsobKqLgHa0BUgcUnuWt9AsHVHX5GpvlXQIdYt0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixDotNetCorePoc/latest?completed=true)
@@ -2650,7 +2656,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixFootball&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixFootball&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/wg65x8dnr41whrpi?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixFootball/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootball.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootball/_apis/build/status/VsixFootball)](https://gregtrevellick.visualstudio.com/VsixFootball/_build/latest?definitionId=3)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/status?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootball/latest?completed=true)
@@ -2702,7 +2708,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i7kxey89fewvjkac?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixFootie/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootie.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootie/_apis/build/status/VsixFootie)](https://gregtrevellick.visualstudio.com/VsixFootie/_build/latest?definitionId=19)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/status?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootie/latest?completed=true)
@@ -2754,7 +2760,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/x7qcrnycboq55xgf?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixRatingChaser)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixRatingChaser/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixRatingChaser.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixRatingChaser/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_apis/build/status/VsixRatingChaser)](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_build/latest?definitionId=30)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/status?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixRatingChaser/latest?completed=true)
@@ -2800,7 +2806,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/s07rrwscpefb5k6h?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixTwitterWidget/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixTwitterWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_apis/build/status/VsixTwitterWidget)](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_build/latest?definitionId=29)
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixTwitterWidget/status?token=6GNCjP8IXuJUKjSg-APAprG8Pu-7a0PtKHX7RL6YmjM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixTwitterWidget/latest?completed=true)
@@ -2984,7 +2990,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=sqale_index)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=sqale_rating)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9uoctpmaj9wj6gjc?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VstsDashboardWidgetProjectTemplate/depshield.svg)](https://depshield.github.io)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate/build/tests)
 
 [![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/status?token=5zO1mTfKF4nKph3hD9GdANBnrMBMEQfsu5JkCb8Q1W0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/latest?completed=true)
