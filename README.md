@@ -432,90 +432,90 @@ expand/collapse
 </details>
 
 
-##### InspecodeReport
+##### InspecodeRocroReport
 <details open>
 <summary>
 expand/collapse
 </summary>
 
 
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/report?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AngularBasic/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/report?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AutoFindReplace/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/report?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AzureDevOpsRotaWidget/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/report?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/report?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/DotNetFlags/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/report?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/FilesForEveryExtensionCreator/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/report?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Gregt.sidewafflev2/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/report?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldBlazor/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/report?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptParcel/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptWebpack/report?token=sgHaN9gW7m5tBQkAbtC-jwffm_7YeTIjET92DyRBrK4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptWebpack/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/report?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixCommandButton/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/report?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixPopUp/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/report?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolBar/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/report?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/report?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVstsExtension/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/report?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/report?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Menees.VsTools.2017/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/report?token=)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenCoverExample/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenInApp.Launcher/report?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenInApp.Launcher/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/report?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8))](https://inspecode.rocro.com/reports/github.com/GregTrevellick/QuickLaunchButtons/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Quiz.Launcher/report?token=v6-CXe3t8AfJIAAumKlMWeWvtb6WzIPSJhFrRKnYzzs)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Quiz.Launcher/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/ReadMeSynchronizer/report?token=0ltbjGw6KH1y7DAIB3JSvLin2HpRyvmzqFACVrf1jbA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/ReadMeSynchronizer/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/RenameProjectVsExtension/report?token=WePkH9SUX-2WNA2hb5Bc5YpCco8coo_x_I_FdRzeW9c)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/RenameProjectVsExtension/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/SolutionOpenPopUp/report?token=0Oyen_xXU89j-bI9P32-6JZzwRbipU51eX-y36w4VmA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/SolutionOpenPopUp/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/TrivialApisForIDE/report?token=GpxBDXnJYBS1ejM-qYJEc9YH74BN5Aios8h_jYBjC_M)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/TrivialApisForIDE/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/report?token=RuLGAweRyHlv5VgxPHHzj3-EH5BS4bX3rXLoIkyHS9o)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/report?token=kEFMGhJTLhNvwwmZKiXB72Z8IkXY1FFBb0enecLrGDg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixDotNetCorePoc/report?token=i3SrWsobKqLgHa0BUgcUnuWt9AsHVHX5GpvlXQIdYt0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixDotNetCorePoc/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/report?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootball/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/report?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootie/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/report?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixRatingChaser/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixTwitterWidget/report?token=6GNCjP8IXuJUKjSg-APAprG8Pu-7a0PtKHX7RL6YmjM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixTwitterWidget/branch/master/summary)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/report?token=5zO1mTfKF4nKph3hD9GdANBnrMBMEQfsu5JkCb8Q1W0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/report?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AngularBasic/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/report?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AutoFindReplace/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/report?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AzureDevOpsRotaWidget/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/report?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/report?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/DotNetFlags/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/report?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/FilesForEveryExtensionCreator/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/report?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Gregt.sidewafflev2/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/report?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldBlazor/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/report?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptParcel/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptWebpack/report?token=sgHaN9gW7m5tBQkAbtC-jwffm_7YeTIjET92DyRBrK4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptWebpack/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/report?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixCommandButton/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/report?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixPopUp/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/report?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolBar/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/report?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/report?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVstsExtension/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/report?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/report?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Menees.VsTools.2017/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/report?token=)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenCoverExample/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenInApp.Launcher/report?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenInApp.Launcher/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/report?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8))](https://inspecode.rocro.com/reports/github.com/GregTrevellick/QuickLaunchButtons/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Quiz.Launcher/report?token=v6-CXe3t8AfJIAAumKlMWeWvtb6WzIPSJhFrRKnYzzs)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Quiz.Launcher/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/ReadMeSynchronizer/report?token=0ltbjGw6KH1y7DAIB3JSvLin2HpRyvmzqFACVrf1jbA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/ReadMeSynchronizer/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/RenameProjectVsExtension/report?token=WePkH9SUX-2WNA2hb5Bc5YpCco8coo_x_I_FdRzeW9c)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/RenameProjectVsExtension/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/SolutionOpenPopUp/report?token=0Oyen_xXU89j-bI9P32-6JZzwRbipU51eX-y36w4VmA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/SolutionOpenPopUp/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/TrivialApisForIDE/report?token=GpxBDXnJYBS1ejM-qYJEc9YH74BN5Aios8h_jYBjC_M)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/TrivialApisForIDE/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/report?token=RuLGAweRyHlv5VgxPHHzj3-EH5BS4bX3rXLoIkyHS9o)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/report?token=kEFMGhJTLhNvwwmZKiXB72Z8IkXY1FFBb0enecLrGDg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixDotNetCorePoc/report?token=i3SrWsobKqLgHa0BUgcUnuWt9AsHVHX5GpvlXQIdYt0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixDotNetCorePoc/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/report?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootball/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/report?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootie/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/report?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixRatingChaser/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixTwitterWidget/report?token=6GNCjP8IXuJUKjSg-APAprG8Pu-7a0PtKHX7RL6YmjM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixTwitterWidget/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/report?token=5zO1mTfKF4nKph3hD9GdANBnrMBMEQfsu5JkCb8Q1W0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/branch/master/summary)
 
 </details>
 
 
-##### InspecodeStatus
+##### InspecodeRocroStatus
 <details open>
 <summary>
 expand/collapse
 </summary>
 
 
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/status?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AngularBasic/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/status?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AutoFindReplace/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/status?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AzureDevOpsRotaWidget/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/status?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/status?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/DotNetFlags/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/status?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/FilesForEveryExtensionCreator/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/status?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Gregt.sidewafflev2/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/status?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldBlazor/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/status?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptParcel/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptWebpack/status?token=sgHaN9gW7m5tBQkAbtC-jwffm_7YeTIjET92DyRBrK4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptWebpack/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/status?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixCommandButton/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/status?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixPopUp/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/status?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolBar/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/status?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/status?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVstsExtension/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/status?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/status?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Menees.VsTools.2017/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenCoverExample/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenInApp.Launcher/status?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenInApp.Launcher/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/status?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8))](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/QuickLaunchButtons/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Quiz.Launcher/status?token=v6-CXe3t8AfJIAAumKlMWeWvtb6WzIPSJhFrRKnYzzs)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Quiz.Launcher/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/ReadMeSynchronizer/status?token=0ltbjGw6KH1y7DAIB3JSvLin2HpRyvmzqFACVrf1jbA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/ReadMeSynchronizer/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/RenameProjectVsExtension/status?token=WePkH9SUX-2WNA2hb5Bc5YpCco8coo_x_I_FdRzeW9c)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/RenameProjectVsExtension/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/SolutionOpenPopUp/status?token=0Oyen_xXU89j-bI9P32-6JZzwRbipU51eX-y36w4VmA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/SolutionOpenPopUp/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/TrivialApisForIDE/status?token=GpxBDXnJYBS1ejM-qYJEc9YH74BN5Aios8h_jYBjC_M)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/TrivialApisForIDE/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/status?token=RuLGAweRyHlv5VgxPHHzj3-EH5BS4bX3rXLoIkyHS9o)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/status?token=kEFMGhJTLhNvwwmZKiXB72Z8IkXY1FFBb0enecLrGDg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixDotNetCorePoc/status?token=i3SrWsobKqLgHa0BUgcUnuWt9AsHVHX5GpvlXQIdYt0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixDotNetCorePoc/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/status?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootball/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/status?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootie/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/status?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixRatingChaser/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixTwitterWidget/status?token=6GNCjP8IXuJUKjSg-APAprG8Pu-7a0PtKHX7RL6YmjM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixTwitterWidget/latest?completed=true)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/status?token=5zO1mTfKF4nKph3hD9GdANBnrMBMEQfsu5JkCb8Q1W0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/status?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AngularBasic/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/status?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AutoFindReplace/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/status?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AzureDevOpsRotaWidget/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/status?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/status?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/DotNetFlags/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/status?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/FilesForEveryExtensionCreator/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/status?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Gregt.sidewafflev2/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/status?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldBlazor/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/status?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptParcel/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptWebpack/status?token=sgHaN9gW7m5tBQkAbtC-jwffm_7YeTIjET92DyRBrK4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptWebpack/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/status?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixCommandButton/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/status?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixPopUp/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/status?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolBar/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/status?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/status?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVstsExtension/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/status?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/status?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Menees.VsTools.2017/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenCoverExample/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenInApp.Launcher/status?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenInApp.Launcher/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/status?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8))](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/QuickLaunchButtons/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Quiz.Launcher/status?token=v6-CXe3t8AfJIAAumKlMWeWvtb6WzIPSJhFrRKnYzzs)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Quiz.Launcher/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/ReadMeSynchronizer/status?token=0ltbjGw6KH1y7DAIB3JSvLin2HpRyvmzqFACVrf1jbA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/ReadMeSynchronizer/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/RenameProjectVsExtension/status?token=WePkH9SUX-2WNA2hb5Bc5YpCco8coo_x_I_FdRzeW9c)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/RenameProjectVsExtension/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/SolutionOpenPopUp/status?token=0Oyen_xXU89j-bI9P32-6JZzwRbipU51eX-y36w4VmA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/SolutionOpenPopUp/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/TrivialApisForIDE/status?token=GpxBDXnJYBS1ejM-qYJEc9YH74BN5Aios8h_jYBjC_M)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/TrivialApisForIDE/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/status?token=RuLGAweRyHlv5VgxPHHzj3-EH5BS4bX3rXLoIkyHS9o)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/status?token=kEFMGhJTLhNvwwmZKiXB72Z8IkXY1FFBb0enecLrGDg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixDotNetCorePoc/status?token=i3SrWsobKqLgHa0BUgcUnuWt9AsHVHX5GpvlXQIdYt0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixDotNetCorePoc/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/status?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootball/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/status?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootie/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/status?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixRatingChaser/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixTwitterWidget/status?token=6GNCjP8IXuJUKjSg-APAprG8Pu-7a0PtKHX7RL6YmjM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixTwitterWidget/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/status?token=5zO1mTfKF4nKph3hD9GdANBnrMBMEQfsu5JkCb8Q1W0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/latest?completed=true)
 
 </details>
 
@@ -1028,7 +1028,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/AllBadges/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AllBadges/report?token=e0IR4KC6HaNIJBXX8gi_amyD7LqljUnY3NxFSU78Vak)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AllBadges/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AllBadges/report?token=e0IR4KC6HaNIJBXX8gi_amyD7LqljUnY3NxFSU78Vak)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AllBadges/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AllBadges.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AllBadges/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AllBadges.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AllBadges/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AllBadges.svg)](https://github.com/GregTrevellick/AllBadges)
@@ -1049,7 +1049,7 @@ expand/collapse
 
 
 
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AllBadges/status?token=e0IR4KC6HaNIJBXX8gi_amyD7LqljUnY3NxFSU78Vak)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AllBadges/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AllBadges/status?token=e0IR4KC6HaNIJBXX8gi_amyD7LqljUnY3NxFSU78Vak)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AllBadges/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1070,7 +1070,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-angularbasic-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AngularBasic/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AngularBasic)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/AngularBasic/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/report?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AngularBasic/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/report?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AngularBasic/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/MattJeanes/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/AngularBasic/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/MattJeanes/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/AngularBasic/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AngularBasic.svg)](https://github.com/GregTrevellick/AngularBasic)
@@ -1091,7 +1091,7 @@ expand/collapse
 
 
 
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/status?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AngularBasic/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/status?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AngularBasic/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1116,7 +1116,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/AutoFindReplace/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/report?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AutoFindReplace/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/report?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AutoFindReplace/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AutoFindReplace.svg)](https://github.com/GregTrevellick/AutoFindReplace)
@@ -1137,7 +1137,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/2iy2c8ucrn5mc96o?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AutoFindReplace.svg)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AutoFindReplace/_apis/build/status/AutoFindReplace)](https://gregtrevellick.visualstudio.com/AutoFindReplace/_build/latest?definitionId=4)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/status?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AutoFindReplace/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/status?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AutoFindReplace/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1215,7 +1215,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsrotawidget-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsRotaWidget/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsRotaWidget)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/AzureDevOpsRotaWidget/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/report?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AzureDevOpsRotaWidget/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/report?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AzureDevOpsRotaWidget/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsRotaWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsRotaWidget/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsRotaWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsRotaWidget/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AzureDevOpsRotaWidget.svg)](https://github.com/GregTrevellick/AzureDevOpsRotaWidget)
@@ -1236,7 +1236,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/01islyin3t8bsxoe?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsRotaWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_apis/build/status/AzureDevOpsRotaWidget)](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_build/latest?definitionId=13)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/status?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AzureDevOpsRotaWidget/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/status?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AzureDevOpsRotaWidget/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1268,7 +1268,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-browserextensionusingangularworksinchromenotinedge-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/badge)](https://www.codefactor.io/repository/github/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/report?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/report?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg)](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
@@ -1289,7 +1289,7 @@ expand/collapse
 
 
 
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/status?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/status?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1314,7 +1314,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags/badge)](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/DotNetFlags/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/report?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/DotNetFlags/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/report?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/DotNetFlags/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
@@ -1335,7 +1335,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0yqqgbviev6x1pe3?svg=true)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/DotNetFlags.svg)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/DotNetFlags/_apis/build/status/DotNetFlags)](https://gregtrevellick.visualstudio.com/DotNetFlags/_build/latest?definitionId=1)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/status?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/DotNetFlags/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/status?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/DotNetFlags/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1361,7 +1361,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/FilesForEveryExtensionCreator/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/report?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/FilesForEveryExtensionCreator/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/report?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/FilesForEveryExtensionCreator/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
@@ -1382,7 +1382,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/b1t4vqmcjjoqos9u?svg=true)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_apis/build/status/FilesForEveryExtensionCreator)](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_build/latest?definitionId=2)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/status?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/FilesForEveryExtensionCreator/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/status?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/FilesForEveryExtensionCreator/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1407,7 +1407,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/Gregt.sidewafflev2/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/report?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Gregt.sidewafflev2/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/report?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Gregt.sidewafflev2/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
@@ -1428,7 +1428,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/53q1kagc0jsbfpik?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Gregt-sidewafflev2.svg)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_apis/build/status/Gregt.sidewafflev2)](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_build/latest?definitionId=9)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/status?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Gregt.sidewafflev2/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/status?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Gregt.sidewafflev2/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1453,7 +1453,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldBlazor/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/report?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldBlazor/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/report?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldBlazor/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldBlazor.svg)](https://github.com/GregTrevellick/HelloWorldBlazor)
@@ -1474,7 +1474,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9ik81ir38chjwcp9?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldBlazor.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_apis/build/status/HelloWorldBlazor)](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_build/latest?definitionId=37)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/status?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldBlazor/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/status?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldBlazor/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1499,7 +1499,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptparcel-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldTypescriptParcel/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/report?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptParcel/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/report?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptParcel/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
@@ -1520,7 +1520,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/u3s4x8kx4fo0ejog?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_apis/build/status/HelloWorldTypescriptParcel)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_build/latest?definitionId=11)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/status?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptParcel/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/status?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptParcel/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1545,7 +1545,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptwebpack-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptWebpack/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptWebpack)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldTypescriptWebpack/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptWebpack/report?token=sgHaN9gW7m5tBQkAbtC-jwffm_7YeTIjET92DyRBrK4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptWebpack/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptWebpack/report?token=sgHaN9gW7m5tBQkAbtC-jwffm_7YeTIjET92DyRBrK4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptWebpack/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldTypescriptWebpack.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldTypescriptWebpack/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldTypescriptWebpack.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldTypescriptWebpack/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldTypescriptWebpack.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack)
@@ -1566,7 +1566,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/4pjmtgwdmqrpg1pl?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptWebpack)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldTypescriptWebpack.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptWebpack/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptWebpack/_apis/build/status/HelloWorldTypescriptWebpack)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptWebpack/_build/latest?definitionId=33)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptWebpack/status?token=sgHaN9gW7m5tBQkAbtC-jwffm_7YeTIjET92DyRBrK4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptWebpack/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptWebpack/status?token=sgHaN9gW7m5tBQkAbtC-jwffm_7YeTIjET92DyRBrK4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptWebpack/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1591,7 +1591,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixCommandButton/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/report?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixCommandButton/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/report?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixCommandButton/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton)
@@ -1612,7 +1612,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/d2ovw4fbrqic3ac4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixCommandButton)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixCommandButton/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixCommandButton/_apis/build/status/HelloWorldVsixCommandButton)](https://gregtrevellick.visualstudio.com/HelloWorldVsixCommandButton/_build/latest?definitionId=40)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/status?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixCommandButton/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/status?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixCommandButton/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1637,7 +1637,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixPopUp/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/report?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixPopUp/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/report?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixPopUp/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
@@ -1658,7 +1658,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/j3hutqo41xv8xo06?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixPopUp)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixPopUp.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixPopUp/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixPopUp/_apis/build/status/HelloWorldVsixPopUp)](https://gregtrevellick.visualstudio.com/HelloWorldVsixPopUp/_build/latest?definitionId=32)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/status?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixPopUp/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixPopUp/status?token=oNkPHV11hkzDQYv0dII1bfSrRNMb0kxDqUbhyWy8FhE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixPopUp/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1683,7 +1683,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixToolBar/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/report?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolBar/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/report?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolBar/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixToolBar.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolBar)
@@ -1704,7 +1704,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/kv8q5fajysjxdwur?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolBar)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixToolBar.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolBar/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_apis/build/status/HelloWorldVsixToolBar)](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolBar/_build/latest?definitionId=34)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/status?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolBar/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolBar/status?token=wNVDnwrbVFr2W2kkEM8wOMGwF7ffsxHD3qQi2mI3ack)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolBar/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1729,7 +1729,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/report?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/report?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
@@ -1750,7 +1750,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/1fha75b06hpw2lip?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolWindowAsyncPackageExample/_apis/build/status/HelloWorldVsixToolWindowAsyncPackageExample)](https://gregtrevellick.visualstudio.com/HelloWorldVsixToolWindowAsyncPackageExample/_build/latest?definitionId=26)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/status?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/status?token=FbWZtbALFZ_nLoGAT74YnM4KPor3z3y9uT-k5cPDvrw)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1775,7 +1775,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvstsextension-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVstsExtension/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/report?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVstsExtension/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/report?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVstsExtension/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVstsExtension.svg)](https://github.com/GregTrevellick/HelloWorldVstsExtension)
@@ -1796,7 +1796,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ola9n1um34vha0x4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVstsExtension.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_apis/build/status/HelloWorldVstsExtension)](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_build/latest?definitionId=35)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/status?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVstsExtension/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/status?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldVstsExtension/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1821,7 +1821,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/report?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/report?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
@@ -1842,7 +1842,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eg1nxsm1a3c754al?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldWpfAsyncBindingPropertyExample/_apis/build/status/HelloWorldWpfAsyncBindingPropertyExample)](https://gregtrevellick.visualstudio.com/HelloWorldWpfAsyncBindingPropertyExample/_build/latest?definitionId=27)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/status?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/status?token=1oJZM6d7GHBXag6IHb7W-3aIcK5pCEMZ2zuTLQmJfvU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1867,7 +1867,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/Menees.VsTools.2017/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/report?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Menees.VsTools.2017/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/report?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Menees.VsTools.2017/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017)
@@ -1888,7 +1888,7 @@ expand/collapse
 
 
 
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/status?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Menees.VsTools.2017/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Menees.VsTools.2017/status?token=tAsFXjJev3rV1FKWaPN3tA2aveBv__PMY0TuXTaGxXU)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Menees.VsTools.2017/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2005,7 +2005,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-opencoverexample-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/OpenCoverExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/OpenCoverExample)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/OpenCoverExample/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/report?token=)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenCoverExample/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/report?token=)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenCoverExample/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/OpenCoverExample.svg)](https://github.com/GregTrevellick/OpenCoverExample)
@@ -2026,7 +2026,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eiso821168e15t9e?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenCoverExample.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample/build/tests)
 
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenCoverExample/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenCoverExample/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenCoverExample/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2051,7 +2051,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-openinapp.launcher-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/OpenInApp.Launcher/badge)](https://www.codefactor.io/repository/github/GregTrevellick/OpenInApp.Launcher)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/OpenInApp.Launcher/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenInApp.Launcher/report?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenInApp.Launcher/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenInApp.Launcher/report?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/OpenInApp.Launcher/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/OpenInApp.Launcher.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/OpenInApp.Launcher/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/OpenInApp.Launcher.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/OpenInApp.Launcher/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/OpenInApp.Launcher.svg)](https://github.com/GregTrevellick/OpenInApp.Launcher)
@@ -2072,7 +2072,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenInApp-Launcher.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenInApp-Launcher/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/OpenInApp.Launcher/_apis/build/status/OpenInApp.Launcher)](https://gregtrevellick.visualstudio.com/OpenInApp.Launcher/_build/latest?definitionId=10)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenInApp.Launcher/status?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenInApp.Launcher/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/OpenInApp.Launcher/status?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/OpenInApp.Launcher/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2242,7 +2242,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/QuickLaunchButtons/badge)](https://www.codefactor.io/repository/github/GregTrevellick/QuickLaunchButtons)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/QuickLaunchButtons/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/report?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8))](https://inspecode.rocro.com/reports/github.com/GregTrevellick/QuickLaunchButtons/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/report?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8))](https://inspecode.rocro.com/reports/github.com/GregTrevellick/QuickLaunchButtons/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/QuickLaunchButtons.svg)](https://github.com/GregTrevellick/QuickLaunchButtons)
@@ -2263,7 +2263,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/e8fq3ang07ahq8yf?svg=true)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/QuickLaunchButtons.svg)](https://ci.appveyor.com/project/GregTrevellick/QuickLaunchButtons/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/QuickLaunchButtons/_apis/build/status/QuickLaunchButtons)](https://gregtrevellick.visualstudio.com/QuickLaunchButtons/_build/latest?definitionId=17)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/status?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8))](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/QuickLaunchButtons/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/QuickLaunchButtons/status?token=iuSqTJxsdcqiMo6lLf8ZjNtUCVUtrkEvwGR9wD6-6R8))](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/QuickLaunchButtons/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2301,7 +2301,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/Quiz.Launcher/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Quiz.Launcher/report?token=v6-CXe3t8AfJIAAumKlMWeWvtb6WzIPSJhFrRKnYzzs)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Quiz.Launcher/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Quiz.Launcher/report?token=v6-CXe3t8AfJIAAumKlMWeWvtb6WzIPSJhFrRKnYzzs)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Quiz.Launcher/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher)
@@ -2322,7 +2322,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i3u8gbuxoql23t9i?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Quiz-Launcher.svg)](https://ci.appveyor.com/project/GregTrevellick/Quiz-Launcher/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/Quiz.Launcher/_apis/build/status/Quiz.Launcher)](https://gregtrevellick.visualstudio.com/Quiz.Launcher/_build/latest?definitionId=18)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Quiz.Launcher/status?token=v6-CXe3t8AfJIAAumKlMWeWvtb6WzIPSJhFrRKnYzzs)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Quiz.Launcher/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Quiz.Launcher/status?token=v6-CXe3t8AfJIAAumKlMWeWvtb6WzIPSJhFrRKnYzzs)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Quiz.Launcher/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2354,7 +2354,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-readmesynchronizer-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer/badge)](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/ReadMeSynchronizer/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/ReadMeSynchronizer/report?token=0ltbjGw6KH1y7DAIB3JSvLin2HpRyvmzqFACVrf1jbA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/ReadMeSynchronizer/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/ReadMeSynchronizer/report?token=0ltbjGw6KH1y7DAIB3JSvLin2HpRyvmzqFACVrf1jbA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/ReadMeSynchronizer/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/ReadMeSynchronizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/ReadMeSynchronizer/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/ReadMeSynchronizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/ReadMeSynchronizer/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/ReadMeSynchronizer.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
@@ -2375,7 +2375,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/uy4igyamwjq51gx4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/ReadMeSynchronizer.svg)](https://ci.appveyor.com/project/GregTrevellick/ReadMeSynchronizer/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/ReadMeSynchronizer/_apis/build/status/ReadMeSynchronizer)](https://gregtrevellick.visualstudio.com/ReadMeSynchronizer/_build/latest?definitionId=24)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/ReadMeSynchronizer/status?token=0ltbjGw6KH1y7DAIB3JSvLin2HpRyvmzqFACVrf1jbA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/ReadMeSynchronizer/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/ReadMeSynchronizer/status?token=0ltbjGw6KH1y7DAIB3JSvLin2HpRyvmzqFACVrf1jbA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/ReadMeSynchronizer/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2400,7 +2400,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-renameprojectvsextension-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/RenameProjectVsExtension/badge)](https://www.codefactor.io/repository/github/GregTrevellick/RenameProjectVsExtension)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/RenameProjectVsExtension/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/RenameProjectVsExtension/report?token=WePkH9SUX-2WNA2hb5Bc5YpCco8coo_x_I_FdRzeW9c)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/RenameProjectVsExtension/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/RenameProjectVsExtension/report?token=WePkH9SUX-2WNA2hb5Bc5YpCco8coo_x_I_FdRzeW9c)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/RenameProjectVsExtension/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/RenameProjectVsExtension.svg)](https://github.com/GregTrevellick/RenameProjectVsExtension)
@@ -2421,7 +2421,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/p304wa3aqlwir63f?svg=true)](https://ci.appveyor.com/project/GregTrevellick/RenameProjectVsExtension)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/RenameProjectVsExtension.svg)](https://ci.appveyor.com/project/GregTrevellick/RenameProjectVsExtension/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/RenameProjectVsExtension/_apis/build/status/RenameProjectVsExtension)](https://gregtrevellick.visualstudio.com/RenameProjectVsExtension/_build/latest?definitionId=22)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/RenameProjectVsExtension/status?token=WePkH9SUX-2WNA2hb5Bc5YpCco8coo_x_I_FdRzeW9c)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/RenameProjectVsExtension/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/RenameProjectVsExtension/status?token=WePkH9SUX-2WNA2hb5Bc5YpCco8coo_x_I_FdRzeW9c)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/RenameProjectVsExtension/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2446,7 +2446,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/SolutionOpenPopUp/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/SolutionOpenPopUp/report?token=0Oyen_xXU89j-bI9P32-6JZzwRbipU51eX-y36w4VmA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/SolutionOpenPopUp/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/SolutionOpenPopUp/report?token=0Oyen_xXU89j-bI9P32-6JZzwRbipU51eX-y36w4VmA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/SolutionOpenPopUp/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/SolutionOpenPopUp.svg)](https://github.com/GregTrevellick/SolutionOpenPopUp)
@@ -2467,7 +2467,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/89c8gp1t0rua9fiw?svg=true)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/SolutionOpenPopUp.svg)](https://ci.appveyor.com/project/GregTrevellick/SolutionOpenPopUp/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/SolutionOpenPopUp/_apis/build/status/SolutionOpenPopUp)](https://gregtrevellick.visualstudio.com/SolutionOpenPopUp/_build/latest?definitionId=20)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/SolutionOpenPopUp/status?token=0Oyen_xXU89j-bI9P32-6JZzwRbipU51eX-y36w4VmA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/SolutionOpenPopUp/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/SolutionOpenPopUp/status?token=0Oyen_xXU89j-bI9P32-6JZzwRbipU51eX-y36w4VmA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/SolutionOpenPopUp/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2499,7 +2499,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE/badge)](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/TrivialApisForIDE/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/TrivialApisForIDE/report?token=GpxBDXnJYBS1ejM-qYJEc9YH74BN5Aios8h_jYBjC_M)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/TrivialApisForIDE/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/TrivialApisForIDE/report?token=GpxBDXnJYBS1ejM-qYJEc9YH74BN5Aios8h_jYBjC_M)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/TrivialApisForIDE/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/TrivialApisForIDE.svg)](https://github.com/GregTrevellick/TrivialApisForIDE)
@@ -2520,7 +2520,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/iapcrndog6fvdd9l?svg=true)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/TrivialApisForIDE.svg)](https://ci.appveyor.com/project/GregTrevellick/TrivialApisForIDE/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/TrivialApisForIDE/_apis/build/status/TrivialApisForIDE)](https://gregtrevellick.visualstudio.com/TrivialApisForIDE/_build/latest?definitionId=21)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/TrivialApisForIDE/status?token=GpxBDXnJYBS1ejM-qYJEc9YH74BN5Aios8h_jYBjC_M)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/TrivialApisForIDE/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/TrivialApisForIDE/status?token=GpxBDXnJYBS1ejM-qYJEc9YH74BN5Aios8h_jYBjC_M)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/TrivialApisForIDE/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2564,7 +2564,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-visualstudiomarketplacemetrics-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VisualStudioMarketplaceMetrics/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VisualStudioMarketplaceMetrics)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VisualStudioMarketplaceMetrics/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/report?token=RuLGAweRyHlv5VgxPHHzj3-EH5BS4bX3rXLoIkyHS9o)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/report?token=RuLGAweRyHlv5VgxPHHzj3-EH5BS4bX3rXLoIkyHS9o)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VisualStudioMarketplaceMetrics.svg)](https://github.com/GregTrevellick/VisualStudioMarketplaceMetrics)
@@ -2585,7 +2585,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/6sbejo44yn8ckbc0?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VisualStudioMarketplaceMetrics)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VisualStudioMarketplaceMetrics.svg)](https://ci.appveyor.com/project/GregTrevellick/VisualStudioMarketplaceMetrics/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VisualStudioMarketplaceMetrics/_apis/build/status/VisualStudioMarketplaceMetrics)](https://gregtrevellick.visualstudio.com/VisualStudioMarketplaceMetrics/_build/latest?definitionId=23)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/status?token=RuLGAweRyHlv5VgxPHHzj3-EH5BS4bX3rXLoIkyHS9o)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/status?token=RuLGAweRyHlv5VgxPHHzj3-EH5BS4bX3rXLoIkyHS9o)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VisualStudioMarketplaceMetrics/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2613,7 +2613,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixBlazorMinimalProjectTemplate/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixBlazorMinimalProjectTemplate)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixBlazorMinimalProjectTemplate/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/report?token=kEFMGhJTLhNvwwmZKiXB72Z8IkXY1FFBb0enecLrGDg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/report?token=kEFMGhJTLhNvwwmZKiXB72Z8IkXY1FFBb0enecLrGDg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg)](https://github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate)
@@ -2634,7 +2634,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/kje6fcd2r5ng44p1?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixBlazorMinimalProjectTemplate)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixBlazorMinimalProjectTemplate/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixBlazorMinimalProjectTemplate/_apis/build/status/VsixBlazorMinimalProjectTemplate)](https://gregtrevellick.visualstudio.com/VsixBlazorMinimalProjectTemplate/_build/latest?definitionId=5)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/status?token=kEFMGhJTLhNvwwmZKiXB72Z8IkXY1FFBb0enecLrGDg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/status?token=kEFMGhJTLhNvwwmZKiXB72Z8IkXY1FFBb0enecLrGDg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2666,7 +2666,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixDotNetCorePoc/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixDotNetCorePoc)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixDotNetCorePoc/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixDotNetCorePoc/report?token=i3SrWsobKqLgHa0BUgcUnuWt9AsHVHX5GpvlXQIdYt0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixDotNetCorePoc/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixDotNetCorePoc/report?token=i3SrWsobKqLgHa0BUgcUnuWt9AsHVHX5GpvlXQIdYt0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixDotNetCorePoc/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixDotNetCorePoc.svg)](https://github.com/GregTrevellick/VsixDotNetCorePoc)
@@ -2687,7 +2687,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ktrqskiaastij4jd?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixDotNetCorePoc)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixDotNetCorePoc.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixDotNetCorePoc/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixDotNetCorePoc/_apis/build/status/VsixDotNetCorePoc)](https://gregtrevellick.visualstudio.com/VsixDotNetCorePoc/_build/latest?definitionId=31)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixDotNetCorePoc/status?token=i3SrWsobKqLgHa0BUgcUnuWt9AsHVHX5GpvlXQIdYt0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixDotNetCorePoc/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixDotNetCorePoc/status?token=i3SrWsobKqLgHa0BUgcUnuWt9AsHVHX5GpvlXQIdYt0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixDotNetCorePoc/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2712,7 +2712,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixFootball/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/report?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootball/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/report?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootball/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
@@ -2733,7 +2733,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/wg65x8dnr41whrpi?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootball.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootball/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootball/_apis/build/status/VsixFootball)](https://gregtrevellick.visualstudio.com/VsixFootball/_build/latest?definitionId=3)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/status?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootball/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootball/status?token=DSIOgo1VyiBPc9h0bu4u8FxkW8o4IrW3e4dEm9ymYSY)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootball/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2765,7 +2765,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixfootie-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixFootie/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/report?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootie/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/report?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootie/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie)
@@ -2786,7 +2786,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i7kxey89fewvjkac?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootie.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootie/_apis/build/status/VsixFootie)](https://gregtrevellick.visualstudio.com/VsixFootie/_build/latest?definitionId=19)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/status?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootie/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/status?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootie/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2818,7 +2818,7 @@ expand/collapse
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixRatingChaser/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/report?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixRatingChaser/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/report?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixRatingChaser/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser)
@@ -2839,7 +2839,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/x7qcrnycboq55xgf?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixRatingChaser)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixRatingChaser.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixRatingChaser/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_apis/build/status/VsixRatingChaser)](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_build/latest?definitionId=30)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/status?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixRatingChaser/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/status?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixRatingChaser/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2865,7 +2865,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixtwitterwidget-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixTwitterWidget/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixTwitterWidget)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VsixTwitterWidget/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixTwitterWidget/report?token=6GNCjP8IXuJUKjSg-APAprG8Pu-7a0PtKHX7RL6YmjM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixTwitterWidget/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixTwitterWidget/report?token=6GNCjP8IXuJUKjSg-APAprG8Pu-7a0PtKHX7RL6YmjM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixTwitterWidget/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixTwitterWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixTwitterWidget/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixTwitterWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixTwitterWidget/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixTwitterWidget.svg)](https://github.com/GregTrevellick/VsixTwitterWidget)
@@ -2886,7 +2886,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/s07rrwscpefb5k6h?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixTwitterWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_apis/build/status/VsixTwitterWidget)](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_build/latest?definitionId=29)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixTwitterWidget/status?token=6GNCjP8IXuJUKjSg-APAprG8Pu-7a0PtKHX7RL6YmjM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixTwitterWidget/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixTwitterWidget/status?token=6GNCjP8IXuJUKjSg-APAprG8Pu-7a0PtKHX7RL6YmjM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixTwitterWidget/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -3050,7 +3050,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vstsdashboardwidgetprojecttemplate-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 [![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/VstsDashboardWidgetProjectTemplate/depshield.svg)](https://depshield.github.io)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/report?token=5zO1mTfKF4nKph3hD9GdANBnrMBMEQfsu5JkCb8Q1W0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/report?token=5zO1mTfKF4nKph3hD9GdANBnrMBMEQfsu5JkCb8Q1W0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VstsDashboardWidgetProjectTemplate/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VstsDashboardWidgetProjectTemplate/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate)
@@ -3071,7 +3071,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9uoctpmaj9wj6gjc?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate/build/tests)
 
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/status?token=5zO1mTfKF4nKph3hD9GdANBnrMBMEQfsu5JkCb8Q1W0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/status?token=5zO1mTfKF4nKph3hD9GdANBnrMBMEQfsu5JkCb8Q1W0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
