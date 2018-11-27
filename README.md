@@ -1,8 +1,8 @@
 Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchronizer), this repo contains all the badges for all my repos all in one place.
 
 <!--BadgesSTART-->
-[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/undefined/ReadMeSynchronizer)
-<!-- Powered by https://github.com/undefined/ReadMeSynchronizer -->
+<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
+[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20ReadMeSynchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 
 ##### AppveyorBuildStatus
 <details open>
@@ -13,6 +13,7 @@ expand/collapse
 
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/2iy2c8ucrn5mc96o?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/01islyin3t8bsxoe?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/6raa1n0tucf66h0q?svg=true)](https://ci.appveyor.com/project/GregTrevellick/CleanArchitecture)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0yqqgbviev6x1pe3?svg=true)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/b1t4vqmcjjoqos9u?svg=true)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/53q1kagc0jsbfpik?svg=true)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2)
@@ -54,6 +55,7 @@ expand/collapse
 
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AutoFindReplace.svg)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsRotaWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/CleanArchitecture.svg)](https://ci.appveyor.com/project/GregTrevellick/CleanArchitecture/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/DotNetFlags.svg)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://ci.appveyor.com/project/GregTrevellick/FilesForEveryExtensionCreator/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/Gregt-sidewafflev2.svg)](https://ci.appveyor.com/project/GregTrevellick/Gregt-sidewafflev2/build/tests)
@@ -95,6 +97,7 @@ expand/collapse
 
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AutoFindReplace/_apis/build/status/AutoFindReplace)](https://gregtrevellick.visualstudio.com/AutoFindReplace/_build/latest?definitionId=4)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_apis/build/status/AzureDevOpsRotaWidget)](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_build/latest?definitionId=13)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/CleanArchitecture/_apis/build/status/CleanArchitecture)](https://gregtrevellick.visualstudio.com/CleanArchitecture/_build/latest?definitionId=41)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/DotNetFlags/_apis/build/status/DotNetFlags)](https://gregtrevellick.visualstudio.com/DotNetFlags/_build/latest?definitionId=1)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_apis/build/status/FilesForEveryExtensionCreator)](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_build/latest?definitionId=2)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_apis/build/status/Gregt.sidewafflev2)](https://gregtrevellick.visualstudio.com/Gregt.sidewafflev2/_build/latest?definitionId=9)
@@ -137,6 +140,7 @@ expand/collapse
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/awib?branch=master)](https://bettercodehub.com/results/GregTrevellick/awib)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AzureDevOpsRotaWidget?branch=master)](https://bettercodehub.com/results/GregTrevellick/AzureDevOpsRotaWidget)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge?branch=master)](https://bettercodehub.com/results/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/CleanArchitecture?branch=master)](https://bettercodehub.com/results/GregTrevellick/CleanArchitecture)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/DotNetFlags?branch=master)](https://bettercodehub.com/results/GregTrevellick/DotNetFlags)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/FilesForEveryExtensionCreator?branch=master)](https://bettercodehub.com/results/GregTrevellick/FilesForEveryExtensionCreator)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Gregt.sidewafflev2?branch=master)](https://bettercodehub.com/results/GregTrevellick/Gregt.sidewafflev2)
@@ -183,6 +187,7 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9db6094d5fd342ee8a8740efd33526c9)](https://www.codacy.com/project/gtrevellick/awib/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/awib&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0adfce1b3ab043b79c8283a8f68ca671)](https://www.codacy.com/project/gtrevellick/AzureDevOpsRotaWidget/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AzureDevOpsRotaWidget&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fbab92a148b146209eda380777abc7c5)](https://www.codacy.com/project/gtrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b74ee0e8da64daf94199f8a7f2fcf12)](https://www.codacy.com/project/gtrevellick/CleanArchitecture/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/CleanArchitecture&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3d3a599955b479dbe14f032bdec1be8)](https://www.codacy.com/project/gtrevellick/DotNetFlags/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/DotNetFlags&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/35560f38029b47258343156a1866f349)](https://www.codacy.com/project/gtrevellick/FilesForEveryExtensionCreator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/FilesForEveryExtensionCreator&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/64d3c825785c4398a4e0c0f3c0542865)](https://www.codacy.com/project/gtrevellick/Gregt.sidewafflev2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Gregt.sidewafflev2&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -229,6 +234,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/2d12821b-76ac-45e4-8d62-2fefd5e046c5)](https://codebeat.co/projects/github-com-gregtrevellick-awib-master)
 [![CodeBeat](https://codebeat.co/badges/5fc8c82c-4aa3-4a42-ad8e-ad5493867f8e)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsrotawidget-master)
 [![CodeBeat](https://codebeat.co/badges/7ccd2ccb-3f8b-4f87-926c-9da61b0979f1)](https://codebeat.co/projects/github-com-gregtrevellick-browserextensionusingangularworksinchromenotinedge-master)
+[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-cleanarchitecture-master)
 [![CodeBeat](https://codebeat.co/badges/ee23d8b7-a3da-4a34-979f-426913611b02)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptparcel-master)
 [![CodeBeat](https://codebeat.co/badges/f674a762-16d9-40ac-ad05-2878371b854a)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptwebpack-master)
 [![CodeBeat](https://codebeat.co/badges/acd43-7c9d-4087-8c59-6cda871a96f1)](https://codebeat.co/projects/github-com-gregtrevellick-opencoverexample-master)
@@ -255,6 +261,7 @@ expand/collapse
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/awib/badge)](https://www.codefactor.io/repository/github/GregTrevellick/awib)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsRotaWidget/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsRotaWidget)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/badge)](https://www.codefactor.io/repository/github/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture/badge)](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags/badge)](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2)
@@ -302,6 +309,7 @@ expand/collapse
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AzureDevOpsRotaWidget.svg)](https://github.com/GregTrevellick/AzureDevOpsRotaWidget/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg)](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/issues)
+[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/issues)
@@ -349,6 +357,7 @@ expand/collapse
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/AzureDevOpsRotaWidget.svg)](https://github.com/GregTrevellick/AzureDevOpsRotaWidget/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg)](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/pulls)
@@ -395,6 +404,7 @@ expand/collapse
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/report?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AutoFindReplace/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/report?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AzureDevOpsRotaWidget/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/report?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/CleanArchitecture/report?token=WKSXU-jLYaQ1gLRpIJHkwIlG7ICpchlzi2Bc6bUpmTI)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/CleanArchitecture/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/report?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/DotNetFlags/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/report?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/FilesForEveryExtensionCreator/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/report?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/Gregt.sidewafflev2/branch/master/summary)
@@ -439,6 +449,7 @@ expand/collapse
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/status?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AutoFindReplace/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/status?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AzureDevOpsRotaWidget/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/status?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/CleanArchitecture/status?token=WKSXU-jLYaQ1gLRpIJHkwIlG7ICpchlzi2Bc6bUpmTI)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/CleanArchitecture/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/DotNetFlags/status?token=ijmD3IjPguLh-fRQ8HxjQzizlIbw26rsarkAO0oN7Vo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/DotNetFlags/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/FilesForEveryExtensionCreator/status?token=1lbVbxHo4oG2GCdtmPxAaQvaTJDri58c5BJgN9TpkBo)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/FilesForEveryExtensionCreator/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/Gregt.sidewafflev2/status?token=f0wNmz_NkQ5G4aOn5kCrKLZ5nHKJoCui553Lu8NOv10)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/Gregt.sidewafflev2/latest?completed=true)
@@ -482,6 +493,7 @@ expand/collapse
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/MattJeanes/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/AngularBasic/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsRotaWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsRotaWidget/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/alerts/)
+[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldTypescriptWebpack.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldTypescriptWebpack/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/alerts/)
@@ -506,6 +518,7 @@ expand/collapse
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/MattJeanes/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/AngularBasic/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsRotaWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsRotaWidget/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/context:javascript)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldTypescriptWebpack.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldTypescriptWebpack/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/context:javascript)
@@ -529,6 +542,7 @@ expand/collapse
 
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=bugs)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=bugs)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=bugs)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=bugs)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=bugs)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=bugs)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=bugs)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=bugs)
@@ -570,6 +584,7 @@ expand/collapse
 
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=code_smells)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=code_smells)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=code_smells)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=code_smells)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=code_smells)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=code_smells)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=code_smells)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=code_smells)
@@ -611,6 +626,7 @@ expand/collapse
 
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=coverage)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=coverage)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=Coverage)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=coverage)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=coverage)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=coverage)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=coverage)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=Coverage)
@@ -652,6 +668,7 @@ expand/collapse
 
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=duplicated_lines)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=duplicated_lines)
@@ -693,6 +710,7 @@ expand/collapse
 
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=sqale_rating)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=sqale_rating)
@@ -734,6 +752,7 @@ expand/collapse
 
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=ncloc)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=ncloc)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=ncloc)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=ncloc)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=ncloc)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=ncloc)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=ncloc)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=ncloc)
@@ -775,6 +794,7 @@ expand/collapse
 
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=alert_status)](https://sonarcloud.io/dashboard?id=AutoFindReplace)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=alert_status)](https://sonarcloud.io/dashboard?id=AzureDevOpsRotaWidget)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=alert_status)](https://sonarcloud.io/dashboard?id=CleanArchitecture)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=alert_status)](https://sonarcloud.io/dashboard?id=DotNetFlags)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=alert_status)](https://sonarcloud.io/dashboard?id=FilesForEveryExtensionCreator)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=alert_status)](https://sonarcloud.io/dashboard?id=Gregt.sidewafflev2)
@@ -816,6 +836,7 @@ expand/collapse
 
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=reliability_rating)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=reliability_rating)
@@ -857,6 +878,7 @@ expand/collapse
 
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=security_rating)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=security_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=security_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=security_rating)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=security_rating)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=security_rating)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=security_rating)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=security_rating)
@@ -898,6 +920,7 @@ expand/collapse
 
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=sqale_index)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=sqale_index)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=sqale_index)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=sqale_index)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=sqale_index)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=sqale_index)
@@ -939,6 +962,7 @@ expand/collapse
 
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=vulnerabilities)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=FilesForEveryExtensionCreator&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=FilesForEveryExtensionCreator&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Gregt.sidewafflev2&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=Gregt.sidewafflev2&metric=vulnerabilities)
@@ -972,10 +996,7 @@ expand/collapse
 
 
 ## Per Repo
-#####  [AllBadges](https://github.com/GregTrevellick/AllBadges)
-[Subscribe](https://github.com/GregTrevellick/AllBadges/subscription) to receive notificatons.
-
-[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AllBadges?branch=master)](https://bettercodehub.com/results/GregTrevellick/AllBadges)
+#####  [AllBadges](https://github.com/GregTrevellick/AllBadges)[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AllBadges?branch=master)](https://bettercodehub.com/results/GregTrevellick/AllBadges)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5382464b5e5a47a2a67c3504142869d3)](https://www.codacy.com/project/gtrevellick/AllBadges/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AllBadges&amp;utm_campaign=Badge_Grade_Dashboard)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges)
@@ -1008,13 +1029,13 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/AllBadges/subscription) to receive notificatons.
+
 #####  [AngularBasic](https://github.com/GregTrevellick/AngularBasic)
 <details open>
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/AngularBasic/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AngularBasic?branch=master)](https://bettercodehub.com/results/GregTrevellick/AngularBasic)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6c528ee94ef349d2b9f3d548761e8617)](https://www.codacy.com/project/gtrevellick/AngularBasic/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AngularBasic&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1049,6 +1070,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/AngularBasic/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1058,8 +1081,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/AutoFindReplace/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AutoFindReplace?branch=master)](https://bettercodehub.com/results/GregTrevellick/AutoFindReplace)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/AutoFindReplace/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AutoFindReplace&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1094,6 +1115,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/AutoFindReplace/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-AutoFindReplace-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AutoFindReplace)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.AutoFindReplace.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AutoFindReplace)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.AutoFindReplace.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AutoFindReplace)
@@ -1110,8 +1133,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/awib/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/awib?branch=master)](https://bettercodehub.com/results/GregTrevellick/awib)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9db6094d5fd342ee8a8740efd33526c9)](https://www.codacy.com/project/gtrevellick/awib/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/awib&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1146,6 +1167,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/awib/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1155,8 +1178,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/AzureDevOpsRotaWidget/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AzureDevOpsRotaWidget?branch=master)](https://bettercodehub.com/results/GregTrevellick/AzureDevOpsRotaWidget)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0adfce1b3ab043b79c8283a8f68ca671)](https://www.codacy.com/project/gtrevellick/AzureDevOpsRotaWidget/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AzureDevOpsRotaWidget&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1191,6 +1212,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/AzureDevOpsRotaWidget/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-AzureDevOpsRotaWidget-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AzureDevOpsRotaWidget)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.AzureDevOpsRotaWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AzureDevOpsRotaWidget)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.AzureDevOpsRotaWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AzureDevOpsRotaWidget)
@@ -1207,8 +1230,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge?branch=master)](https://bettercodehub.com/results/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fbab92a148b146209eda380777abc7c5)](https://www.codacy.com/project/gtrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1243,6 +1264,60 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/subscription) to receive notificatons.
+
+
+</details>
+
+
+#####  [CleanArchitecture](https://github.com/GregTrevellick/CleanArchitecture)
+<details open>
+<summary>
+expand/collapse
+</summary>
+
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/CleanArchitecture?branch=master)](https://bettercodehub.com/results/GregTrevellick/CleanArchitecture)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b74ee0e8da64daf94199f8a7f2fcf12)](https://www.codacy.com/project/gtrevellick/CleanArchitecture/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/CleanArchitecture&amp;utm_campaign=Badge_Grade_Dashboard)
+[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-cleanarchitecture-master)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture/badge)](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/CleanArchitecture/report?token=WKSXU-jLYaQ1gLRpIJHkwIlG7ICpchlzi2Bc6bUpmTI)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/CleanArchitecture/branch/master/summary)
+[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/context:javascript)
+[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture)
+[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture)
+[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture/pulls)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=alert_status)](https://sonarcloud.io/dashboard?id=CleanArchitecture)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=bugs)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=bugs)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=code_smells)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=code_smells)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=coverage)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=Coverage)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=duplicated_lines)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=ncloc)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=ncloc)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=reliability_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=security_rating)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=security_rating)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=sqale_index)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=sqale_index)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=sqale_rating)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=vulnerabilities)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/6raa1n0tucf66h0q?svg=true)](https://ci.appveyor.com/project/GregTrevellick/CleanArchitecture)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/CleanArchitecture.svg)](https://ci.appveyor.com/project/GregTrevellick/CleanArchitecture/build/tests)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/CleanArchitecture/_apis/build/status/CleanArchitecture)](https://gregtrevellick.visualstudio.com/CleanArchitecture/_build/latest?definitionId=41)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/CleanArchitecture/status?token=WKSXU-jLYaQ1gLRpIJHkwIlG7ICpchlzi2Bc6bUpmTI)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/CleanArchitecture/latest?completed=true)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
+[![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
+[![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
+[![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
+[![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
+[![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+[Subscribe](https://github.com/GregTrevellick/CleanArchitecture/subscription) to receive notificatons.
+
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-CleanArchitecture-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.CleanArchitecture.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.CleanArchitecture.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.CleanArchitecture.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
+
+
+
 
 </details>
 
@@ -1252,8 +1327,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/DotNetFlags/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/DotNetFlags?branch=master)](https://bettercodehub.com/results/GregTrevellick/DotNetFlags)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3d3a599955b479dbe14f032bdec1be8)](https://www.codacy.com/project/gtrevellick/DotNetFlags/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/DotNetFlags&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1287,6 +1360,8 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+[Subscribe](https://github.com/GregTrevellick/DotNetFlags/subscription) to receive notificatons.
 [![Nuget downloads](https://img.shields.io/nuget/dt/DotNetFlags.svg)](https://www.nuget.org/packages/DotNetFlags/)
 
 
@@ -1298,8 +1373,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/FilesForEveryExtensionCreator?branch=master)](https://bettercodehub.com/results/GregTrevellick/FilesForEveryExtensionCreator)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/35560f38029b47258343156a1866f349)](https://www.codacy.com/project/gtrevellick/FilesForEveryExtensionCreator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/FilesForEveryExtensionCreator&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1334,6 +1407,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1343,8 +1418,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/Gregt.sidewafflev2/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Gregt.sidewafflev2?branch=master)](https://bettercodehub.com/results/GregTrevellick/Gregt.sidewafflev2)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/64d3c825785c4398a4e0c0f3c0542865)](https://www.codacy.com/project/gtrevellick/Gregt.sidewafflev2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Gregt.sidewafflev2&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1379,6 +1452,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/Gregt.sidewafflev2/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1388,8 +1463,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/HelloWorldBlazor/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldBlazor?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldBlazor)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/52248629623c4b99b7039e7adb2a54c5)](https://www.codacy.com/project/gtrevellick/HelloWorldBlazor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldBlazor&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1424,6 +1497,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/HelloWorldBlazor/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1433,8 +1508,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldTypescriptParcel?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldTypescriptParcel)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f519d95563a64063a1d349b8c6252ec0)](https://www.codacy.com/project/gtrevellick/HelloWorldTypescriptParcel/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldTypescriptParcel&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1469,6 +1542,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1478,8 +1553,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldTypescriptWebpack?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldTypescriptWebpack)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b8374c0381374e82828d292bbdbb85ef)](https://www.codacy.com/project/gtrevellick/HelloWorldTypescriptWebpack/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldTypescriptWebpack&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1514,6 +1587,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1523,8 +1598,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixCommandButton?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixCommandButton)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bd4afcff4a544c8bd64757f0c3a1e5a)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixCommandButton/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixCommandButton&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1559,6 +1632,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1568,8 +1643,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixPopUp/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixPopUp)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03868a22c8db486d85c5d0bd33637e41)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1604,6 +1677,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixPopUp/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1613,8 +1688,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixToolBar/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixToolBar?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixToolBar)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b397d57fb66841b0a4f67e9718840281)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolBar/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolBar&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1649,6 +1722,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixToolBar/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1658,8 +1733,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4d1ed9b21d9240cca47e314c1b06edda)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolWindowAsyncPackageExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1694,6 +1767,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1703,8 +1778,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/HelloWorldVstsExtension/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVstsExtension?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVstsExtension)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c49e26432e541c5861195ed4a425ac8)](https://www.codacy.com/project/gtrevellick/HelloWorldVstsExtension/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVstsExtension&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1739,6 +1812,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/HelloWorldVstsExtension/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1748,8 +1823,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e4580e8133e04b8aa209252e37f3d1c6)](https://www.codacy.com/project/gtrevellick/HelloWorldWpfAsyncBindingPropertyExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1784,6 +1857,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1793,8 +1868,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/Menees.VsTools.2017/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Menees.VsTools.2017?branch=master)](https://bettercodehub.com/results/GregTrevellick/Menees.VsTools.2017)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0f084189c9f94d619e3b5fe7052678c9)](https://www.codacy.com/project/gtrevellick/Menees.VsTools.2017/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Menees.VsTools.2017&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1829,6 +1902,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/Menees.VsTools.2017/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1838,8 +1913,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/MiscellaneousArtefacts/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/MiscellaneousArtefacts?branch=master)](https://bettercodehub.com/results/GregTrevellick/MiscellaneousArtefacts)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bf237f7393d4c9ea544206278ff51a8)](https://www.codacy.com/project/gtrevellick/MiscellaneousArtefacts/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/MiscellaneousArtefacts&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1874,6 +1947,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/MiscellaneousArtefacts/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1883,8 +1958,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/More/subscription) to receive notificatons.
 
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e7801c84e3d645859e668f1b6bd7af05)](https://www.codacy.com/project/gtrevellick/More/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/More&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1919,6 +1992,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/More/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1928,8 +2003,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/OpenCoverExample/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/OpenCoverExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/OpenCoverExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e9691ea13c68406c9a77447c243cbddb)](https://www.codacy.com/project/gtrevellick/OpenCoverExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/OpenCoverExample&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1964,6 +2037,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/OpenCoverExample/subscription) to receive notificatons.
+
 
 </details>
 
@@ -1973,8 +2048,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/OpenInApp.Launcher/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/OpenInApp.Launcher?branch=master)](https://bettercodehub.com/results/GregTrevellick/OpenInApp.Launcher)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e61c4dba8261497fb447379730e97a25)](https://www.codacy.com/project/gtrevellick/OpenInApp.Launcher/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/OpenInApp.Launcher&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2008,6 +2081,8 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+[Subscribe](https://github.com/GregTrevellick/OpenInApp.Launcher/subscription) to receive notificatons.
 
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInAltovaXmlSpy-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAltovaXmlSpy)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInAltovaXmlSpy.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAltovaXmlSpy)
@@ -2164,8 +2239,6 @@ expand/collapse
 expand/collapse
 </summary>
 
-[Subscribe](https://github.com/GregTrevellick/QuickLaunchButtons/subscription) to receive notificatons.
-
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/QuickLaunchButtons?branch=master)](https://bettercodehub.com/results/GregTrevellick/QuickLaunchButtons)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/def29563a15940cda03af19faac0e006)](https://www.codacy.com/project/gtrevellick/QuickLaunchButtons/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/QuickLaunchButtons&amp;utm_campaign=Badge_Grade_Dashboard)
 
@@ -2199,6 +2272,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/QuickLaunchButtons/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenFiddler-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenFiddler)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenFiddler.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenFiddler)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenFiddler.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenFiddler)
@@ -2221,8 +2296,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/Quiz.Launcher/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Quiz.Launcher?branch=master)](https://bettercodehub.com/results/GregTrevellick/Quiz.Launcher)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b1a2d4b9fd774d64ae56a8ffdd80b978)](https://www.codacy.com/project/gtrevellick/Quiz.Launcher/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Quiz.Launcher&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2257,6 +2330,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/Quiz.Launcher/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-MusicQuiz-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.MusicQuiz)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.MusicQuiz.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.MusicQuiz)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.MusicQuiz.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.MusicQuiz)
@@ -2273,8 +2348,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/ReadMeSynchronizer/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/ReadMeSynchronizer?branch=master)](https://bettercodehub.com/results/GregTrevellick/ReadMeSynchronizer)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/47d41dfc5df74ceba32dc53ddfd00b28)](https://www.codacy.com/project/gtrevellick/ReadMeSynchronizer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/ReadMeSynchronizer&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2309,6 +2382,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/ReadMeSynchronizer/subscription) to receive notificatons.
+
 
 </details>
 
@@ -2318,8 +2393,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/RenameProjectVsExtension/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/RenameProjectVsExtension?branch=master)](https://bettercodehub.com/results/GregTrevellick/RenameProjectVsExtension)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf9d3266e9654def87d38c44300935c5)](https://www.codacy.com/project/gtrevellick/RenameProjectVsExtension/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/RenameProjectVsExtension&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2354,6 +2427,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/RenameProjectVsExtension/subscription) to receive notificatons.
+
 
 </details>
 
@@ -2363,8 +2438,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/SolutionOpenPopUp/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/SolutionOpenPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/SolutionOpenPopUp)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23dfefe3b5014fd8b8462b47a3f38c1c)](https://www.codacy.com/project/gtrevellick/SolutionOpenPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/SolutionOpenPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2399,6 +2472,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/SolutionOpenPopUp/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-SolutionOpenPopUp-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.SolutionOpenPopUp)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.SolutionOpenPopUp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.SolutionOpenPopUp)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.SolutionOpenPopUp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.SolutionOpenPopUp)
@@ -2415,8 +2490,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/TrivialApisForIDE/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/TrivialApisForIDE?branch=master)](https://bettercodehub.com/results/GregTrevellick/TrivialApisForIDE)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/035ab76ee20d45c886d72be824507ab5)](https://www.codacy.com/project/gtrevellick/TrivialApisForIDE/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/TrivialApisForIDE&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2451,6 +2524,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/TrivialApisForIDE/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-DrainTheSwamp-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.DrainTheSwamp)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.DrainTheSwamp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.DrainTheSwamp)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.DrainTheSwamp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.DrainTheSwamp)
@@ -2479,8 +2554,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/VisualStudioMarketplaceMetrics/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VisualStudioMarketplaceMetrics?branch=master)](https://bettercodehub.com/results/GregTrevellick/VisualStudioMarketplaceMetrics)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7e6f7c8bd4d240398affcd2202b84fd8)](https://www.codacy.com/project/gtrevellick/VisualStudioMarketplaceMetrics/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VisualStudioMarketplaceMetrics&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2514,6 +2587,8 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+[Subscribe](https://github.com/GregTrevellick/VisualStudioMarketplaceMetrics/subscription) to receive notificatons.
 [![Chrome webstore version](https://img.shields.io/chrome-web-store/v/fifncokofckhanlhmdacdnkbempmopbo.svg)](https://chrome.google.com/webstore/detail/visual-studio-marketplace/fifncokofckhanlhmdacdnkbempmopbo)
 [![Chrome webstore users](https://img.shields.io/chrome-web-store/users/fifncokofckhanlhmdacdnkbempmopbo.svg)](https://chrome.google.com/webstore/detail/visual-studio-marketplace/fifncokofckhanlhmdacdnkbempmopbo)
 [![Chrome webstore rating](https://img.shields.io/chrome-web-store/rating/fifncokofckhanlhmdacdnkbempmopbo.svg)](https://chrome.google.com/webstore/detail/visual-studio-marketplace/fifncokofckhanlhmdacdnkbempmopbo/reviews)
@@ -2527,8 +2602,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixBlazorMinimalProjectTemplate?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixBlazorMinimalProjectTemplate)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/40dfe21f31da4c15b679bb586776a9b3)](https://www.codacy.com/project/gtrevellick/VsixBlazorMinimalProjectTemplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixBlazorMinimalProjectTemplate&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2563,6 +2636,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-BlazorMinimalProjectTemplate-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorMinimalProjectTemplate)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.BlazorMinimalProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorMinimalProjectTemplate)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.BlazorMinimalProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorMinimalProjectTemplate)
@@ -2579,8 +2654,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/VsixDotNetCorePoc/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixDotNetCorePoc?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixDotNetCorePoc)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e2fa50e29fea429897c304c79e9d9479)](https://www.codacy.com/project/gtrevellick/VsixDotNetCorePoc/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixDotNetCorePoc&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2615,6 +2688,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/VsixDotNetCorePoc/subscription) to receive notificatons.
+
 
 </details>
 
@@ -2624,8 +2699,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/VsixFootball/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootball?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootball)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7e6f7c8bd4d240398affcd2202b84fd8)](https://www.codacy.com/project/gtrevellick/VsixFootball/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootball&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2660,6 +2733,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/VsixFootball/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-Football-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.Football.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.Football.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
@@ -2676,8 +2751,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/VsixFootie/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootie?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootie)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/55911452f4154dd9a5599bd6fae3c725)](https://www.codacy.com/project/gtrevellick/VsixFootie/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootie&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2712,6 +2785,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/VsixFootie/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-VSSportsDesk-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VSSportsDesk.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VSSportsDesk.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk)
@@ -2728,8 +2803,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/VsixRatingChaser/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixRatingChaser?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixRatingChaser)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/688c1d5a2ec547faa61230471639cb8f)](https://www.codacy.com/project/gtrevellick/VsixRatingChaser/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixRatingChaser&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2763,6 +2836,8 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+[Subscribe](https://github.com/GregTrevellick/VsixRatingChaser/subscription) to receive notificatons.
 [![Nuget downloads](https://img.shields.io/nuget/dt/VsixRatingChaser.svg)](https://www.nuget.org/packages/VsixRatingChaser/)
 
 
@@ -2774,8 +2849,6 @@ expand/collapse
 <summary>
 expand/collapse
 </summary>
-
-[Subscribe](https://github.com/GregTrevellick/VsixTwitterWidget/subscription) to receive notificatons.
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixTwitterWidget?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixTwitterWidget)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ec8f9a251ccc4862b40e2f8e60e432ef)](https://www.codacy.com/project/gtrevellick/VsixTwitterWidget/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixTwitterWidget&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -2809,6 +2882,8 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+[Subscribe](https://github.com/GregTrevellick/VsixTwitterWidget/subscription) to receive notificatons.
 
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@azure-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azure)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-azure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azure)
@@ -2959,8 +3034,6 @@ expand/collapse
 expand/collapse
 </summary>
 
-[Subscribe](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/subscription) to receive notificatons.
-
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VstsDashboardWidgetProjectTemplate?branch=master)](https://bettercodehub.com/results/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/be5d606604c64b81a1ed640a53c671f7)](https://www.codacy.com/project/gtrevellick/VstsDashboardWidgetProjectTemplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VstsDashboardWidgetProjectTemplate&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vstsdashboardwidgetprojecttemplate-master)
@@ -2994,6 +3067,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 
+[Subscribe](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-VstsDashboardWidgetProjectTemplate-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VstsDashboardWidgetProjectTemplate)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VstsDashboardWidgetProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VstsDashboardWidgetProjectTemplate)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VstsDashboardWidgetProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VstsDashboardWidgetProjectTemplate)
@@ -3003,6 +3078,7 @@ expand/collapse
 
 
 </details>
+
 
 
 <!--BadgesEND-->
