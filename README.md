@@ -41,6 +41,7 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/i7kxey89fewvjkac?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/x7qcrnycboq55xgf?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixRatingChaser)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/s07rrwscpefb5k6h?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixYeomanTemplates)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9uoctpmaj9wj6gjc?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 
 </details>
@@ -83,6 +84,7 @@ expand/collapse
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixFootie.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixFootie/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixRatingChaser.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixRatingChaser/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixTwitterWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixYeomanTemplates.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixYeomanTemplates/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate/build/tests)
 
 </details>
@@ -124,6 +126,7 @@ expand/collapse
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootie/_apis/build/status/VsixFootie)](https://gregtrevellick.visualstudio.com/VsixFootie/_build/latest?definitionId=19)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_apis/build/status/VsixRatingChaser)](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_build/latest?definitionId=30)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_apis/build/status/VsixTwitterWidget)](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_build/latest?definitionId=29)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixYeomanTemplates/_apis/build/status/VsixYeomanTemplates)](https://gregtrevellick.visualstudio.com/VsixYeomanTemplates/_build/latest?definitionId=10)
 
 </details>
 
@@ -170,6 +173,7 @@ expand/collapse
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootie?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootie)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixRatingChaser?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixRatingChaser)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixTwitterWidget?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixTwitterWidget)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixYeomanTemplates?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixYeomanTemplates)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VstsDashboardWidgetProjectTemplate?branch=master)](https://bettercodehub.com/results/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 
 </details>
@@ -218,6 +222,7 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/55911452f4154dd9a5599bd6fae3c725)](https://www.codacy.com/project/gtrevellick/VsixFootie/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootie&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/688c1d5a2ec547faa61230471639cb8f)](https://www.codacy.com/project/gtrevellick/VsixRatingChaser/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixRatingChaser&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ec8f9a251ccc4862b40e2f8e60e432ef)](https://www.codacy.com/project/gtrevellick/VsixTwitterWidget/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixTwitterWidget&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e61c4dba8261497fb447379730e97a25)](https://www.codacy.com/project/gtrevellick/VsixYeomanTemplates/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixYeomanTemplates&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/be5d606604c64b81a1ed640a53c671f7)](https://www.codacy.com/project/gtrevellick/VstsDashboardWidgetProjectTemplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VstsDashboardWidgetProjectTemplate&amp;utm_campaign=Badge_Grade_Dashboard)
 
 </details>
@@ -244,6 +249,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/473ea34e-b1c4-42fe-a8df-1d7d6e587d50)](https://codebeat.co/projects/github-com-gregtrevellick-visualstudiomarketplacemetrics-master)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixfootie-master)
 [![CodeBeat](https://codebeat.co/badges/79109628-46aa-4106-9c65-9ffe44b7e942)](https://codebeat.co/projects/github-com-gregtrevellick-vsixtwitterwidget-master)
+[![CodeBeat](https://codebeat.co/badges/a7581535-50d9-476a-935d-d64dee54e5c0)](https://codebeat.co/projects/github-com-gregtrevellick-vsixyeomantemplates-master)
 [![CodeBeat](https://codebeat.co/badges/0b3ae36f-f194-4c03-890d-8ccda5daf299)](https://codebeat.co/projects/github-com-gregtrevellick-vstsdashboardwidgetprojecttemplate-master)
 
 </details>
@@ -292,6 +298,7 @@ expand/collapse
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixTwitterWidget/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixTwitterWidget)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixYeomanTemplates/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixYeomanTemplates)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 
 </details>
@@ -340,6 +347,7 @@ expand/collapse
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixTwitterWidget.svg)](https://github.com/GregTrevellick/VsixTwitterWidget/issues)
+[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixYeomanTemplates.svg)](https://github.com/GregTrevellick/VsixYeomanTemplates/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/issues)
 
 </details>
@@ -388,6 +396,7 @@ expand/collapse
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixTwitterWidget.svg)](https://github.com/GregTrevellick/VsixTwitterWidget/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixYeomanTemplates.svg)](https://github.com/GregTrevellick/VsixYeomanTemplates/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/pulls)
 
 </details>
@@ -433,6 +442,7 @@ expand/collapse
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/report?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixFootie/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/report?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixRatingChaser/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixTwitterWidget/report?token=6GNCjP8IXuJUKjSg-APAprG8Pu-7a0PtKHX7RL6YmjM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixTwitterWidget/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixYeomanTemplates/report?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixYeomanTemplates/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/report?token=5zO1mTfKF4nKph3hD9GdANBnrMBMEQfsu5JkCb8Q1W0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/branch/master/summary)
 
 </details>
@@ -478,6 +488,7 @@ expand/collapse
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixFootie/status?token=IQTJbMIOyXNl_zEKDu1N2hPWgb38J-4qM7ZOL4rRpR8)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixFootie/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixRatingChaser/status?token=3MoJYEkjyMd9s5AsBr8dXRMCCs_psV5z0119oqn0NwM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixRatingChaser/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixTwitterWidget/status?token=6GNCjP8IXuJUKjSg-APAprG8Pu-7a0PtKHX7RL6YmjM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixTwitterWidget/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixYeomanTemplates/status?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixYeomanTemplates/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/status?token=5zO1mTfKF4nKph3hD9GdANBnrMBMEQfsu5JkCb8Q1W0)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/latest?completed=true)
 
 </details>
@@ -503,6 +514,7 @@ expand/collapse
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixTwitterWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixTwitterWidget/alerts/)
+[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixYeomanTemplates.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixYeomanTemplates/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VstsDashboardWidgetProjectTemplate/alerts/)
 
 </details>
@@ -528,6 +540,7 @@ expand/collapse
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixTwitterWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixTwitterWidget/context:javascript)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixYeomanTemplates.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixYeomanTemplates/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VstsDashboardWidgetProjectTemplate/context:javascript)
 
 </details>
@@ -570,6 +583,7 @@ expand/collapse
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=bugs)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=bugs)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=bugs)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=bugs)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=bugs)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=bugs)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=bugs)
 
 </details>
@@ -612,6 +626,7 @@ expand/collapse
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=code_smells)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=code_smells)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=code_smells)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=code_smells)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=code_smells)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=code_smells)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=code_smells)
 
 </details>
@@ -654,6 +669,7 @@ expand/collapse
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=coverage)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=coverage)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=coverage)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=Coverage)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=coverage)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=coverage)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=Coverage)
 
 </details>
@@ -696,6 +712,7 @@ expand/collapse
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=duplicated_lines)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=duplicated_lines)
 
 </details>
@@ -738,6 +755,7 @@ expand/collapse
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=sqale_rating)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=sqale_rating)
 
 </details>
@@ -780,6 +798,7 @@ expand/collapse
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=ncloc)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=ncloc)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=ncloc)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=ncloc)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=ncloc)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=ncloc)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=ncloc)
 
 </details>
@@ -822,6 +841,7 @@ expand/collapse
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=alert_status)](https://sonarcloud.io/dashboard?id=VsixFootie)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=alert_status)](https://sonarcloud.io/dashboard?id=VsixRatingChaser)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=alert_status)](https://sonarcloud.io/dashboard?id=VsixTwitterWidget)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=alert_status)](https://sonarcloud.io/dashboard?id=VsixYeomanTemplates)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=alert_status)](https://sonarcloud.io/dashboard?id=VstsDashboardWidgetProjectTemplate)
 
 </details>
@@ -864,6 +884,7 @@ expand/collapse
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=reliability_rating)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=reliability_rating)
 
 </details>
@@ -906,6 +927,7 @@ expand/collapse
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=security_rating)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=security_rating)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=security_rating)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=security_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=security_rating)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=security_rating)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=security_rating)
 
 </details>
@@ -948,6 +970,7 @@ expand/collapse
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=sqale_index)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=sqale_index)
 
 </details>
@@ -990,6 +1013,7 @@ expand/collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixFootie&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixFootie&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixRatingChaser&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixRatingChaser&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixTwitterWidget&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixTwitterWidget&metric=vulnerabilities)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=vulnerabilities)
 
 </details>
@@ -3021,6 +3045,64 @@ expand/collapse
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-xamarinhq.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-xamarinhq)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-xamarinhq.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-xamarinhq#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-xamarinhq.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-xamarinhq)
+
+
+
+
+</details>
+
+
+#####  [VsixYeomanTemplates](https://github.com/GregTrevellick/VsixYeomanTemplates)
+<details open>
+<summary>
+expand/collapse
+</summary>
+
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixYeomanTemplates?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixYeomanTemplates)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e61c4dba8261497fb447379730e97a25)](https://www.codacy.com/project/gtrevellick/VsixYeomanTemplates/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixYeomanTemplates&amp;utm_campaign=Badge_Grade_Dashboard)
+[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixyeomantemplates-master)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixYeomanTemplates/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixYeomanTemplates)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixYeomanTemplates/report?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/VsixYeomanTemplates/branch/master/summary)
+[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixYeomanTemplates.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixYeomanTemplates/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixYeomanTemplates.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixYeomanTemplates/context:javascript)
+[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixYeomanTemplates.svg)](https://github.com/GregTrevellick/VsixYeomanTemplates)
+[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixYeomanTemplates.svg)](https://github.com/GregTrevellick/VsixYeomanTemplates)
+[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixYeomanTemplates.svg)](https://github.com/GregTrevellick/VsixYeomanTemplates/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/VsixYeomanTemplates.svg)](https://github.com/GregTrevellick/VsixYeomanTemplates/pulls)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=alert_status)](https://sonarcloud.io/dashboard?id=VsixYeomanTemplates)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=bugs)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=bugs)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=code_smells)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=code_smells)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=coverage)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=Coverage)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=duplicated_lines)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=ncloc)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=ncloc)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=reliability_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=security_rating)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=security_rating)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=sqale_index)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=sqale_index)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=sqale_rating)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=vulnerabilities)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0vwmtcboontemltq?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixYeomanTemplates)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixYeomanTemplates.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixYeomanTemplates/build/tests)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixYeomanTemplates/_apis/build/status/VsixYeomanTemplates)](https://gregtrevellick.visualstudio.com/VsixYeomanTemplates/_build/latest?definitionId=10)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/VsixYeomanTemplates/status?token=gMeDVWmC1m0zT4s6qrY9hlEdBvNla8Qzmt2Mi5GAgEE)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/VsixYeomanTemplates/latest?completed=true)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
+[![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
+[![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
+[![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
+[![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
+[![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+[Subscribe](https://github.com/GregTrevellick/VsixYeomanTemplates/subscription) to receive notificatons.
+
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixAngularBasic-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixAngularBasic)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixAngularBasic.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixAngularBasic)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixAngularBasic.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixAngularBasic)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixAngularBasic.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixAngularBasic)
+
+
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-OmniSharpAspNet-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OmniSharpAspNet)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OmniSharpAspNet.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OmniSharpAspNet)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OmniSharpAspNet.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OmniSharpAspNet)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OmniSharpAspNet.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OmniSharpAspNet)
 
 
 
