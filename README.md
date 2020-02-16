@@ -13,6 +13,7 @@ expand/collapse
 
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/2iy2c8ucrn5mc96o?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/duvijp0qiget07i1?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsAgileManifestoWidget)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/108odcop2p0k0n8n?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsBlazorRadiator)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/01islyin3t8bsxoe?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/6raa1n0tucf66h0q?svg=true)](https://ci.appveyor.com/project/GregTrevellick/CleanArchitecture)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/0yqqgbviev6x1pe3?svg=true)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags)
@@ -58,6 +59,7 @@ expand/collapse
 
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AutoFindReplace.svg)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsAgileManifestoWidget/build/tests)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsBlazorRadiator.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsBlazorRadiator/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsRotaWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsRotaWidget/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/CleanArchitecture.svg)](https://ci.appveyor.com/project/GregTrevellick/CleanArchitecture/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/DotNetFlags.svg)](https://ci.appveyor.com/project/GregTrevellick/DotNetFlags/build/tests)
@@ -103,6 +105,7 @@ expand/collapse
 
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AutoFindReplace/_apis/build/status/AutoFindReplace)](https://gregtrevellick.visualstudio.com/AutoFindReplace/_build/latest?definitionId=4)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsAgileManifestoWidget/_apis/build/status/AzureDevOpsAgileManifestoWidget)](https://gregtrevellick.visualstudio.com/AzureDevOpsAgileManifestoWidget/_build/latest?definitionId=10)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsBlazorRadiator/_apis/build/status/AzureDevOpsBlazorRadiator)](https://gregtrevellick.visualstudio.com/AzureDevOpsBlazorRadiator/_build/latest?definitionId=10)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_apis/build/status/AzureDevOpsRotaWidget)](https://gregtrevellick.visualstudio.com/AzureDevOpsRotaWidget/_build/latest?definitionId=13)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/CleanArchitecture/_apis/build/status/CleanArchitecture)](https://gregtrevellick.visualstudio.com/CleanArchitecture/_build/latest?definitionId=41)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/DotNetFlags/_apis/build/status/DotNetFlags)](https://gregtrevellick.visualstudio.com/DotNetFlags/_build/latest?definitionId=1)
@@ -148,6 +151,7 @@ expand/collapse
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AutoFindReplace?branch=master)](https://bettercodehub.com/results/GregTrevellick/AutoFindReplace)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/awib?branch=master)](https://bettercodehub.com/results/GregTrevellick/awib)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AzureDevOpsAgileManifestoWidget?branch=master)](https://bettercodehub.com/results/GregTrevellick/AzureDevOpsAgileManifestoWidget)
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AzureDevOpsBlazorRadiator?branch=master)](https://bettercodehub.com/results/GregTrevellick/AzureDevOpsBlazorRadiator)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AzureDevOpsRotaWidget?branch=master)](https://bettercodehub.com/results/GregTrevellick/AzureDevOpsRotaWidget)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge?branch=master)](https://bettercodehub.com/results/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/CleanArchitecture?branch=master)](https://bettercodehub.com/results/GregTrevellick/CleanArchitecture)
@@ -198,6 +202,7 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/AutoFindReplace/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AutoFindReplace&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9db6094d5fd342ee8a8740efd33526c9)](https://www.codacy.com/project/gtrevellick/awib/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/awib&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/efd52920f7c640139556d0a10252523e)](https://www.codacy.com/project/gtrevellick/AzureDevOpsAgileManifestoWidget/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AzureDevOpsAgileManifestoWidget&amp;utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)](https://www.codacy.com/project/gtrevellick/AzureDevOpsBlazorRadiator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AzureDevOpsBlazorRadiator&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0adfce1b3ab043b79c8283a8f68ca671)](https://www.codacy.com/project/gtrevellick/AzureDevOpsRotaWidget/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AzureDevOpsRotaWidget&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fbab92a148b146209eda380777abc7c5)](https://www.codacy.com/project/gtrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b74ee0e8da64daf94199f8a7f2fcf12)](https://www.codacy.com/project/gtrevellick/CleanArchitecture/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/CleanArchitecture&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -248,6 +253,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/4accb8ab-c72b-42f8-91e3-6e0bed64b288)](https://codebeat.co/projects/github-com-gregtrevellick-angularbasic-master)
 [![CodeBeat](https://codebeat.co/badges/2d12821b-76ac-45e4-8d62-2fefd5e046c5)](https://codebeat.co/projects/github-com-gregtrevellick-awib-master)
 [![CodeBeat](https://codebeat.co/badges/ec536ac2-8a8a-421f-9d4d-5125cf9a05c9)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsagilemanifestowidget-master)
+[![CodeBeat](https://codebeat.co/badges/815a0200-48fd-4fd8-889a-00556324d65b)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsblazorradiator-master)
 [![CodeBeat](https://codebeat.co/badges/5fc8c82c-4aa3-4a42-ad8e-ad5493867f8e)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsrotawidget-master)
 [![CodeBeat](https://codebeat.co/badges/7ccd2ccb-3f8b-4f87-926c-9da61b0979f1)](https://codebeat.co/projects/github-com-gregtrevellick-browserextensionusingangularworksinchromenotinedge-master)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-cleanarchitecture-master)
@@ -278,6 +284,7 @@ expand/collapse
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/awib/badge)](https://www.codefactor.io/repository/github/GregTrevellick/awib)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsAgileManifestoWidget/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsAgileManifestoWidget)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsBlazorRadiator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsBlazorRadiator)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsRotaWidget/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsRotaWidget)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/badge)](https://www.codefactor.io/repository/github/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture/badge)](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture)
@@ -329,6 +336,7 @@ expand/collapse
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AutoFindReplace.svg)](https://github.com/GregTrevellick/AutoFindReplace/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg)](https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/issues)
+[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AzureDevOpsBlazorRadiator.svg)](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AzureDevOpsRotaWidget.svg)](https://github.com/GregTrevellick/AzureDevOpsRotaWidget/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg)](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/issues)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture/issues)
@@ -380,6 +388,7 @@ expand/collapse
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/AutoFindReplace.svg)](https://github.com/GregTrevellick/AutoFindReplace/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg)](https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/AzureDevOpsBlazorRadiator.svg)](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/AzureDevOpsRotaWidget.svg)](https://github.com/GregTrevellick/AzureDevOpsRotaWidget/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg)](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture/pulls)
@@ -430,6 +439,7 @@ expand/collapse
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/report?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AngularBasic/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/report?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AutoFindReplace/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/report?token=sZh8A1uRF9HzGXCxtWIHyXsrVUTiY6Iw-sRuxuaFMqs)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/branch/master/summary)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsBlazorRadiator/report?token=decommissioned)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AzureDevOpsBlazorRadiator/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/report?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AzureDevOpsRotaWidget/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/report?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/branch/master/summary)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/CleanArchitecture/report?token=WKSXU-jLYaQ1gLRpIJHkwIlG7ICpchlzi2Bc6bUpmTI)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/CleanArchitecture/branch/master/summary)
@@ -478,6 +488,7 @@ expand/collapse
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AngularBasic/status?token=GHPPD5s2JaoXOX0QayEgLqn_gAVeFboxSGDImfbUVWQ)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AngularBasic/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AutoFindReplace/status?token=tFEtqaxk--yMEhQpaaX987zz1-db0N_5CUbAlCF9bkM)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AutoFindReplace/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/status?token=sZh8A1uRF9HzGXCxtWIHyXsrVUTiY6Iw-sRuxuaFMqs)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsBlazorRadiator/status?token=decommissioned)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AzureDevOpsBlazorRadiator/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsRotaWidget/status?token=ZHWlGXThCe0r9D7qzbrOJyhHHKBg3OYc4N-pq3XRuvk)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AzureDevOpsRotaWidget/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/status?token=oiC3zAlWfQoJ0J99U_3ETsi7sXFllqmEiPWjlDzujOA)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/latest?completed=true)
 [![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/CleanArchitecture/status?token=WKSXU-jLYaQ1gLRpIJHkwIlG7ICpchlzi2Bc6bUpmTI)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/CleanArchitecture/latest?completed=true)
@@ -525,6 +536,7 @@ expand/collapse
 
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/MattJeanes/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/AngularBasic/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsAgileManifestoWidget/alerts/)
+[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsBlazorRadiator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsBlazorRadiator/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsRotaWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsRotaWidget/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/alerts/)
@@ -553,6 +565,7 @@ expand/collapse
 
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/MattJeanes/AngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/AngularBasic/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsAgileManifestoWidget/context:javascript)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsBlazorRadiator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsBlazorRadiator/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsRotaWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsRotaWidget/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/context:javascript)
@@ -581,6 +594,7 @@ expand/collapse
 
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=bugs)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=bugs)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=bugs)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=bugs)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=bugs)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=bugs)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=bugs)
 [![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=bugs)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=bugs)
@@ -626,6 +640,7 @@ expand/collapse
 
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=code_smells)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=code_smells)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=code_smells)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=code_smells)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=code_smells)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=code_smells)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=code_smells)
 [![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=code_smells)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=code_smells)
@@ -671,6 +686,7 @@ expand/collapse
 
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=coverage)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=coverage)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=Coverage)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=coverage)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=coverage)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=coverage)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=Coverage)
 [![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=coverage)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=Coverage)
@@ -716,6 +732,7 @@ expand/collapse
 
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=duplicated_lines)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=duplicated_lines)
 [![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=duplicated_lines)
@@ -761,6 +778,7 @@ expand/collapse
 
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=sqale_rating)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=sqale_rating)
 [![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=sqale_rating)
@@ -806,6 +824,7 @@ expand/collapse
 
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=ncloc)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=ncloc)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=ncloc)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=ncloc)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=ncloc)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=ncloc)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=ncloc)
 [![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=ncloc)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=ncloc)
@@ -851,6 +870,7 @@ expand/collapse
 
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=alert_status)](https://sonarcloud.io/dashboard?id=AutoFindReplace)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=alert_status)](https://sonarcloud.io/dashboard?id=AzureDevOpsAgileManifestoWidget)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=alert_status)](https://sonarcloud.io/dashboard?id=AzureDevOpsBlazorRadiator)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=alert_status)](https://sonarcloud.io/dashboard?id=AzureDevOpsRotaWidget)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=alert_status)](https://sonarcloud.io/dashboard?id=CleanArchitecture)
 [![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=alert_status)](https://sonarcloud.io/dashboard?id=DotNetFlags)
@@ -896,6 +916,7 @@ expand/collapse
 
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=reliability_rating)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=reliability_rating)
 [![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=reliability_rating)
@@ -941,6 +962,7 @@ expand/collapse
 
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=security_rating)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=security_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=security_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=security_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=security_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=security_rating)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=security_rating)
 [![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=security_rating)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=security_rating)
@@ -986,6 +1008,7 @@ expand/collapse
 
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=sqale_index)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=sqale_index)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=sqale_index)
 [![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=sqale_index)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=sqale_index)
@@ -1031,6 +1054,7 @@ expand/collapse
 
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AutoFindReplace&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AutoFindReplace&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=vulnerabilities)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsRotaWidget&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AzureDevOpsRotaWidget&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=CleanArchitecture&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=CleanArchitecture&metric=vulnerabilities)
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=DotNetFlags&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=DotNetFlags&metric=vulnerabilities)
@@ -1290,6 +1314,58 @@ expand/collapse
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-AzureDevOpsAgileManifestoWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-AzureDevOpsAgileManifestoWidget)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-AzureDevOpsAgileManifestoWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-AzureDevOpsAgileManifestoWidget#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-AzureDevOpsAgileManifestoWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-AzureDevOpsAgileManifestoWidget)
+
+
+
+
+</details>
+
+
+#####  [AzureDevOpsBlazorRadiator](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator)
+<details open>
+<summary>
+expand/collapse
+</summary>
+
+[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AzureDevOpsBlazorRadiator?branch=master)](https://bettercodehub.com/results/GregTrevellick/AzureDevOpsBlazorRadiator)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)](https://www.codacy.com/project/gtrevellick/AzureDevOpsBlazorRadiator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AzureDevOpsBlazorRadiator&amp;utm_campaign=Badge_Grade_Dashboard)
+[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsblazorradiator-master)
+[![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsBlazorRadiator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsBlazorRadiator)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsBlazorRadiator/report?token=decommissioned)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/AzureDevOpsBlazorRadiator/branch/master/summary)
+[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsBlazorRadiator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsBlazorRadiator/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsBlazorRadiator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsBlazorRadiator/context:javascript)
+[![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AzureDevOpsBlazorRadiator.svg)](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator)
+[![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/AzureDevOpsBlazorRadiator.svg)](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator)
+[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AzureDevOpsBlazorRadiator.svg)](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/AzureDevOpsBlazorRadiator.svg)](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator/pulls)
+[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=alert_status)](https://sonarcloud.io/dashboard?id=AzureDevOpsBlazorRadiator)
+[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=bugs)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=bugs)
+[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=code_smells)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=code_smells)
+[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=coverage)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=Coverage)
+[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=duplicated_lines)
+[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=ncloc)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=ncloc)
+[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=reliability_rating)
+[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=security_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=security_rating)
+[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=sqale_index)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=sqale_index)
+[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=sqale_rating)
+[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsBlazorRadiator&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AzureDevOpsBlazorRadiator&metric=vulnerabilities)
+[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/108odcop2p0k0n8n?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsBlazorRadiator)
+[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsBlazorRadiator.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsBlazorRadiator/build/tests)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsBlazorRadiator/_apis/build/status/AzureDevOpsBlazorRadiator)](https://gregtrevellick.visualstudio.com/AzureDevOpsBlazorRadiator/_build/latest?definitionId=10)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/AzureDevOpsBlazorRadiator/status?token=decommissioned)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/AzureDevOpsBlazorRadiator/latest?completed=true)
+[![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
+[![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
+[![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
+[![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
+[![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
+[![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+[Subscribe](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator/subscription) to receive notificatons.
+
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-AzureDevOpsBlazorRadiator-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-AzureDevOpsBlazorRadiator)
+[![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-AzureDevOpsBlazorRadiator.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-AzureDevOpsBlazorRadiator)
+[![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-AzureDevOpsBlazorRadiator.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-AzureDevOpsBlazorRadiator#review-details)
+[![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-AzureDevOpsBlazorRadiator.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-AzureDevOpsBlazorRadiator)
 
 
 
