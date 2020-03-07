@@ -45,11 +45,14 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/am8i6aama94x7yma?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixYeomanTemplates)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9uoctpmaj9wj6gjc?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 </details>
+
 ##### AppveyorUnitTests
 <details open>
 <summary>
 expand/collapse
 </summary>
+
+
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AutoFindReplace.svg)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsAgileManifestoWidget/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsBlazorRadiator.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsBlazorRadiator/build/tests)
@@ -85,12 +88,17 @@ expand/collapse
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixTwitterWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixYeomanTemplates.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixYeomanTemplates/build/tests)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate/build/tests)
+
 </details>
+
+
 ##### AzurePipelineBuildStatus
 <details open>
 <summary>
 expand/collapse
 </summary>
+
+
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AutoFindReplace/_apis/build/status/AutoFindReplace)](https://gregtrevellick.visualstudio.com/AutoFindReplace/_build/latest?definitionId=4)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsAgileManifestoWidget/_apis/build/status/AzureDevOpsAgileManifestoWidget)](https://gregtrevellick.visualstudio.com/AzureDevOpsAgileManifestoWidget/_build/latest?definitionId=10)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsBlazorRadiator/_apis/build/status/AzureDevOpsBlazorRadiator)](https://gregtrevellick.visualstudio.com/AzureDevOpsBlazorRadiator/_build/latest?definitionId=10)
@@ -124,12 +132,17 @@ expand/collapse
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_apis/build/status/VsixRatingChaser)](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_build/latest?definitionId=30)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_apis/build/status/VsixTwitterWidget)](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_build/latest?definitionId=29)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixYeomanTemplates/_apis/build/status/VsixYeomanTemplates)](https://gregtrevellick.visualstudio.com/VsixYeomanTemplates/_build/latest?definitionId=10)
+
 </details>
+
+
 ##### BetterCodeHubCompliance
 <details open>
 <summary>
 expand/collapse
 </summary>
+
+
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AngularBasic?branch=master)](https://bettercodehub.com/results/GregTrevellick/AngularBasic)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AutoFindReplace?branch=master)](https://bettercodehub.com/results/GregTrevellick/AutoFindReplace)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/awib?branch=master)](https://bettercodehub.com/results/GregTrevellick/awib)
@@ -170,12 +183,16 @@ expand/collapse
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixTwitterWidget?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixTwitterWidget)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixYeomanTemplates?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixYeomanTemplates)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VstsDashboardWidgetProjectTemplate?branch=master)](https://bettercodehub.com/results/GregTrevellick/VstsDashboardWidgetProjectTemplate)
+
 </details>
+
+
 ##### Codacy
 <details open>
 <summary>
 expand/collapse
 </summary>
+
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6c528ee94ef349d2b9f3d548761e8617)](https://www.codacy.com/project/gtrevellick/AngularBasic/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AngularBasic&amp;utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/AutoFindReplace/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AutoFindReplace&amp;utm_campaign=Badge_Grade_Dashboard)
@@ -1022,12 +1039,23 @@ expand/collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/AngularBasic.svg)](https://github.com/GregTrevellick/AngularBasic)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AngularBasic.svg)](https://github.com/GregTrevellick/AngularBasic/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/AngularBasic.svg)](https://github.com/GregTrevellick/AngularBasic/pulls)
+
+
+
+
+
+
+
+
+
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
 [Subscribe](https://github.com/GregTrevellick/AngularBasic/subscription) to receive notificatons.
 
 
@@ -1068,10 +1096,13 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [Subscribe](https://github.com/GregTrevellick/AutoFindReplace/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-AutoFindReplace-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AutoFindReplace)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.AutoFindReplace.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AutoFindReplace)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.AutoFindReplace.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AutoFindReplace)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.AutoFindReplace.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AutoFindReplace)
+
+
 
 
 </details>
@@ -1091,12 +1122,25 @@ expand/collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib/pulls)
+
+
+
+
+
+
+
+
+
+
+
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
 [Subscribe](https://github.com/GregTrevellick/awib/subscription) to receive notificatons.
 
 
@@ -1257,12 +1301,23 @@ expand/collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg)](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg)](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge.svg)](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/pulls)
+
+
+
+
+
+
+
+
+
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
 [Subscribe](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/subscription) to receive notificatons.
 
 
@@ -1807,12 +1862,26 @@ expand/collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017/pulls)
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
 [Subscribe](https://github.com/GregTrevellick/Menees.VsTools.2017/subscription) to receive notificatons.
 
 
@@ -1832,12 +1901,26 @@ expand/collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/pulls)
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
 [Subscribe](https://github.com/GregTrevellick/MiscellaneousArtefacts/subscription) to receive notificatons.
 
 
@@ -1857,12 +1940,26 @@ expand/collapse
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More/pulls)
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
 [Subscribe](https://github.com/GregTrevellick/More/subscription) to receive notificatons.
 
 
@@ -1953,38 +2050,56 @@ expand/collapse
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInAndroidStudio.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAndroidStudio)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInAndroidStudio.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAndroidStudio)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInAndroidStudio.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAndroidStudio)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInAtom-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAtom)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInAtom.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAtom)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInAtom.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAtom)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInAtom.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAtom)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInChromeCanary-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInChromeCanary)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInChromeCanary.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInChromeCanary)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInChromeCanary.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInChromeCanary)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInChromeCanary.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInChromeCanary)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInEmacs-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInEmacs)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInEmacs.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInEmacs)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInEmacs.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInEmacs)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInEmacs.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInEmacs)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInFirefoxDeveloperEdition-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInFirefoxDeveloperEdition)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInFirefoxDeveloperEdition.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInFirefoxDeveloperEdition)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInFirefoxDeveloperEdition.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInFirefoxDeveloperEdition)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInFirefoxDeveloperEdition.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInFirefoxDeveloperEdition)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInGimp-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInGimp)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInGimp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInGimp)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInGimp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInGimp)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInGimp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInGimp)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInMarkdownMonster-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInMarkdownMonster)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInMarkdownMonster.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInMarkdownMonster)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInMarkdownMonster.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInMarkdownMonster)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInMarkdownMonster.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInMarkdownMonster)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInMSPaint-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInMSPaint)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInMSPaint.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInMSPaint)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInMSPaint.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInMSPaint)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInMSPaint.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInMSPaint)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInOpera-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInOpera)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInOpera.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInOpera)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInOpera.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInOpera)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInOpera.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInOpera)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInOperaDeveloper-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInOperaDeveloper)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInOperaDeveloper.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInOperaDeveloper)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInOperaDeveloper.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInOperaDeveloper)
@@ -2108,14 +2223,19 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [Subscribe](https://github.com/GregTrevellick/QuickLaunchButtons/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenFiddler-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenFiddler)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenFiddler.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenFiddler)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenFiddler.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenFiddler)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenFiddler.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenFiddler)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenWireshark-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenWireshark)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenWireshark.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenWireshark)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenWireshark.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenWireshark)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenWireshark.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenWireshark)
+
+
 
 
 </details>
@@ -2155,10 +2275,13 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [Subscribe](https://github.com/GregTrevellick/Quiz.Launcher/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-MusicQuiz-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.MusicQuiz)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.MusicQuiz.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.MusicQuiz)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.MusicQuiz.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.MusicQuiz)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.MusicQuiz.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.MusicQuiz)
+
+
 
 
 </details>
@@ -2280,10 +2403,13 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [Subscribe](https://github.com/GregTrevellick/SolutionOpenPopUp/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-SolutionOpenPopUp-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.SolutionOpenPopUp)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.SolutionOpenPopUp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.SolutionOpenPopUp)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.SolutionOpenPopUp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.SolutionOpenPopUp)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.SolutionOpenPopUp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.SolutionOpenPopUp)
+
+
 
 
 </details>
@@ -2323,18 +2449,25 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [Subscribe](https://github.com/GregTrevellick/TrivialApisForIDE/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-DrainTheSwamp-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.DrainTheSwamp)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.DrainTheSwamp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.DrainTheSwamp)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.DrainTheSwamp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.DrainTheSwamp)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.DrainTheSwamp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.DrainTheSwamp)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-Jeopardy-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Jeopardy)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.Jeopardy.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Jeopardy)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.Jeopardy.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Jeopardy)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.Jeopardy.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Jeopardy)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-NumericTrivia-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.NumericTrivia)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.NumericTrivia.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.NumericTrivia)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.NumericTrivia.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.NumericTrivia)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.NumericTrivia.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.NumericTrivia)
+
+
 
 
 </details>
@@ -2427,6 +2560,7 @@ expand/collapse
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.BlazorMinimalProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorMinimalProjectTemplate)
 
 
+
 </details>
 
 
@@ -2503,10 +2637,13 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [Subscribe](https://github.com/GregTrevellick/VsixFootball/subscription) to receive notificatons.
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-Football-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.Football.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.Football.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.Football.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
+
+
 
 
 </details>
@@ -2551,6 +2688,8 @@ expand/collapse
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VSSportsDesk.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VSSportsDesk.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VSSportsDesk.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk)
+
+
 
 
 </details>
@@ -2687,38 +2826,56 @@ expand/collapse
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-azuredevops.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azuredevops)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-azuredevops.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azuredevops#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-azuredevops.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azuredevops)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@ch9-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-ch9)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-ch9.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-ch9)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-ch9.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-ch9#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-ch9.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-ch9)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@code-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-code)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-code.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-code)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-code.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-code#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-code.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-code)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@codeproject-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-codeproject)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-codeproject.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-codeproject)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-codeproject.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-codeproject#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-codeproject.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-codeproject)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@dailydotnettips-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dailydotnettips)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-dailydotnettips.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dailydotnettips)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-dailydotnettips.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dailydotnettips#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-dailydotnettips.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dailydotnettips)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@dev_humor-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dev_humor)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-dev_humor.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dev_humor)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-dev_humor.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dev_humor#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-dev_humor.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dev_humor)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@dotnet-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnet)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-dotnet.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnet)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-dotnet.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnet#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-dotnet.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnet)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@dotnetcurry-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnetcurry)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-dotnetcurry.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnetcurry)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-dotnetcurry.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnetcurry#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-dotnetcurry.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnetcurry)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@dotnetfdn-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnetfdn)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-dotnetfdn.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnetfdn)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-dotnetfdn.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnetfdn#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-dotnetfdn.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnetfdn)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@dotnetkicks-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnetkicks)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-dotnetkicks.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnetkicks)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-dotnetkicks.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-dotnetkicks#review-details)
@@ -2849,6 +3006,8 @@ expand/collapse
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OmniSharpAspNet.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OmniSharpAspNet)
 
 
+
+
 </details>
 
 
@@ -2892,6 +3051,7 @@ expand/collapse
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VstsDashboardWidgetProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VstsDashboardWidgetProjectTemplate)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VstsDashboardWidgetProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VstsDashboardWidgetProjectTemplate)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VstsDashboardWidgetProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VstsDashboardWidgetProjectTemplate)
+
 
 
 </details>
