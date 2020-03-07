@@ -9,8 +9,6 @@ Powered by [Read Me Synchronizer](https://github.com/GregTrevellick/ReadMeSynchr
 <summary>
 expand/collapse
 </summary>
-
-
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/2iy2c8ucrn5mc96o?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AutoFindReplace)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/duvijp0qiget07i1?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsAgileManifestoWidget)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/108odcop2p0k0n8n?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsBlazorRadiator)
@@ -46,7 +44,6 @@ expand/collapse
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/s07rrwscpefb5k6h?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixTwitterWidget)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/am8i6aama94x7yma?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixYeomanTemplates)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9uoctpmaj9wj6gjc?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate)
-
 </details>
 
 
