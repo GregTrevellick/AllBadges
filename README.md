@@ -971,6 +971,7 @@ expand/collapse
 ## Per Repo
 #####  [AllBadges](https://github.com/GregTrevellick/AllBadges)[![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AllBadges?branch=master)](https://bettercodehub.com/results/GregTrevellick/AllBadges)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5382464b5e5a47a2a67c3504142869d3)](https://www.codacy.com/project/gtrevellick/AllBadges/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AllBadges&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AllBadges.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AllBadges/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AllBadges.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AllBadges/context:javascript)
@@ -990,13 +991,15 @@ expand/collapse
 
 
 
+
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/AllBadges/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 #####  [zAngularBasic](https://github.com/GregTrevellick/zAngularBasic)
 <details open>
@@ -1007,6 +1010,7 @@ expand/collapse
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/zAngularBasic?branch=master)](https://bettercodehub.com/results/GregTrevellick/zAngularBasic)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6c528ee94ef349d2b9f3d548761e8617)](https://www.codacy.com/project/gtrevellick/zAngularBasic/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/zAngularBasic&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-zangularbasic-master)
+
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/MattJeanes/zAngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/zAngularBasic/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/MattJeanes/zAngularBasic.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MattJeanes/zAngularBasic/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/zAngularBasic.svg)](https://github.com/GregTrevellick/zAngularBasic)
@@ -1025,13 +1029,15 @@ expand/collapse
 
 
 
+
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/zAngularBasic/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1045,7 +1051,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/AutoFindReplace?branch=master)](https://bettercodehub.com/results/GregTrevellick/AutoFindReplace)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/AutoFindReplace/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AutoFindReplace&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AutoFindReplace.svg)](https://github.com/GregTrevellick/AutoFindReplace)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/AutoFindReplace.svg)](https://github.com/GregTrevellick/AutoFindReplace)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/AutoFindReplace.svg)](https://github.com/GregTrevellick/AutoFindReplace/issues)
@@ -1070,7 +1079,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/AutoFindReplace/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-AutoFindReplace-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AutoFindReplace)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.AutoFindReplace.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AutoFindReplace)
@@ -1093,10 +1102,13 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9db6094d5fd342ee8a8740efd33526c9)](https://www.codacy.com/project/gtrevellick/awib/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/awib&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-awib-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/awib/badge)](https://www.codefactor.io/repository/github/GregTrevellick/awib)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/awib.svg)](https://github.com/GregTrevellick/awib/pulls)
+
 
 
 
@@ -1116,7 +1128,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/awib/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1158,11 +1170,14 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-AgileManifestoDashboardWidget-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.AgileManifestoDashboardWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.AgileManifestoDashboardWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.AgileManifestoDashboardWidget.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.AgileManifestoDashboardWidget)
+
+
 
 
 </details>
@@ -1204,11 +1219,14 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-BlazorRadiator-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorRadiator)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.BlazorRadiator.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorRadiator)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.BlazorRadiator.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorRadiator#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.BlazorRadiator.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorRadiator)
+
+
 
 
 </details>
@@ -1241,13 +1259,16 @@ expand/collapse
 
 
 
+
+
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/BrowserExtensionUsingAngularWorksInChromeNotInEdge/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1289,11 +1310,14 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/CleanArchitecture/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-CleanArchitecture-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.CleanArchitecture.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.CleanArchitecture.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.CleanArchitecture.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
+
+
 
 
 </details>
@@ -1307,7 +1331,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/DotNetFlags?branch=master)](https://bettercodehub.com/results/GregTrevellick/DotNetFlags)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f3d3a599955b479dbe14f032bdec1be8)](https://www.codacy.com/project/gtrevellick/DotNetFlags/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/DotNetFlags&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags/badge)](https://www.codefactor.io/repository/github/GregTrevellick/DotNetFlags)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags/issues)
@@ -1332,7 +1359,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/DotNetFlags/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 [![Nuget downloads](https://img.shields.io/nuget/dt/DotNetFlags.svg)](https://www.nuget.org/packages/DotNetFlags/)
 
 
@@ -1347,7 +1374,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/FilesForEveryExtensionCreator?branch=master)](https://bettercodehub.com/results/GregTrevellick/FilesForEveryExtensionCreator)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/35560f38029b47258343156a1866f349)](https://www.codacy.com/project/gtrevellick/FilesForEveryExtensionCreator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/FilesForEveryExtensionCreator&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/FilesForEveryExtensionCreator.svg)](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/issues)
@@ -1372,7 +1402,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/FilesForEveryExtensionCreator/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1386,7 +1416,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Gregt.sidewafflev2?branch=master)](https://bettercodehub.com/results/GregTrevellick/Gregt.sidewafflev2)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/64d3c825785c4398a4e0c0f3c0542865)](https://www.codacy.com/project/gtrevellick/Gregt.sidewafflev2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Gregt.sidewafflev2&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/issues)
@@ -1411,7 +1444,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/Gregt.sidewafflev2/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1425,6 +1458,8 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldBlazor?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldBlazor)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/52248629623c4b99b7039e7adb2a54c5)](https://www.codacy.com/project/gtrevellick/HelloWorldBlazor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldBlazor&amp;utm_campaign=Badge_Grade_Dashboard)
+
+
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldBlazor.svg)](https://github.com/GregTrevellick/HelloWorldBlazor)
@@ -1451,7 +1486,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/HelloWorldBlazor/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1467,6 +1502,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f519d95563a64063a1d349b8c6252ec0)](https://www.codacy.com/project/gtrevellick/HelloWorldTypescriptParcel/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldTypescriptParcel&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptparcel-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/issues)
@@ -1491,7 +1528,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1533,7 +1570,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1547,7 +1584,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixCommandButton?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixCommandButton)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bd4afcff4a544c8bd64757f0c3a1e5a)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixCommandButton/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixCommandButton&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/issues)
@@ -1572,7 +1612,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1586,7 +1626,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixPopUp)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03868a22c8db486d85c5d0bd33637e41)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixPopUp)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp/issues)
@@ -1611,7 +1654,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixPopUp/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1625,6 +1668,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixToolBar?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixToolBar)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b397d57fb66841b0a4f67e9718840281)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolBar/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolBar&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/context:javascript)
@@ -1652,7 +1696,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixToolBar/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1666,7 +1710,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4d1ed9b21d9240cca47e314c1b06edda)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolWindowAsyncPackageExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/issues)
@@ -1691,7 +1738,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1705,6 +1752,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVstsExtension?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVstsExtension)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c49e26432e541c5861195ed4a425ac8)](https://www.codacy.com/project/gtrevellick/HelloWorldVstsExtension/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVstsExtension&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/context:javascript)
@@ -1732,7 +1780,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/HelloWorldVstsExtension/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1746,7 +1794,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e4580e8133e04b8aa209252e37f3d1c6)](https://www.codacy.com/project/gtrevellick/HelloWorldWpfAsyncBindingPropertyExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/issues)
@@ -1771,7 +1822,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1785,7 +1836,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Menees.VsTools.2017?branch=master)](https://bettercodehub.com/results/GregTrevellick/Menees.VsTools.2017)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0f084189c9f94d619e3b5fe7052678c9)](https://www.codacy.com/project/gtrevellick/Menees.VsTools.2017/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Menees.VsTools.2017&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Menees.VsTools.2017)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Menees.VsTools.2017.svg)](https://github.com/GregTrevellick/Menees.VsTools.2017/issues)
@@ -1810,7 +1864,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/Menees.VsTools.2017/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1824,7 +1878,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/MiscellaneousArtefacts?branch=master)](https://bettercodehub.com/results/GregTrevellick/MiscellaneousArtefacts)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bf237f7393d4c9ea544206278ff51a8)](https://www.codacy.com/project/gtrevellick/MiscellaneousArtefacts/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/MiscellaneousArtefacts&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts/badge)](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/issues)
@@ -1849,7 +1906,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/MiscellaneousArtefacts/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1863,7 +1920,10 @@ expand/collapse
 
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e7801c84e3d645859e668f1b6bd7af05)](https://www.codacy.com/project/gtrevellick/More/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/More&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/More/badge)](https://www.codefactor.io/repository/github/GregTrevellick/More)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More/issues)
@@ -1888,7 +1948,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/More/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1904,6 +1964,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e9691ea13c68406c9a77447c243cbddb)](https://www.codacy.com/project/gtrevellick/OpenCoverExample/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/OpenCoverExample&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-opencoverexample-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/OpenCoverExample/badge)](https://www.codefactor.io/repository/github/GregTrevellick/OpenCoverExample)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/OpenCoverExample.svg)](https://github.com/GregTrevellick/OpenCoverExample)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/OpenCoverExample.svg)](https://github.com/GregTrevellick/OpenCoverExample)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/OpenCoverExample.svg)](https://github.com/GregTrevellick/OpenCoverExample/issues)
@@ -1921,13 +1983,14 @@ expand/collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=OpenCoverExample&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=OpenCoverExample&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/eiso821168e15t9e?svg=true)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/OpenCoverExample.svg)](https://ci.appveyor.com/project/GregTrevellick/OpenCoverExample/build/tests)
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/OpenCoverExample/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -1969,11 +2032,14 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/OpenInApp.Launcher/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInAltovaXmlSpy-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAltovaXmlSpy)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInAltovaXmlSpy.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAltovaXmlSpy)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInAltovaXmlSpy.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAltovaXmlSpy)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInAltovaXmlSpy.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAltovaXmlSpy)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenInAndroidStudio-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAndroidStudio)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenInAndroidStudio.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAndroidStudio)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OpenInAndroidStudio.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInAndroidStudio)
@@ -2125,7 +2191,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/QuickLaunchButtons?branch=master)](https://bettercodehub.com/results/GregTrevellick/QuickLaunchButtons)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/def29563a15940cda03af19faac0e006)](https://www.codacy.com/project/gtrevellick/QuickLaunchButtons/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/QuickLaunchButtons&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/QuickLaunchButtons/badge)](https://www.codefactor.io/repository/github/GregTrevellick/QuickLaunchButtons)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/QuickLaunchButtons.svg)](https://github.com/GregTrevellick/QuickLaunchButtons)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/QuickLaunchButtons.svg)](https://github.com/GregTrevellick/QuickLaunchButtons)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/QuickLaunchButtons.svg)](https://github.com/GregTrevellick/QuickLaunchButtons/issues)
@@ -2150,7 +2219,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/QuickLaunchButtons/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OpenFiddler-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenFiddler)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OpenFiddler.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenFiddler)
@@ -2177,7 +2246,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/Quiz.Launcher?branch=master)](https://bettercodehub.com/results/GregTrevellick/Quiz.Launcher)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b1a2d4b9fd774d64ae56a8ffdd80b978)](https://www.codacy.com/project/gtrevellick/Quiz.Launcher/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/Quiz.Launcher&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Quiz.Launcher)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher/issues)
@@ -2202,7 +2274,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/Quiz.Launcher/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-MusicQuiz-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.MusicQuiz)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.MusicQuiz.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.MusicQuiz)
@@ -2251,7 +2323,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/ReadMeSynchronizer/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -2267,6 +2339,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cf9d3266e9654def87d38c44300935c5)](https://www.codacy.com/project/gtrevellick/RenameProjectVsExtension/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/RenameProjectVsExtension&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-renameprojectvsextension-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/RenameProjectVsExtension/badge)](https://www.codefactor.io/repository/github/GregTrevellick/RenameProjectVsExtension)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/RenameProjectVsExtension.svg)](https://github.com/GregTrevellick/RenameProjectVsExtension)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/RenameProjectVsExtension.svg)](https://github.com/GregTrevellick/RenameProjectVsExtension)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/RenameProjectVsExtension.svg)](https://github.com/GregTrevellick/RenameProjectVsExtension/issues)
@@ -2291,7 +2365,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/RenameProjectVsExtension/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -2305,7 +2379,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/SolutionOpenPopUp?branch=master)](https://bettercodehub.com/results/GregTrevellick/SolutionOpenPopUp)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23dfefe3b5014fd8b8462b47a3f38c1c)](https://www.codacy.com/project/gtrevellick/SolutionOpenPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/SolutionOpenPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/SolutionOpenPopUp.svg)](https://github.com/GregTrevellick/SolutionOpenPopUp)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/SolutionOpenPopUp.svg)](https://github.com/GregTrevellick/SolutionOpenPopUp)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/SolutionOpenPopUp.svg)](https://github.com/GregTrevellick/SolutionOpenPopUp/issues)
@@ -2330,7 +2407,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/SolutionOpenPopUp/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-SolutionOpenPopUp-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.SolutionOpenPopUp)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.SolutionOpenPopUp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.SolutionOpenPopUp)
@@ -2351,7 +2428,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/TrivialApisForIDE?branch=master)](https://bettercodehub.com/results/GregTrevellick/TrivialApisForIDE)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/035ab76ee20d45c886d72be824507ab5)](https://www.codacy.com/project/gtrevellick/TrivialApisForIDE/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/TrivialApisForIDE&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE/badge)](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/TrivialApisForIDE.svg)](https://github.com/GregTrevellick/TrivialApisForIDE)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/TrivialApisForIDE.svg)](https://github.com/GregTrevellick/TrivialApisForIDE)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/TrivialApisForIDE.svg)](https://github.com/GregTrevellick/TrivialApisForIDE/issues)
@@ -2376,7 +2456,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/TrivialApisForIDE/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-DrainTheSwamp-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.DrainTheSwamp)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.DrainTheSwamp.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.DrainTheSwamp)
@@ -2437,7 +2517,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/VisualStudioMarketplaceMetrics/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 [![Chrome webstore version](https://img.shields.io/chrome-web-store/v/fifncokofckhanlhmdacdnkbempmopbo.svg)](https://chrome.google.com/webstore/detail/visual-studio-marketplace/fifncokofckhanlhmdacdnkbempmopbo)
 [![Chrome webstore users](https://img.shields.io/chrome-web-store/users/fifncokofckhanlhmdacdnkbempmopbo.svg)](https://chrome.google.com/webstore/detail/visual-studio-marketplace/fifncokofckhanlhmdacdnkbempmopbo)
 [![Chrome webstore rating](https://img.shields.io/chrome-web-store/rating/fifncokofckhanlhmdacdnkbempmopbo.svg)](https://chrome.google.com/webstore/detail/visual-studio-marketplace/fifncokofckhanlhmdacdnkbempmopbo/reviews)
@@ -2454,6 +2534,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixBlazorMinimalProjectTemplate?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixBlazorMinimalProjectTemplate)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/40dfe21f31da4c15b679bb586776a9b3)](https://www.codacy.com/project/gtrevellick/VsixBlazorMinimalProjectTemplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixBlazorMinimalProjectTemplate&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixBlazorMinimalProjectTemplate/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixBlazorMinimalProjectTemplate)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/context:javascript)
@@ -2481,11 +2562,13 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/VsixBlazorMinimalProjectTemplate/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-BlazorMinimalProjectTemplate-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorMinimalProjectTemplate)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.BlazorMinimalProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorMinimalProjectTemplate)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.BlazorMinimalProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorMinimalProjectTemplate)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.BlazorMinimalProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorMinimalProjectTemplate)
+
 
 
 
@@ -2500,6 +2583,9 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixDotNetCorePoc?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixDotNetCorePoc)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e2fa50e29fea429897c304c79e9d9479)](https://www.codacy.com/project/gtrevellick/VsixDotNetCorePoc/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixDotNetCorePoc&amp;utm_campaign=Badge_Grade_Dashboard)
+
+
+
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixDotNetCorePoc.svg)](https://github.com/GregTrevellick/VsixDotNetCorePoc)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixDotNetCorePoc.svg)](https://github.com/GregTrevellick/VsixDotNetCorePoc)
@@ -2525,7 +2611,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/VsixDotNetCorePoc/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 
 </details>
@@ -2539,7 +2625,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixFootball?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixFootball)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7e6f7c8bd4d240398affcd2202b84fd8)](https://www.codacy.com/project/gtrevellick/VsixFootball/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootball&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootball)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball/issues)
@@ -2564,7 +2653,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/VsixFootball/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-Football-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.Football.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.Football)
@@ -2587,6 +2676,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/55911452f4154dd9a5599bd6fae3c725)](https://www.codacy.com/project/gtrevellick/VsixFootie/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixFootie&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixfootie-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixFootie)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixFootie.svg)](https://github.com/GregTrevellick/VsixFootie/issues)
@@ -2611,7 +2702,8 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/VsixFootie/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-VSSportsDesk-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VSSportsDesk.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VSSportsDesk.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VSSportsDesk)
@@ -2659,11 +2751,14 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/VsixNewYeomanProject/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-NewYeomanProject-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.NewYeomanProject)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.NewYeomanProject.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.NewYeomanProject)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.NewYeomanProject.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.NewYeomanProject)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.NewYeomanProject.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.NewYeomanProject)
+
+
 
 
 </details>
@@ -2677,7 +2772,10 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixRatingChaser?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixRatingChaser)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/688c1d5a2ec547faa61230471639cb8f)](https://www.codacy.com/project/gtrevellick/VsixRatingChaser/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixRatingChaser&amp;utm_campaign=Badge_Grade_Dashboard)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixRatingChaser)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser/issues)
@@ -2702,7 +2800,7 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/VsixRatingChaser/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
 [![Nuget downloads](https://img.shields.io/nuget/dt/VsixRatingChaser.svg)](https://www.nuget.org/packages/VsixRatingChaser/)
 
 
@@ -2745,11 +2843,14 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/VsixTwitterWidget/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@azure-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azure)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-azure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azure)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-azure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azure#review-details)
 [![Visual Studio Marketplace version](https://img.shields.io/vscode-marketplace/v/GregTrevellick.vsts-extensions-tweets-azure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azure)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-@azuredevops-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azuredevops)
 [![Visual Studio Marketplace downloads](https://img.shields.io/vscode-marketplace/d/GregTrevellick.vsts-extensions-tweets-azuredevops.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azuredevops)
 [![Visual Studio Marketplace ratings](https://img.shields.io/vscode-marketplace/r/GregTrevellick.vsts-extensions-tweets-azuredevops.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.vsts-extensions-tweets-azuredevops#review-details)
@@ -2923,11 +3024,14 @@ expand/collapse
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/VsixYeomanTemplates/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixAngularBasic-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixAngularBasic)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixAngularBasic.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixAngularBasic)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixAngularBasic.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixAngularBasic)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixAngularBasic.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixAngularBasic)
+
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-OmniSharpAspNet-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OmniSharpAspNet)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.OmniSharpAspNet.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OmniSharpAspNet)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.OmniSharpAspNet.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OmniSharpAspNet)
@@ -2968,17 +3072,20 @@ expand/collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VstsDashboardWidgetProjectTemplate&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VstsDashboardWidgetProjectTemplate&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9uoctpmaj9wj6gjc?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://ci.appveyor.com/project/GregTrevellick/VstsDashboardWidgetProjectTemplate/build/tests)
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-[Subscribe](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate/subscription) to receive notificatons.
+[![Subscribe](https://img.shields.io/badge/Subscribe-black.svg)](https://github.com/${this.myUserName}/${localRepoName}/subscription)
+
 [![Visual Studio Marketplace version](https://img.shields.io/badge/-VstsDashboardWidgetProjectTemplate-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VstsDashboardWidgetProjectTemplate)
 [![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VstsDashboardWidgetProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VstsDashboardWidgetProjectTemplate)
 [![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VstsDashboardWidgetProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VstsDashboardWidgetProjectTemplate)
 [![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VstsDashboardWidgetProjectTemplate.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VstsDashboardWidgetProjectTemplate)
+
 
 
 
