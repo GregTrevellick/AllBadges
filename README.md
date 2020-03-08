@@ -102,8 +102,6 @@ expand/collapse
 
 
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/AutoFindReplace/_apis/build/status/AutoFindReplace)](https://gregtrevellick.visualstudio.com/AutoFindReplace/_build/latest?definitionId=4)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsAgileManifestoWidget/_apis/build/status/AzureDevOpsAgileManifestoWidget)](https://gregtrevellick.visualstudio.com/AzureDevOpsAgileManifestoWidget/_build/latest?definitionId=10)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsBlazorRadiator/_apis/build/status/AzureDevOpsBlazorRadiator)](https://gregtrevellick.visualstudio.com/AzureDevOpsBlazorRadiator/_build/latest?definitionId=10)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/CleanArchitecture/_apis/build/status/CleanArchitecture)](https://gregtrevellick.visualstudio.com/CleanArchitecture/_build/latest?definitionId=41)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/DotNetFlags/_apis/build/status/DotNetFlags)](https://gregtrevellick.visualstudio.com/DotNetFlags/_build/latest?definitionId=1)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_apis/build/status/FilesForEveryExtensionCreator)](https://gregtrevellick.visualstudio.com/FilesForEveryExtensionCreator/_build/latest?definitionId=2)
@@ -129,10 +127,8 @@ expand/collapse
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixDotNetCorePoc/_apis/build/status/VsixDotNetCorePoc)](https://gregtrevellick.visualstudio.com/VsixDotNetCorePoc/_build/latest?definitionId=31)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootball/_apis/build/status/VsixFootball)](https://gregtrevellick.visualstudio.com/VsixFootball/_build/latest?definitionId=3)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixFootie/_apis/build/status/VsixFootie)](https://gregtrevellick.visualstudio.com/VsixFootie/_build/latest?definitionId=19)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixNewYeomanProject/_apis/build/status/VsixNewYeomanProject)](https://gregtrevellick.visualstudio.com/VsixNewYeomanProject/_build/latest?definitionId=17)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_apis/build/status/VsixRatingChaser)](https://gregtrevellick.visualstudio.com/VsixRatingChaser/_build/latest?definitionId=30)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_apis/build/status/VsixTwitterWidget)](https://gregtrevellick.visualstudio.com/VsixTwitterWidget/_build/latest?definitionId=29)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixYeomanTemplates/_apis/build/status/VsixYeomanTemplates)](https://gregtrevellick.visualstudio.com/VsixYeomanTemplates/_build/latest?definitionId=10)
 
 </details>
 
@@ -1163,7 +1159,7 @@ expand/collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AzureDevOpsAgileManifestoWidget&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=AzureDevOpsAgileManifestoWidget&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/duvijp0qiget07i1?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsAgileManifestoWidget)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsAgileManifestoWidget/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsAgileManifestoWidget/_apis/build/status/AzureDevOpsAgileManifestoWidget)](https://gregtrevellick.visualstudio.com/AzureDevOpsAgileManifestoWidget/_build/latest?definitionId=10)
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -1212,7 +1208,7 @@ expand/collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=GregTrevellick_AzureDevOpsBlazorRadiator&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=GregTrevellick_AzureDevOpsBlazorRadiator&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/108odcop2p0k0n8n?svg=true)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsBlazorRadiator)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/AzureDevOpsBlazorRadiator.svg)](https://ci.appveyor.com/project/GregTrevellick/AzureDevOpsBlazorRadiator/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/AzureDevOpsBlazorRadiator/_apis/build/status/AzureDevOpsBlazorRadiator)](https://gregtrevellick.visualstudio.com/AzureDevOpsBlazorRadiator/_build/latest?definitionId=10)
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -2744,7 +2740,7 @@ expand/collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixNewYeomanProject&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixNewYeomanProject&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/awv70p92uu0u84k9?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixNewYeomanProject)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixNewYeomanProject.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixNewYeomanProject/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixNewYeomanProject/_apis/build/status/VsixNewYeomanProject)](https://gregtrevellick.visualstudio.com/VsixNewYeomanProject/_build/latest?definitionId=17)
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
@@ -3017,7 +3013,7 @@ expand/collapse
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=VsixYeomanTemplates&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=VsixYeomanTemplates&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/am8i6aama94x7yma?svg=true)](https://ci.appveyor.com/project/GregTrevellick/VsixYeomanTemplates)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/VsixYeomanTemplates.svg)](https://ci.appveyor.com/project/GregTrevellick/VsixYeomanTemplates/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/VsixYeomanTemplates/_apis/build/status/VsixYeomanTemplates)](https://gregtrevellick.visualstudio.com/VsixYeomanTemplates/_build/latest?definitionId=10)
+
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
