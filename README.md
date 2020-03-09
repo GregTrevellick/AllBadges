@@ -211,15 +211,15 @@ expand/collapse
 
 [![CodeBeat](https://codebeat.co/badges/ec536ac2-8a8a-421f-9d4d-5125cf9a05c9)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsagilemanifestowidget-master)
 [![CodeBeat](https://codebeat.co/badges/815a0200-48fd-4fd8-889a-00556324d65b)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsblazorradiator-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-cleanarchitecture-master)
+[![CodeBeat](https://codebeat.co/badges/ddc70e2d-c6aa-41ed-841e-1555968bc405)](https://codebeat.co/projects/github-com-gregtrevellick-cleanarchitecture-master)
 [![CodeBeat](https://codebeat.co/badges/ee23d8b7-a3da-4a34-979f-426913611b02)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptparcel-master)
 [![CodeBeat](https://codebeat.co/badges/f674a762-16d9-40ac-ad05-2878371b854a)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptwebpack-master)
 [![CodeBeat](https://codebeat.co/badges/a7581535-50d9-476a-935d-d64dee54e5c0)](https://codebeat.co/projects/github-com-gregtrevellick-openinapp.launcher-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-readmesynchronizer-master)
+[![CodeBeat](https://codebeat.co/badges/2c801446-eda5-42a7-a473-eaab81088c59)](https://codebeat.co/projects/github-com-gregtrevellick-readmesynchronizer-master)
 [![CodeBeat](https://codebeat.co/badges/473ea34e-b1c4-42fe-a8df-1d7d6e587d50)](https://codebeat.co/projects/github-com-gregtrevellick-visualstudiomarketplacemetrics-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixnewyeomanproject-master)
+[![CodeBeat](https://codebeat.co/badges/4bbf1a94-7042-42b0-9440-ec108cc28cbc)](https://codebeat.co/projects/github-com-gregtrevellick-vsixnewyeomanproject-master)
 [![CodeBeat](https://codebeat.co/badges/79109628-46aa-4106-9c65-9ffe44b7e942)](https://codebeat.co/projects/github-com-gregtrevellick-vsixtwitterwidget-master)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixyeomantemplates-master)
+[![CodeBeat](https://codebeat.co/badges/9a6e3cef-dfe7-49ea-998c-0d30ddc5088f)](https://codebeat.co/projects/github-com-gregtrevellick-vsixyeomantemplates-master)
 [![CodeBeat](https://codebeat.co/badges/0b3ae36f-f194-4c03-890d-8ccda5daf299)](https://codebeat.co/projects/github-com-gregtrevellick-vstsdashboardwidgetprojecttemplate-master)
 
 </details>
