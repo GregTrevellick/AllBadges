@@ -211,7 +211,6 @@ expand/collapse
 
 [![CodeBeat](https://codebeat.co/badges/ec536ac2-8a8a-421f-9d4d-5125cf9a05c9)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsagilemanifestowidget-master)
 [![CodeBeat](https://codebeat.co/badges/815a0200-48fd-4fd8-889a-00556324d65b)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsblazorradiator-master)
-[![CodeBeat](https://codebeat.co/badges/ddc70e2d-c6aa-41ed-841e-1555968bc405)](https://codebeat.co/projects/github-com-gregtrevellick-cleanarchitecture-master)
 [![CodeBeat](https://codebeat.co/badges/ee23d8b7-a3da-4a34-979f-426913611b02)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptparcel-master)
 [![CodeBeat](https://codebeat.co/badges/f674a762-16d9-40ac-ad05-2878371b854a)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptwebpack-master)
 [![CodeBeat](https://codebeat.co/badges/a7581535-50d9-476a-935d-d64dee54e5c0)](https://codebeat.co/projects/github-com-gregtrevellick-openinapp.launcher-master)
@@ -1027,7 +1026,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/CleanArchitecture?branch=master)](https://bettercodehub.com/results/GregTrevellick/CleanArchitecture)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b74ee0e8da64daf94199f8a7f2fcf12)](https://www.codacy.com/project/gtrevellick/CleanArchitecture/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/CleanArchitecture&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-cleanarchitecture-master)
+<!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture/badge)](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/context:javascript)
