@@ -216,9 +216,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/a7581535-50d9-476a-935d-d64dee54e5c0)](https://codebeat.co/projects/github-com-gregtrevellick-openinapp.launcher-master)
 [![CodeBeat](https://codebeat.co/badges/2c801446-eda5-42a7-a473-eaab81088c59)](https://codebeat.co/projects/github-com-gregtrevellick-readmesynchronizer-master)
 [![CodeBeat](https://codebeat.co/badges/473ea34e-b1c4-42fe-a8df-1d7d6e587d50)](https://codebeat.co/projects/github-com-gregtrevellick-visualstudiomarketplacemetrics-master)
-[![CodeBeat](https://codebeat.co/badges/4bbf1a94-7042-42b0-9440-ec108cc28cbc)](https://codebeat.co/projects/github-com-gregtrevellick-vsixnewyeomanproject-master)
 [![CodeBeat](https://codebeat.co/badges/79109628-46aa-4106-9c65-9ffe44b7e942)](https://codebeat.co/projects/github-com-gregtrevellick-vsixtwitterwidget-master)
-[![CodeBeat](https://codebeat.co/badges/9a6e3cef-dfe7-49ea-998c-0d30ddc5088f)](https://codebeat.co/projects/github-com-gregtrevellick-vsixyeomantemplates-master)
 [![CodeBeat](https://codebeat.co/badges/0b3ae36f-f194-4c03-890d-8ccda5daf299)](https://codebeat.co/projects/github-com-gregtrevellick-vstsdashboardwidgetprojecttemplate-master)
 
 </details>
@@ -2208,7 +2206,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixNewYeomanProject?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixNewYeomanProject)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b7496ea552ed4856b6875d1412dbe48f)](https://www.codacy.com/project/gtrevellick/VsixNewYeomanProject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixNewYeomanProject&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixnewyeomanproject-master)
+<!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixNewYeomanProject/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixNewYeomanProject)
 <!-- no md -->
 <!-- no md -->
@@ -2481,7 +2479,7 @@ expand/collapse
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/VsixYeomanTemplates?branch=master)](https://bettercodehub.com/results/GregTrevellick/VsixYeomanTemplates)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e61c4dba8261497fb447379730e97a25)](https://www.codacy.com/project/gtrevellick/VsixYeomanTemplates/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixYeomanTemplates&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixyeomantemplates-master)
+<!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixYeomanTemplates/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixYeomanTemplates)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixYeomanTemplates.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixYeomanTemplates/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixYeomanTemplates.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixYeomanTemplates/context:javascript)
