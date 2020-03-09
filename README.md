@@ -368,7 +368,6 @@ expand/collapse
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/ReadMeSynchronizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/ReadMeSynchronizer/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/alerts/)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixNewYeomanProject.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixNewYeomanProject/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixTwitterWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixTwitterWidget/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixYeomanTemplates.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixYeomanTemplates/alerts/)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VstsDashboardWidgetProjectTemplate/alerts/)
@@ -393,7 +392,6 @@ expand/collapse
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/ReadMeSynchronizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/ReadMeSynchronizer/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/context:javascript)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixNewYeomanProject.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixNewYeomanProject/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixTwitterWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixTwitterWidget/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixYeomanTemplates.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixYeomanTemplates/context:javascript)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VstsDashboardWidgetProjectTemplate/context:javascript)
@@ -2213,8 +2211,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b7496ea552ed4856b6875d1412dbe48f)](https://www.codacy.com/project/gtrevellick/VsixNewYeomanProject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixNewYeomanProject&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixnewyeomanproject-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixNewYeomanProject/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixNewYeomanProject)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixNewYeomanProject.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixNewYeomanProject/alerts/)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixNewYeomanProject.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixNewYeomanProject/context:javascript)
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixNewYeomanProject.svg)](https://github.com/GregTrevellick/VsixNewYeomanProject)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixNewYeomanProject.svg)](https://github.com/GregTrevellick/VsixNewYeomanProject)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixNewYeomanProject.svg)](https://github.com/GregTrevellick/VsixNewYeomanProject/issues)
