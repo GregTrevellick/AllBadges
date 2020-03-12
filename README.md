@@ -285,6 +285,48 @@ expand/collapse
 </details>
 
 
+##### CodeSceneGeneral
+<details open>
+<summary>
+expand/collapse
+</summary>
+
+
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/7065)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/7067)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/4316)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/7068)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+
+</details>
+
+
+##### CodeSceneSystemMastery
+<details open>
+<summary>
+expand/collapse
+</summary>
+
+
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
+[![CodeScene System Mastery](https://codescene.io/projects/7065/status-badges/system-mastery)](https://codescene.io/projects/7065)
+[![CodeScene System Mastery](https://codescene.io/projects/7067/status-badges/system-mastery)](https://codescene.io/projects/7067)
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
+[![CodeScene System Mastery](https://codescene.io/projects/4316/status-badges/system-mastery)](https://codescene.io/projects/4316)
+[![CodeScene System Mastery](https://codescene.io/projects/7068/status-badges/system-mastery)](https://codescene.io/projects/7068)
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
+
+</details>
+
+
 ##### GitHubIssues
 <details open>
 <summary>
@@ -863,6 +905,8 @@ expand/collapse
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AllBadges)
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AllBadges.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AllBadges/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AllBadges.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AllBadges/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AllBadges.svg)](https://github.com/GregTrevellick/AllBadges)
@@ -901,6 +945,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0cb8a23f42c4859aeb5c653b1a3d2b6)](https://www.codacy.com/project/gtrevellick/AutoFindReplace/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/AutoFindReplace&amp;utm_campaign=Badge_Grade_Dashboard)
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AutoFindReplace)
+<!-- no md -->
+<!-- no md -->
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
@@ -952,6 +998,8 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsagilemanifestowidget-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsAgileManifestoWidget/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsAgileManifestoWidget)
 [![CodeScene Code Health](https://codescene.io/projects/undefined/status-badges/code-health)](https://codescene.io/projects/undefined)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsAgileManifestoWidget/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsAgileManifestoWidget/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AzureDevOpsAgileManifestoWidget.svg)](https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget)
@@ -1002,6 +1050,8 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsblazorradiator-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsBlazorRadiator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsBlazorRadiator)
 [![CodeScene Code Health](https://codescene.io/projects/7065/status-badges/code-health)](https://codescene.io/projects/7065)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/7065)
+[![CodeScene System Mastery](https://codescene.io/projects/7065/status-badges/system-mastery)](https://codescene.io/projects/7065)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsBlazorRadiator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsBlazorRadiator/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsBlazorRadiator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsBlazorRadiator/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/AzureDevOpsBlazorRadiator.svg)](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator)
@@ -1052,6 +1102,8 @@ expand/collapse
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture/badge)](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture)
 [![CodeScene Code Health](https://codescene.io/projects/7067/status-badges/code-health)](https://codescene.io/projects/7067)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/7067)
+[![CodeScene System Mastery](https://codescene.io/projects/7067/status-badges/system-mastery)](https://codescene.io/projects/7067)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture)
@@ -1104,6 +1156,8 @@ expand/collapse
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/DotNetFlags.svg)](https://github.com/GregTrevellick/DotNetFlags/issues)
@@ -1145,6 +1199,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/35560f38029b47258343156a1866f349)](https://www.codacy.com/project/gtrevellick/FilesForEveryExtensionCreator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/FilesForEveryExtensionCreator&amp;utm_campaign=Badge_Grade_Dashboard)
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/FilesForEveryExtensionCreator)
+<!-- no md -->
+<!-- no md -->
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
@@ -1191,6 +1247,8 @@ expand/collapse
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/issues)
@@ -1232,6 +1290,8 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptparcel-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel)
 [![CodeScene Code Health](https://codescene.io/projects/undefined/status-badges/code-health)](https://codescene.io/projects/undefined)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
 <!-- no md -->
 <!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
@@ -1275,6 +1335,8 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptwebpack-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptWebpack/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptWebpack)
 [![CodeScene Code Health](https://codescene.io/projects/undefined/status-badges/code-health)](https://codescene.io/projects/undefined)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldTypescriptWebpack.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldTypescriptWebpack/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldTypescriptWebpack.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldTypescriptWebpack/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldTypescriptWebpack.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptWebpack)
@@ -1317,6 +1379,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bd4afcff4a544c8bd64757f0c3a1e5a)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixCommandButton/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixCommandButton&amp;utm_campaign=Badge_Grade_Dashboard)
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton)
+<!-- no md -->
+<!-- no md -->
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
@@ -1363,6 +1427,8 @@ expand/collapse
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixPopUp.svg)](https://github.com/GregTrevellick/HelloWorldVsixPopUp/issues)
@@ -1403,6 +1469,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b397d57fb66841b0a4f67e9718840281)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixToolBar/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixToolBar&amp;utm_campaign=Badge_Grade_Dashboard)
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixToolBar)
+<!-- no md -->
+<!-- no md -->
 <!-- no md -->
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVsixToolBar.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVsixToolBar/context:javascript)
@@ -1449,6 +1517,8 @@ expand/collapse
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample.svg)](https://github.com/GregTrevellick/HelloWorldVsixToolWindowAsyncPackageExample/issues)
@@ -1489,6 +1559,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c49e26432e541c5861195ed4a425ac8)](https://www.codacy.com/project/gtrevellick/HelloWorldVstsExtension/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVstsExtension&amp;utm_campaign=Badge_Grade_Dashboard)
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension)
+<!-- no md -->
+<!-- no md -->
 <!-- no md -->
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/context:javascript)
@@ -1535,6 +1607,8 @@ expand/collapse
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample.svg)](https://github.com/GregTrevellick/HelloWorldWpfAsyncBindingPropertyExample/issues)
@@ -1575,6 +1649,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bf237f7393d4c9ea544206278ff51a8)](https://www.codacy.com/project/gtrevellick/MiscellaneousArtefacts/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/MiscellaneousArtefacts&amp;utm_campaign=Badge_Grade_Dashboard)
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts/badge)](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts)
+<!-- no md -->
+<!-- no md -->
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
@@ -1621,6 +1697,8 @@ expand/collapse
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More/issues)
@@ -1662,6 +1740,8 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-openinapp.launcher-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/OpenInApp.Launcher/badge)](https://www.codefactor.io/repository/github/GregTrevellick/OpenInApp.Launcher)
 [![CodeScene Code Health](https://codescene.io/projects/undefined/status-badges/code-health)](https://codescene.io/projects/undefined)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/OpenInApp.Launcher.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/OpenInApp.Launcher/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/OpenInApp.Launcher.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/OpenInApp.Launcher/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/OpenInApp.Launcher.svg)](https://github.com/GregTrevellick/OpenInApp.Launcher)
@@ -1864,6 +1944,8 @@ expand/collapse
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/QuickLaunchButtons.svg)](https://github.com/GregTrevellick/QuickLaunchButtons)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/QuickLaunchButtons.svg)](https://github.com/GregTrevellick/QuickLaunchButtons)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/QuickLaunchButtons.svg)](https://github.com/GregTrevellick/QuickLaunchButtons/issues)
@@ -1920,6 +2002,8 @@ expand/collapse
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Quiz.Launcher.svg)](https://github.com/GregTrevellick/Quiz.Launcher/issues)
@@ -1968,6 +2052,8 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-readmesynchronizer-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer/badge)](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer)
 [![CodeScene Code Health](https://codescene.io/projects/4316/status-badges/code-health)](https://codescene.io/projects/4316)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/4316)
+[![CodeScene System Mastery](https://codescene.io/projects/4316/status-badges/system-mastery)](https://codescene.io/projects/4316)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/ReadMeSynchronizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/ReadMeSynchronizer/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/ReadMeSynchronizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/ReadMeSynchronizer/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/ReadMeSynchronizer.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
@@ -2010,6 +2096,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/23dfefe3b5014fd8b8462b47a3f38c1c)](https://www.codacy.com/project/gtrevellick/SolutionOpenPopUp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/SolutionOpenPopUp&amp;utm_campaign=Badge_Grade_Dashboard)
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp/badge)](https://www.codefactor.io/repository/github/GregTrevellick/SolutionOpenPopUp)
+<!-- no md -->
+<!-- no md -->
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
@@ -2060,6 +2148,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/035ab76ee20d45c886d72be824507ab5)](https://www.codacy.com/project/gtrevellick/TrivialApisForIDE/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/TrivialApisForIDE&amp;utm_campaign=Badge_Grade_Dashboard)
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE/badge)](https://www.codefactor.io/repository/github/GregTrevellick/TrivialApisForIDE)
+<!-- no md -->
+<!-- no md -->
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
@@ -2123,6 +2213,8 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-visualstudiomarketplacemetrics-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VisualStudioMarketplaceMetrics/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VisualStudioMarketplaceMetrics)
 [![CodeScene Code Health](https://codescene.io/projects/7068/status-badges/code-health)](https://codescene.io/projects/7068)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/7068)
+[![CodeScene System Mastery](https://codescene.io/projects/7068/status-badges/system-mastery)](https://codescene.io/projects/7068)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VisualStudioMarketplaceMetrics.svg)](https://github.com/GregTrevellick/VisualStudioMarketplaceMetrics)
@@ -2168,6 +2260,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/40dfe21f31da4c15b679bb586776a9b3)](https://www.codacy.com/project/gtrevellick/VsixBlazorMinimalProjectTemplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixBlazorMinimalProjectTemplate&amp;utm_campaign=Badge_Grade_Dashboard)
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixBlazorMinimalProjectTemplate/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixBlazorMinimalProjectTemplate)
+<!-- no md -->
+<!-- no md -->
 <!-- no md -->
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixBlazorMinimalProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixBlazorMinimalProjectTemplate/context:javascript)
@@ -2221,6 +2315,8 @@ expand/collapse
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixFootball.svg)](https://github.com/GregTrevellick/VsixFootball/issues)
@@ -2268,6 +2364,8 @@ expand/collapse
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b7496ea552ed4856b6875d1412dbe48f)](https://www.codacy.com/project/gtrevellick/VsixNewYeomanProject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/VsixNewYeomanProject&amp;utm_campaign=Badge_Grade_Dashboard)
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixNewYeomanProject/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixNewYeomanProject)
+<!-- no md -->
+<!-- no md -->
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
@@ -2321,6 +2419,8 @@ expand/collapse
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/VsixRatingChaser.svg)](https://github.com/GregTrevellick/VsixRatingChaser/issues)
@@ -2363,6 +2463,8 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vsixtwitterwidget-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixTwitterWidget/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixTwitterWidget)
 [![CodeScene Code Health](https://codescene.io/projects/undefined/status-badges/code-health)](https://codescene.io/projects/undefined)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixTwitterWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixTwitterWidget/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixTwitterWidget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixTwitterWidget/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixTwitterWidget.svg)](https://github.com/GregTrevellick/VsixTwitterWidget)
@@ -2545,6 +2647,8 @@ expand/collapse
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VsixYeomanTemplates/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VsixYeomanTemplates)
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VsixYeomanTemplates.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixYeomanTemplates/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VsixYeomanTemplates.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VsixYeomanTemplates/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VsixYeomanTemplates.svg)](https://github.com/GregTrevellick/VsixYeomanTemplates)
@@ -2601,6 +2705,8 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-vstsdashboardwidgetprojecttemplate-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VstsDashboardWidgetProjectTemplate)
 [![CodeScene Code Health](https://codescene.io/projects/undefined/status-badges/code-health)](https://codescene.io/projects/undefined)
+[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/undefined)
+[![CodeScene System Mastery](https://codescene.io/projects/undefined/status-badges/system-mastery)](https://codescene.io/projects/undefined)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VstsDashboardWidgetProjectTemplate/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VstsDashboardWidgetProjectTemplate/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/VstsDashboardWidgetProjectTemplate.svg)](https://github.com/GregTrevellick/VstsDashboardWidgetProjectTemplate)
