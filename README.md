@@ -286,10 +286,10 @@ expand/collapse
 </summary>
 
 
-[![](https://codescene.io/projects/7065/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/7065/jobs/latest-successful/results)
-[![](https://codescene.io/projects/7067/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/7067/jobs/latest-successful/results)
-[![](https://codescene.io/projects/4316/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/4316/jobs/latest-successful/results)
-[![](https://codescene.io/projects/7068/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/7068/jobs/latest-successful/results)
+[![](https://codescene.io/projects/7065/status.svg)](https://codescene.io/projects/7065/jobs/latest-successful/results)
+[![](https://codescene.io/projects/7067/status.svg)](https://codescene.io/projects/7067/jobs/latest-successful/results)
+[![](https://codescene.io/projects/4316/status.svg)](https://codescene.io/projects/4316/jobs/latest-successful/results)
+[![](https://codescene.io/projects/7068/status.svg)](https://codescene.io/projects/7068/jobs/latest-successful/results)
 
 </details>
 
@@ -1032,7 +1032,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-azuredevopsblazorradiator-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsBlazorRadiator/badge)](https://www.codefactor.io/repository/github/GregTrevellick/AzureDevOpsBlazorRadiator)
 [![CodeScene Code Health](https://codescene.io/projects/7065/status-badges/code-health)](https://codescene.io/projects/7065)
-[![](https://codescene.io/projects/7065/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/7065/jobs/latest-successful/results)
+[![](https://codescene.io/projects/7065/status.svg)](https://codescene.io/projects/7065/jobs/latest-successful/results)
 [![CodeScene System Mastery](https://codescene.io/projects/7065/status-badges/system-mastery)](https://codescene.io/projects/7065)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/AzureDevOpsBlazorRadiator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsBlazorRadiator/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/AzureDevOpsBlazorRadiator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/AzureDevOpsBlazorRadiator/context:javascript)
@@ -1084,7 +1084,7 @@ expand/collapse
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture/badge)](https://www.codefactor.io/repository/github/GregTrevellick/CleanArchitecture)
 [![CodeScene Code Health](https://codescene.io/projects/7067/status-badges/code-health)](https://codescene.io/projects/7067)
-[![](https://codescene.io/projects/7067/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/7067/jobs/latest-successful/results)
+[![](https://codescene.io/projects/7067/status.svg)](https://codescene.io/projects/7067/jobs/latest-successful/results)
 [![CodeScene System Mastery](https://codescene.io/projects/7067/status-badges/system-mastery)](https://codescene.io/projects/7067)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/context:javascript)
@@ -2034,7 +2034,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-readmesynchronizer-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer/badge)](https://www.codefactor.io/repository/github/GregTrevellick/ReadMeSynchronizer)
 [![CodeScene Code Health](https://codescene.io/projects/4316/status-badges/code-health)](https://codescene.io/projects/4316)
-[![](https://codescene.io/projects/4316/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/4316/jobs/latest-successful/results)
+[![](https://codescene.io/projects/4316/status.svg)](https://codescene.io/projects/4316/jobs/latest-successful/results)
 [![CodeScene System Mastery](https://codescene.io/projects/4316/status-badges/system-mastery)](https://codescene.io/projects/4316)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/ReadMeSynchronizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/ReadMeSynchronizer/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/ReadMeSynchronizer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/ReadMeSynchronizer/context:javascript)
@@ -2195,7 +2195,7 @@ expand/collapse
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-visualstudiomarketplacemetrics-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/VisualStudioMarketplaceMetrics/badge)](https://www.codefactor.io/repository/github/GregTrevellick/VisualStudioMarketplaceMetrics)
 [![CodeScene Code Health](https://codescene.io/projects/7068/status-badges/code-health)](https://codescene.io/projects/7068)
-[![](https://codescene.io/projects/7068/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/7068/jobs/latest-successful/results)
+[![](https://codescene.io/projects/7068/status.svg)](https://codescene.io/projects/7068/jobs/latest-successful/results)
 [![CodeScene System Mastery](https://codescene.io/projects/7068/status-badges/system-mastery)](https://codescene.io/projects/7068)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/VisualStudioMarketplaceMetrics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/VisualStudioMarketplaceMetrics/context:javascript)
