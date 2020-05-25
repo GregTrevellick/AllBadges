@@ -2638,10 +2638,10 @@ expand/collapse
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptAgentJob/subscription)
  
-[![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixItemTemplateSqlScriptAgentJob-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptAgentJob)
-[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixItemTemplateSqlScriptAgentJob.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptAgentJob)
-[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixItemTemplateSqlScriptAgentJob.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptAgentJob)
-[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixItemTemplateSqlScriptAgentJob.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptAgentJob)
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-ItemTemplateSqlScriptAgentJob-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptAgentJob)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.ItemTemplateSqlScriptAgentJob.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptAgentJob)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.ItemTemplateSqlScriptAgentJob.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptAgentJob)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.ItemTemplateSqlScriptAgentJob.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptAgentJob)
 
 
 
@@ -2687,10 +2687,10 @@ expand/collapse
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptFunction/subscription)
  
-[![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixItemTemplateSqlScriptFunction-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptFunction)
-[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixItemTemplateSqlScriptFunction.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptFunction)
-[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixItemTemplateSqlScriptFunction.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptFunction)
-[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixItemTemplateSqlScriptFunction.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptFunction)
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-ItemTemplateSqlScriptFunction-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptFunction)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.ItemTemplateSqlScriptFunction.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptFunction)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.ItemTemplateSqlScriptFunction.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptFunction)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.ItemTemplateSqlScriptFunction.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptFunction)
 
 
 
@@ -2736,10 +2736,10 @@ expand/collapse
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptSchema/subscription)
  
-[![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixItemTemplateSqlScriptSchema-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSchema)
-[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSchema)
-[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSchema)
-[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSchema)
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-ItemTemplateSqlScriptSchema-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSchema)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.ItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSchema)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.ItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSchema)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.ItemTemplateSqlScriptSchema.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSchema)
 
 
 
@@ -2785,10 +2785,10 @@ expand/collapse
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptStoredProcedure/subscription)
  
-[![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixItemTemplateSqlScriptStoredProcedure-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure)
-[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure)
-[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure)
-[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptStoredProcedure)
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-ItemTemplateSqlScriptStoredProcedure-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptStoredProcedure)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.ItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptStoredProcedure)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.ItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptStoredProcedure)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.ItemTemplateSqlScriptStoredProcedure.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptStoredProcedure)
 
 
 
@@ -2834,10 +2834,10 @@ expand/collapse
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptSynonym/subscription)
  
-[![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixItemTemplateSqlScriptSynonym-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSynonym)
-[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSynonym)
-[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSynonym)
-[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptSynonym)
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-ItemTemplateSqlScriptSynonym-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSynonym)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.ItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSynonym)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.ItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSynonym)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.ItemTemplateSqlScriptSynonym.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptSynonym)
 
 
 
@@ -2883,10 +2883,10 @@ expand/collapse
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptTable/subscription)
  
-[![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixItemTemplateSqlScriptTable-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptTable)
-[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixItemTemplateSqlScriptTable.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptTable)
-[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixItemTemplateSqlScriptTable.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptTable)
-[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixItemTemplateSqlScriptTable.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptTable)
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-ItemTemplateSqlScriptTable-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptTable)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.ItemTemplateSqlScriptTable.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptTable)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.ItemTemplateSqlScriptTable.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptTable)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.ItemTemplateSqlScriptTable.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptTable)
 
 
 
@@ -2932,10 +2932,10 @@ expand/collapse
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/VsixItemTemplateSqlScriptView/subscription)
  
-[![Visual Studio Marketplace version](https://img.shields.io/badge/-VsixItemTemplateSqlScriptView-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptView)
-[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.VsixItemTemplateSqlScriptView.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptView)
-[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.VsixItemTemplateSqlScriptView.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptView)
-[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.VsixItemTemplateSqlScriptView.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.VsixItemTemplateSqlScriptView)
+[![Visual Studio Marketplace version](https://img.shields.io/badge/-ItemTemplateSqlScriptView-%23e2165e.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptView)
+[![Visual Studio Marketplace downloads](https://vsmarketplacebadge.apphb.com/installs/GregTrevellick.ItemTemplateSqlScriptView.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptView)
+[![Visual Studio Marketplace ratings](https://vsmarketplacebadge.apphb.com/rating/GregTrevellick.ItemTemplateSqlScriptView.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptView)
+[![Visual Studio Marketplace version](https://vsmarketplacebadge.apphb.com/version/GregTrevellick.ItemTemplateSqlScriptView.svg)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.ItemTemplateSqlScriptView)
 
 
 
