@@ -353,10 +353,6 @@ expand/collapse
 
 [![GitHub actions](https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/AzureDevOpsAgileManifestoWidget/actions)
 [![GitHub actions](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/AzureDevOpsBlazorRadiator/actions)
-[![GitHub actions](https://github.com/GregTrevellick/CleanArchitecture/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/CleanArchitecture/actions)
-[![GitHub actions](https://github.com/GregTrevellick/Gregt.sidewafflev2/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/actions)
-[![GitHub actions](https://github.com/GregTrevellick/MiscellaneousArtefacts/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/actions)
-[![GitHub actions](https://github.com/GregTrevellick/More/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/More/actions)
 [![GitHub actions](https://github.com/GregTrevellick/ReadMeSynchronizer/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer/actions)
 
 </details>
@@ -1365,8 +1361,7 @@ expand/collapse
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ardalis/CleanArchitecture.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ardalis/CleanArchitecture/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture)
-[![GitHub actions](https://github.com/GregTrevellick/CleanArchitecture/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/CleanArchitecture/actions)
-[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture/issues)
+ [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture/pulls)
 [![GitHub followers](https://img.shields.io/github/followers/GregTrevellick.svg)](https://github.com/GregTrevellick?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/GregTrevellick/CleanArchitecture.svg)](https://github.com/GregTrevellick/CleanArchitecture)
@@ -1501,8 +1496,7 @@ expand/collapse
  [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2/badge)](https://www.codefactor.io/repository/github/GregTrevellick/Gregt.sidewafflev2)
     [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
-[![GitHub actions](https://github.com/GregTrevellick/Gregt.sidewafflev2/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/actions)
-[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/issues)
+ [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2/pulls)
 [![GitHub followers](https://img.shields.io/github/followers/GregTrevellick.svg)](https://github.com/GregTrevellick?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/GregTrevellick/Gregt.sidewafflev2.svg)](https://github.com/GregTrevellick/Gregt.sidewafflev2)
@@ -1888,8 +1882,7 @@ expand/collapse
  [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts/badge)](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts)
     [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
-[![GitHub actions](https://github.com/GregTrevellick/MiscellaneousArtefacts/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/actions)
-[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/issues)
+ [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/pulls)
 [![GitHub followers](https://img.shields.io/github/followers/GregTrevellick.svg)](https://github.com/GregTrevellick?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
@@ -1916,8 +1909,7 @@ expand/collapse
  [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/More/badge)](https://www.codefactor.io/repository/github/GregTrevellick/More)
     [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More)
-[![GitHub actions](https://github.com/GregTrevellick/More/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/More/actions)
-[![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More/issues)
+ [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More/pulls)
 [![GitHub followers](https://img.shields.io/github/followers/GregTrevellick.svg)](https://github.com/GregTrevellick?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/GregTrevellick/More.svg)](https://github.com/GregTrevellick/More)
@@ -1929,7 +1921,8 @@ expand/collapse
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/More/subscription)
- 
+<!-- no md -->
+
 
 </details>
 
